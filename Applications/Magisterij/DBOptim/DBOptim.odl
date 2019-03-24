@@ -1,0 +1,42 @@
+// DBOptim.odl : type library source for DBOptim.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (DBOptim.tlb).
+
+[ uuid(394B5ED2-F995-4B4D-BC14-C973A3B2088C), version(1.0) ]
+library DBOptim
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CDBOptimDoc
+	
+	[ uuid(E54B71E6-D607-4496-99D2-164B574D6BBD) ]
+	dispinterface IDBOptim
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CDBOptimDoc)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CDBOptimDoc)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CDBOptimDoc
+	
+	[ uuid(7F4E3EE1-46E4-4519-8586-9B89852AB51C) ]
+	coclass Document
+	{
+		[default] dispinterface IDBOptim;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

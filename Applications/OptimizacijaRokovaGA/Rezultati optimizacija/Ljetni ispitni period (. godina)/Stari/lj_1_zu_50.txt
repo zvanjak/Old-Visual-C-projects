@@ -1,0 +1,847 @@
+PONAVLJANJE = 1. put
+
+Postotak mutacije bitova jedinke  = 3
+Postotak mutacije jedinki populacije = 15
+Postotak smišljene poèetne generacije jedinki = 23
+Velièina Populacije = 200
+
+Maksimalni broj studenata u jednoj grupi predmeta = 50
+Ukupna Funkcija Dobrote = 14.090351
+Najuspješnija vrijednost postignuta u iteraciji = 21
+Broj "zavodskih kazni" = 0
+Broj kazni minimalne udaljenosti  = 0
+________________________________________________
+
+
+SMJER_6
+
+
+
+1. ISPITNI ROK
+
+	Ispit 365) 15.d		Ispit 471) 1.d		
+	Ispit 366) 1.d		Ispit 366) 1.d		
+	Ispit 471) 1.d		Ispit 422) 3.d		
+	Ispit 422) 3.d		Ispit 365) 15.d		
+
+	Ispit 472) 5.d		Ispit 473) 1.d		
+	Ispit 474) 15.d		Ispit 472) 5.d		
+	Ispit 473) 1.d		Ispit 474) 15.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 365) 23.d		Ispit 366) 9.d		
+	Ispit 366) 9.d		Ispit 422) 16.d		
+	Ispit 471) 22.d		Ispit 471) 22.d		
+	Ispit 422) 16.d		Ispit 365) 23.d		
+
+	Ispit 472) 17.d		Ispit 473) 9.d		
+	Ispit 474) 23.d		Ispit 472) 17.d		
+	Ispit 473) 9.d		Ispit 474) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 365) 33.d		Ispit 366) 19.d		
+	Ispit 366) 19.d		Ispit 422) 30.d		
+	Ispit 471) 32.d		Ispit 471) 32.d		
+	Ispit 422) 30.d		Ispit 365) 33.d		
+
+	Ispit 472) 33.d		Ispit 473) 19.d		
+	Ispit 474) 31.d		Ispit 474) 31.d		
+	Ispit 473) 19.d		Ispit 472) 33.d		
+
+
+(8-10-365)  (8-10-366)  (21-10-471)  (13-14-422)  
+(12-16-472)  (8-8-474)  (8-10-473)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_4
+
+
+
+1. ISPITNI ROK
+
+	Ispit 367) 8.d		Ispit 397) 1.d		
+	Ispit 397) 1.d		Ispit 471) 1.d		
+	Ispit 440) 4.d		Ispit 440) 4.d		
+	Ispit 471) 1.d		Ispit 367) 8.d		
+
+	Ispit 481) 3.d		Ispit 288) 1.d		
+	Ispit 399) 15.d		Ispit 400) 2.d		
+	Ispit 472) 5.d		Ispit 481) 3.d		
+	Ispit 288) 1.d		Ispit 472) 5.d		
+	Ispit 400) 2.d		Ispit 399) 15.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 367) 19.d		Ispit 397) 9.d		
+	Ispit 397) 9.d		Ispit 440) 12.d		
+	Ispit 440) 12.d		Ispit 367) 19.d		
+	Ispit 471) 22.d		Ispit 471) 22.d		
+
+	Ispit 481) 12.d		Ispit 288) 9.d		
+	Ispit 399) 23.d		Ispit 400) 11.d		
+	Ispit 472) 17.d		Ispit 481) 12.d		
+	Ispit 288) 9.d		Ispit 472) 17.d		
+	Ispit 400) 11.d		Ispit 399) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 367) 33.d		Ispit 397) 19.d		
+	Ispit 397) 19.d		Ispit 440) 24.d		
+	Ispit 440) 24.d		Ispit 471) 32.d		
+	Ispit 471) 32.d		Ispit 367) 33.d		
+
+	Ispit 481) 22.d		Ispit 288) 19.d		
+	Ispit 399) 31.d		Ispit 481) 22.d		
+	Ispit 472) 33.d		Ispit 400) 30.d		
+	Ispit 288) 19.d		Ispit 399) 31.d		
+	Ispit 400) 30.d		Ispit 472) 33.d		
+
+
+(11-14-367)  (8-10-397)  (8-12-440)  (21-10-471)  
+(9-10-481)  (8-8-399)  (12-16-472)  (8-10-288)  (9-19-400)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_22
+
+
+
+1. ISPITNI ROK
+
+	Ispit 382) 2.d		Ispit 450) 1.d		
+	Ispit 449) 3.d		Ispit 382) 2.d		
+	Ispit 383) 15.d		Ispit 449) 3.d		
+	Ispit 450) 1.d		Ispit 383) 15.d		
+
+	Ispit 372) 15.d		Ispit 461) 1.d		
+	Ispit 461) 1.d		Ispit 390) 3.d		
+	Ispit 388) 8.d		Ispit 388) 8.d		
+	Ispit 390) 3.d		Ispit 372) 15.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 382) 18.d		Ispit 450) 9.d		
+	Ispit 449) 12.d		Ispit 449) 12.d		
+	Ispit 383) 23.d		Ispit 382) 18.d		
+	Ispit 450) 9.d		Ispit 383) 23.d		
+
+	Ispit 372) 23.d		Ispit 461) 9.d		
+	Ispit 461) 9.d		Ispit 390) 11.d		
+	Ispit 388) 18.d		Ispit 388) 18.d		
+	Ispit 390) 11.d		Ispit 372) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 382) 33.d		Ispit 450) 19.d		
+	Ispit 449) 24.d		Ispit 449) 24.d		
+	Ispit 383) 31.d		Ispit 383) 31.d		
+	Ispit 450) 19.d		Ispit 382) 33.d		
+
+	Ispit 372) 33.d		Ispit 461) 19.d		
+	Ispit 461) 19.d		Ispit 388) 29.d		
+	Ispit 388) 29.d		Ispit 390) 32.d		
+	Ispit 390) 32.d		Ispit 372) 33.d		
+
+
+(16-15-382)  (9-12-449)  (8-8-383)  (8-10-450)  
+(8-10-372)  (8-10-461)  (10-11-388)  (8-21-390)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_3
+
+
+
+1. ISPITNI ROK
+
+	Ispit 392) 15.d		Ispit 393) 1.d		
+	Ispit 384) 4.d		Ispit 642) 2.d		
+	Ispit 393) 1.d		Ispit 384) 4.d		
+	Ispit 642) 2.d		Ispit 392) 15.d		
+
+	Ispit 641) 8.d		Ispit 461) 1.d		
+	Ispit 395) 15.d		Ispit 390) 3.d		
+	Ispit 390) 3.d		Ispit 641) 8.d		
+	Ispit 461) 1.d		Ispit 395) 15.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 392) 23.d		Ispit 393) 9.d		
+	Ispit 384) 12.d		Ispit 384) 12.d		
+	Ispit 393) 9.d		Ispit 642) 18.d		
+	Ispit 642) 18.d		Ispit 392) 23.d		
+
+	Ispit 641) 17.d		Ispit 461) 9.d		
+	Ispit 395) 23.d		Ispit 390) 11.d		
+	Ispit 390) 11.d		Ispit 641) 17.d		
+	Ispit 461) 9.d		Ispit 395) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 392) 33.d		Ispit 393) 19.d		
+	Ispit 384) 24.d		Ispit 384) 24.d		
+	Ispit 393) 19.d		Ispit 642) 31.d		
+	Ispit 642) 31.d		Ispit 392) 33.d		
+
+	Ispit 641) 29.d		Ispit 461) 19.d		
+	Ispit 395) 33.d		Ispit 641) 29.d		
+	Ispit 390) 32.d		Ispit 390) 32.d		
+	Ispit 461) 19.d		Ispit 395) 33.d		
+
+
+(8-10-392)  (8-12-384)  (8-10-393)  (16-13-642)  
+(9-12-641)  (8-10-395)  (8-21-390)  (8-10-461)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_5
+
+
+
+1. ISPITNI ROK
+
+	Ispit 410) 3.d		Ispit 247) 1.d		
+	Ispit 247) 1.d		Ispit 410) 3.d		
+	Ispit 415) 15.d		Ispit 409) 10.d		
+	Ispit 409) 10.d		Ispit 415) 15.d		
+
+	Ispit 412) 1.d		Ispit 412) 1.d		
+	Ispit 411) 2.d		Ispit 411) 2.d		
+	Ispit 418) 5.d		Ispit 418) 5.d		
+	Ispit 413) 15.d		Ispit 413) 15.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 410) 16.d		Ispit 247) 9.d		
+	Ispit 247) 9.d		Ispit 410) 16.d		
+	Ispit 415) 23.d		Ispit 409) 19.d		
+	Ispit 409) 19.d		Ispit 415) 23.d		
+
+	Ispit 412) 9.d		Ispit 412) 9.d		
+	Ispit 411) 11.d		Ispit 411) 11.d		
+	Ispit 418) 22.d		Ispit 418) 22.d		
+	Ispit 413) 23.d		Ispit 413) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 410) 32.d		Ispit 247) 19.d		
+	Ispit 247) 19.d		Ispit 409) 29.d		
+	Ispit 415) 33.d		Ispit 410) 32.d		
+	Ispit 409) 29.d		Ispit 415) 33.d		
+
+	Ispit 412) 24.d		Ispit 411) 19.d		
+	Ispit 411) 19.d		Ispit 412) 24.d		
+	Ispit 418) 33.d		Ispit 413) 32.d		
+	Ispit 413) 32.d		Ispit 418) 33.d		
+
+
+(13-16-410)  (8-10-247)  (8-10-415)  (9-10-409)  
+(8-15-412)  (9-8-411)  (17-11-418)  (8-9-413)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_20
+
+
+
+1. ISPITNI ROK
+
+	Ispit 414) 1.d		Ispit 414) 1.d		
+	Ispit 415) 15.d		Ispit 416) 3.d		
+	Ispit 416) 3.d		Ispit 415) 15.d		
+
+	Ispit 418) 5.d		Ispit 417) 1.d		
+	Ispit 401) 11.d		Ispit 418) 5.d		
+	Ispit 417) 1.d		Ispit 401) 11.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 414) 9.d		Ispit 414) 9.d		
+	Ispit 415) 23.d		Ispit 416) 19.d		
+	Ispit 416) 19.d		Ispit 415) 23.d		
+
+	Ispit 418) 22.d		Ispit 417) 9.d		
+	Ispit 401) 19.d		Ispit 401) 19.d		
+	Ispit 417) 9.d		Ispit 418) 22.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 414) 19.d		Ispit 414) 19.d		
+	Ispit 415) 33.d		Ispit 416) 31.d		
+	Ispit 416) 31.d		Ispit 415) 33.d		
+
+	Ispit 418) 33.d		Ispit 417) 19.d		
+	Ispit 401) 29.d		Ispit 401) 29.d		
+	Ispit 417) 19.d		Ispit 418) 33.d		
+
+
+(8-10-414)  (8-10-415)  (16-12-416)  
+(17-11-418)  (8-10-401)  (8-10-417)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_8
+
+
+
+1. ISPITNI ROK
+
+	Ispit 403) 15.d		Ispit 402) 1.d		
+	Ispit 367) 8.d		Ispit 404) 4.d		
+	Ispit 402) 1.d		Ispit 367) 8.d		
+	Ispit 404) 4.d		Ispit 403) 15.d		
+
+	Ispit 406) 15.d		Ispit 488) 1.d		
+	Ispit 405) 8.d		Ispit 487) 3.d		
+	Ispit 487) 3.d		Ispit 405) 8.d		
+	Ispit 488) 1.d		Ispit 406) 15.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 403) 23.d		Ispit 402) 9.d		
+	Ispit 367) 19.d		Ispit 404) 12.d		
+	Ispit 402) 9.d		Ispit 367) 19.d		
+	Ispit 404) 12.d		Ispit 403) 23.d		
+
+	Ispit 406) 23.d		Ispit 488) 9.d		
+	Ispit 405) 16.d		Ispit 487) 11.d		
+	Ispit 487) 11.d		Ispit 405) 16.d		
+	Ispit 488) 9.d		Ispit 406) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 403) 32.d		Ispit 402) 19.d		
+	Ispit 367) 33.d		Ispit 404) 24.d		
+	Ispit 402) 19.d		Ispit 403) 32.d		
+	Ispit 404) 24.d		Ispit 367) 33.d		
+
+	Ispit 406) 31.d		Ispit 488) 19.d		
+	Ispit 405) 33.d		Ispit 487) 25.d		
+	Ispit 487) 25.d		Ispit 406) 31.d		
+	Ispit 488) 19.d		Ispit 405) 33.d		
+
+
+(8-9-403)  (11-14-367)  (8-10-402)  (8-12-404)  
+(8-8-406)  (8-17-405)  (8-14-487)  (8-10-488)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_21
+
+
+
+1. ISPITNI ROK
+
+	Ispit 384) 4.d		Ispit 450) 1.d		
+	Ispit 450) 1.d		Ispit 382) 2.d		
+	Ispit 383) 15.d		Ispit 384) 4.d		
+	Ispit 382) 2.d		Ispit 383) 15.d		
+
+	Ispit 461) 1.d		Ispit 461) 1.d		
+	Ispit 372) 15.d		Ispit 390) 3.d		
+	Ispit 390) 3.d		Ispit 387) 8.d		
+	Ispit 387) 8.d		Ispit 372) 15.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 384) 12.d		Ispit 450) 9.d		
+	Ispit 450) 9.d		Ispit 384) 12.d		
+	Ispit 383) 23.d		Ispit 382) 18.d		
+	Ispit 382) 18.d		Ispit 383) 23.d		
+
+	Ispit 461) 9.d		Ispit 461) 9.d		
+	Ispit 372) 23.d		Ispit 390) 11.d		
+	Ispit 390) 11.d		Ispit 387) 16.d		
+	Ispit 387) 16.d		Ispit 372) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 384) 24.d		Ispit 450) 19.d		
+	Ispit 450) 19.d		Ispit 384) 24.d		
+	Ispit 383) 31.d		Ispit 383) 31.d		
+	Ispit 382) 33.d		Ispit 382) 33.d		
+
+	Ispit 461) 19.d		Ispit 461) 19.d		
+	Ispit 372) 33.d		Ispit 387) 26.d		
+	Ispit 390) 32.d		Ispit 390) 32.d		
+	Ispit 387) 26.d		Ispit 372) 33.d		
+
+
+(8-12-384)  (8-10-450)  (8-8-383)  (16-15-382)  
+(8-10-461)  (8-10-372)  (8-21-390)  (8-10-387)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+t = 53 min	49 s
+
+===================================================
+===================================================
+
+
+
+
+PONAVLJANJE = 2. put
+
+Postotak mutacije bitova jedinke  = 4
+Postotak mutacije jedinki populacije = 16
+Postotak smišljene poèetne generacije jedinki = 24
+Velièina Populacije = 200
+
+Ukupna Funkcija Dobrote = 11.353117
+Najuspješnija vrijednost postignuta u iteraciji = 0
+Broj "zavodskih kazni" = 0
+Broj kazni minimalne udaljenosti  = 0
+________________________________________________
+
+
+SMJER_6
+
+
+
+1. ISPITNI ROK
+
+	Ispit 365) 8.d		Ispit 471) 1.d		
+	Ispit 366) 3.d		Ispit 422) 1.d		
+	Ispit 471) 1.d		Ispit 366) 3.d		
+	Ispit 422) 1.d		Ispit 365) 8.d		
+
+	Ispit 472) 1.d		Ispit 472) 1.d		
+	Ispit 474) 8.d		Ispit 473) 1.d		
+	Ispit 473) 1.d		Ispit 474) 8.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 365) 18.d		Ispit 471) 10.d		
+	Ispit 366) 12.d		Ispit 366) 12.d		
+	Ispit 471) 10.d		Ispit 422) 15.d		
+	Ispit 422) 15.d		Ispit 365) 18.d		
+
+	Ispit 472) 9.d		Ispit 472) 9.d		
+	Ispit 474) 19.d		Ispit 473) 12.d		
+	Ispit 473) 12.d		Ispit 474) 19.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 365) 33.d		Ispit 471) 19.d		
+	Ispit 366) 23.d		Ispit 366) 23.d		
+	Ispit 471) 19.d		Ispit 422) 29.d		
+	Ispit 422) 29.d		Ispit 365) 33.d		
+
+	Ispit 472) 29.d		Ispit 473) 23.d		
+	Ispit 474) 33.d		Ispit 472) 29.d		
+	Ispit 473) 23.d		Ispit 474) 33.d		
+
+
+(10-15-365)  (9-11-366)  (9-9-471)  (14-14-422)  
+(8-20-472)  (11-14-474)  (11-11-473)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_4
+
+
+
+1. ISPITNI ROK
+
+	Ispit 367) 1.d		Ispit 367) 1.d		
+	Ispit 397) 3.d		Ispit 471) 1.d		
+	Ispit 440) 11.d		Ispit 397) 3.d		
+	Ispit 471) 1.d		Ispit 440) 11.d		
+
+	Ispit 481) 3.d		Ispit 472) 1.d		
+	Ispit 399) 5.d		Ispit 481) 3.d		
+	Ispit 472) 1.d		Ispit 399) 5.d		
+	Ispit 288) 10.d		Ispit 400) 8.d		
+	Ispit 400) 8.d		Ispit 288) 10.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 367) 16.d		Ispit 471) 10.d		
+	Ispit 397) 16.d		Ispit 367) 16.d		
+	Ispit 440) 22.d		Ispit 397) 16.d		
+	Ispit 471) 10.d		Ispit 440) 22.d		
+
+	Ispit 481) 11.d		Ispit 472) 9.d		
+	Ispit 399) 23.d		Ispit 481) 11.d		
+	Ispit 472) 9.d		Ispit 400) 17.d		
+	Ispit 288) 19.d		Ispit 288) 19.d		
+	Ispit 400) 17.d		Ispit 399) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 367) 33.d		Ispit 471) 19.d		
+	Ispit 397) 25.d		Ispit 397) 25.d		
+	Ispit 440) 33.d		Ispit 367) 33.d		
+	Ispit 471) 19.d		Ispit 440) 33.d		
+
+	Ispit 481) 19.d		Ispit 481) 19.d		
+	Ispit 399) 32.d		Ispit 400) 26.d		
+	Ispit 472) 29.d		Ispit 472) 29.d		
+	Ispit 288) 33.d		Ispit 399) 32.d		
+	Ispit 400) 26.d		Ispit 288) 33.d		
+
+
+(15-17-367)  (13-9-397)  (11-11-440)  (9-9-471)  
+(8-8-481)  (18-9-399)  (8-20-472)  (9-14-288)  (9-9-400)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_22
+
+
+
+1. ISPITNI ROK
+
+	Ispit 382) 5.d		Ispit 383) 1.d		
+	Ispit 449) 1.d		Ispit 449) 1.d		
+	Ispit 383) 1.d		Ispit 382) 5.d		
+	Ispit 450) 9.d		Ispit 450) 9.d		
+
+	Ispit 372) 1.d		Ispit 372) 1.d		
+	Ispit 461) 5.d		Ispit 461) 5.d		
+	Ispit 388) 8.d		Ispit 388) 8.d		
+	Ispit 390) 10.d		Ispit 390) 10.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 382) 23.d		Ispit 449) 9.d		
+	Ispit 449) 9.d		Ispit 383) 11.d		
+	Ispit 383) 11.d		Ispit 450) 19.d		
+	Ispit 450) 19.d		Ispit 382) 23.d		
+
+	Ispit 372) 11.d		Ispit 372) 11.d		
+	Ispit 461) 22.d		Ispit 388) 16.d		
+	Ispit 388) 16.d		Ispit 390) 18.d		
+	Ispit 390) 18.d		Ispit 461) 22.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 382) 32.d		Ispit 449) 19.d		
+	Ispit 449) 19.d		Ispit 450) 30.d		
+	Ispit 383) 33.d		Ispit 382) 32.d		
+	Ispit 450) 30.d		Ispit 383) 33.d		
+
+	Ispit 372) 19.d		Ispit 372) 19.d		
+	Ispit 461) 33.d		Ispit 388) 26.d		
+	Ispit 388) 26.d		Ispit 390) 29.d		
+	Ispit 390) 29.d		Ispit 461) 33.d		
+
+
+(18-9-382)  (8-10-449)  (10-22-383)  (10-11-450)  
+(10-8-372)  (17-11-461)  (8-10-388)  (8-11-390)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_3
+
+
+
+1. ISPITNI ROK
+
+	Ispit 392) 11.d		Ispit 393) 1.d		
+	Ispit 384) 2.d		Ispit 384) 2.d		
+	Ispit 393) 1.d		Ispit 642) 8.d		
+	Ispit 642) 8.d		Ispit 392) 11.d		
+
+	Ispit 641) 1.d		Ispit 641) 1.d		
+	Ispit 395) 2.d		Ispit 395) 2.d		
+	Ispit 390) 10.d		Ispit 461) 5.d		
+	Ispit 461) 5.d		Ispit 390) 10.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 392) 23.d		Ispit 384) 10.d		
+	Ispit 384) 10.d		Ispit 393) 12.d		
+	Ispit 393) 12.d		Ispit 642) 16.d		
+	Ispit 642) 16.d		Ispit 392) 23.d		
+
+	Ispit 641) 10.d		Ispit 641) 10.d		
+	Ispit 395) 11.d		Ispit 395) 11.d		
+	Ispit 390) 18.d		Ispit 390) 18.d		
+	Ispit 461) 22.d		Ispit 461) 22.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 392) 33.d		Ispit 384) 19.d		
+	Ispit 384) 19.d		Ispit 393) 22.d		
+	Ispit 393) 22.d		Ispit 642) 31.d		
+	Ispit 642) 31.d		Ispit 392) 33.d		
+
+	Ispit 641) 25.d		Ispit 395) 22.d		
+	Ispit 395) 22.d		Ispit 641) 25.d		
+	Ispit 390) 29.d		Ispit 390) 29.d		
+	Ispit 461) 33.d		Ispit 461) 33.d		
+
+
+(12-10-392)  (8-9-384)  (11-10-393)  (8-15-642)  
+(9-15-641)  (9-11-395)  (8-11-390)  (17-11-461)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_5
+
+
+
+1. ISPITNI ROK
+
+	Ispit 410) 3.d		Ispit 247) 1.d		
+	Ispit 247) 1.d		Ispit 410) 3.d		
+	Ispit 415) 10.d		Ispit 409) 5.d		
+	Ispit 409) 5.d		Ispit 415) 10.d		
+
+	Ispit 412) 11.d		Ispit 418) 1.d		
+	Ispit 411) 15.d		Ispit 413) 2.d		
+	Ispit 418) 1.d		Ispit 412) 11.d		
+	Ispit 413) 2.d		Ispit 411) 15.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 410) 12.d		Ispit 247) 10.d		
+	Ispit 247) 10.d		Ispit 410) 12.d		
+	Ispit 415) 23.d		Ispit 409) 16.d		
+	Ispit 409) 16.d		Ispit 415) 23.d		
+
+	Ispit 412) 19.d		Ispit 418) 9.d		
+	Ispit 411) 23.d		Ispit 413) 11.d		
+	Ispit 418) 9.d		Ispit 412) 19.d		
+	Ispit 413) 11.d		Ispit 411) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 410) 26.d		Ispit 247) 19.d		
+	Ispit 247) 19.d		Ispit 410) 26.d		
+	Ispit 415) 33.d		Ispit 409) 31.d		
+	Ispit 409) 31.d		Ispit 415) 33.d		
+
+	Ispit 412) 33.d		Ispit 418) 19.d		
+	Ispit 411) 32.d		Ispit 413) 25.d		
+	Ispit 418) 19.d		Ispit 411) 32.d		
+	Ispit 413) 25.d		Ispit 412) 33.d		
+
+
+(9-14-410)  (9-9-247)  (13-10-415)  (11-15-409)  
+(8-14-412)  (8-9-411)  (8-10-418)  (9-14-413)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_20
+
+
+
+1. ISPITNI ROK
+
+	Ispit 414) 4.d		Ispit 416) 1.d		
+	Ispit 415) 10.d		Ispit 414) 4.d		
+	Ispit 416) 1.d		Ispit 415) 10.d		
+
+	Ispit 418) 1.d		Ispit 418) 1.d		
+	Ispit 401) 8.d		Ispit 417) 2.d		
+	Ispit 417) 2.d		Ispit 401) 8.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 414) 12.d		Ispit 414) 12.d		
+	Ispit 415) 23.d		Ispit 416) 17.d		
+	Ispit 416) 17.d		Ispit 415) 23.d		
+
+	Ispit 418) 9.d		Ispit 418) 9.d		
+	Ispit 401) 23.d		Ispit 417) 16.d		
+	Ispit 417) 16.d		Ispit 401) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 414) 24.d		Ispit 414) 24.d		
+	Ispit 415) 33.d		Ispit 416) 30.d		
+	Ispit 416) 30.d		Ispit 415) 33.d		
+
+	Ispit 418) 19.d		Ispit 418) 19.d		
+	Ispit 401) 33.d		Ispit 417) 26.d		
+	Ispit 417) 26.d		Ispit 401) 33.d		
+
+
+(8-12-414)  (13-10-415)  (16-13-416)  
+(8-10-418)  (15-10-401)  (14-10-417)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_8
+
+
+
+1. ISPITNI ROK
+
+	Ispit 403) 5.d		Ispit 402) 1.d		
+	Ispit 367) 1.d		Ispit 367) 1.d		
+	Ispit 402) 1.d		Ispit 403) 5.d		
+	Ispit 404) 9.d		Ispit 404) 9.d		
+
+	Ispit 406) 5.d		Ispit 487) 1.d		
+	Ispit 405) 12.d		Ispit 488) 3.d		
+	Ispit 487) 1.d		Ispit 406) 5.d		
+	Ispit 488) 3.d		Ispit 405) 12.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 403) 23.d		Ispit 402) 9.d		
+	Ispit 367) 16.d		Ispit 367) 16.d		
+	Ispit 402) 9.d		Ispit 404) 17.d		
+	Ispit 404) 17.d		Ispit 403) 23.d		
+
+	Ispit 406) 15.d		Ispit 487) 9.d		
+	Ispit 405) 23.d		Ispit 488) 12.d		
+	Ispit 487) 9.d		Ispit 406) 15.d		
+	Ispit 488) 12.d		Ispit 405) 23.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 403) 33.d		Ispit 402) 19.d		
+	Ispit 367) 33.d		Ispit 404) 26.d		
+	Ispit 402) 19.d		Ispit 403) 33.d		
+	Ispit 404) 26.d		Ispit 367) 33.d		
+
+	Ispit 406) 33.d		Ispit 487) 19.d		
+	Ispit 405) 31.d		Ispit 488) 30.d		
+	Ispit 487) 19.d		Ispit 405) 31.d		
+	Ispit 488) 30.d		Ispit 406) 33.d		
+
+
+(18-10-403)  (15-17-367)  (8-10-402)  (8-9-404)  
+(10-18-406)  (11-8-405)  (8-10-487)  (9-18-488)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+
+SMJER_21
+
+
+
+1. ISPITNI ROK
+
+	Ispit 384) 2.d		Ispit 383) 1.d		
+	Ispit 450) 9.d		Ispit 384) 2.d		
+	Ispit 383) 1.d		Ispit 382) 5.d		
+	Ispit 382) 5.d		Ispit 450) 9.d		
+
+	Ispit 461) 5.d		Ispit 372) 1.d		
+	Ispit 372) 1.d		Ispit 387) 3.d		
+	Ispit 390) 10.d		Ispit 461) 5.d		
+	Ispit 387) 3.d		Ispit 390) 10.d		
+
+
+2. ISPITNI ROK
+
+	Ispit 384) 10.d		Ispit 384) 10.d		
+	Ispit 450) 19.d		Ispit 383) 11.d		
+	Ispit 383) 11.d		Ispit 450) 19.d		
+	Ispit 382) 23.d		Ispit 382) 23.d		
+
+	Ispit 461) 22.d		Ispit 372) 11.d		
+	Ispit 372) 11.d		Ispit 387) 12.d		
+	Ispit 390) 18.d		Ispit 390) 18.d		
+	Ispit 387) 12.d		Ispit 461) 22.d		
+
+
+3. ISPITNI ROK
+
+	Ispit 384) 19.d		Ispit 384) 19.d		
+	Ispit 450) 30.d		Ispit 450) 30.d		
+	Ispit 383) 33.d		Ispit 382) 32.d		
+	Ispit 382) 32.d		Ispit 383) 33.d		
+
+	Ispit 461) 33.d		Ispit 372) 19.d		
+	Ispit 372) 19.d		Ispit 387) 26.d		
+	Ispit 390) 29.d		Ispit 390) 29.d		
+	Ispit 387) 26.d		Ispit 461) 33.d		
+
+
+(8-9-384)  (10-11-450)  (10-22-383)  (18-9-382)  
+(17-11-461)  (10-8-372)  (8-11-390)  (9-14-387)  
+
+donja_granica = 8       gornja_granica = 14
+
+__________________________________________________
+
+t = 1 min	36 s
+
+===================================================
+===================================================
+
+
+
+

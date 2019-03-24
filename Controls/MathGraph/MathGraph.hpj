@@ -1,0 +1,20 @@
+[OPTIONS]
+CONTENTS=main_index
+TITLE=MATHGRAPH Control Help
+COMPRESS=true
+WARNING=2
+HLP=MathGraph.hlp
+ERRORLOG=MathGraph.log
+
+[FILES]
+hlp\MathGraph.rtf
+
+[BITMAPS]
+; miscellaneous
+hlp\Bullet.bmp
+
+[ALIAS]
+HIDD_ABOUTBOX_MATHGRAPH = HID_APP_ABOUT_MATHGRAPH
+
+[MAP]
+#include <hlp\MathGraph.hm>

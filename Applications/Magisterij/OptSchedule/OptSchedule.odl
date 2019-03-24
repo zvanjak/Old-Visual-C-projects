@@ -1,0 +1,42 @@
+// OptSchedule.odl : type library source for OptSchedule.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (OptSchedule.tlb).
+
+[ uuid(EA6F2EA4-BE06-4177-A8AC-65F0D01A6791), version(1.0) ]
+library OptSchedule
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for COptScheduleDoc
+	
+	[ uuid(D9D562D3-661A-4FF4-8902-892878E93DA0) ]
+	dispinterface IOptSchedule
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(COptScheduleDoc)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(COptScheduleDoc)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for COptScheduleDoc
+	
+	[ uuid(85904BA1-A4B5-4077-977C-6108E55AC4DA) ]
+	coclass Document
+	{
+		[default] dispinterface IOptSchedule;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

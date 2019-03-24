@@ -1,0 +1,201 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "Calendar"="..\..\..\..\Library\C++\Projects\Calendar\Calendar.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Calendar", LBAAAAAA
+    ..\..\..\..\library\c++\projects\calendar
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "GraphControl"="..\..\Controls\GraphControl\GraphControl.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Controls/GraphControl", ADAAAAAA
+    ..\..\controls\graphcontrol
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Mathlib"="..\..\..\..\Library\C++\Projects\Mathlib\Mathlib.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Mathlib", QCAAAAAA
+    ..\..\..\..\library\c++\projects\mathlib
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "OptRok"=".\OptRok.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "OptRokova"="..\..\Rokovi\OptRokova\OptRokova.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "OptRokovaConsoleTest"="..\..\..\..\Library\C++\Projects\OptRokovaConsoleTest\OptRokovaConsoleTest.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "OptRokovaLib"="..\..\..\..\LIBRARY\C++\PROJECTS\OPTROKOVALIB\OptRokovaLib.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/OptRokovaLib", GCAAAAAA
+    ..\..\..\..\library\c++\projects\optrokovalib
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "PrikazRasporedaIspita"="..\..\Controls\PrikazRasporedaIspita\PrikazRasporedaIspita.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Controls/PrikazRasporedaIspita", YEAAAAAA
+    ..\..\controls\prikazrasporedaispita
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "ScheduleFramework"="..\..\..\..\Library\C++\Projects\ScheduleFramework\ScheduleFramework.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ScheduleFramework", WAAAAAAA
+    ..\..\..\..\library\c++\projects\scheduleframework
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "ScheduleFrameworkLib"="..\..\..\..\LIBRARY\C++\PROJECTS\ScheduleFrameworkLib\ScheduleFrameworkLib.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ScheduleFrameworkLib", GGAAAAAA
+    ..\..\..\..\library\c++\projects\scheduleframeworklib
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "TestOptFunc"="..\TestOptFunc\TestOptFunc.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/TestOptFunc", IGAAAAAA
+    ..\testoptfunc
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name Mathlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name ScheduleFrameworkLib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "TestOptQAP"="..\..\TEST\TestOptQAP\TestOptQAP.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+    {58E19248-A94F-4762-B543-0F1CD6C3B71D}
+    {106D39E8-C7AF-11D1-AFFE-0000C03E618C}
+}}}
+
+###############################################################################
+

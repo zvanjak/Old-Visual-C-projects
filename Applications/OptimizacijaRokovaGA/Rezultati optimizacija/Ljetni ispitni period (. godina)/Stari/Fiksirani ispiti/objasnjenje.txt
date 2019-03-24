@@ -1,0 +1,11 @@
+Ispitima iz kolegija
+
+	471
+	472
+	367
+
+su datumi bili odreðeni prije pokretanja optimizacije i to:
+
+	471 (1 dan, 10 dan, 22 dan)
+	472 (3 dan, 12 dan, 24 dan)
+	367 (5 dan, 15 dan, 26 dan)

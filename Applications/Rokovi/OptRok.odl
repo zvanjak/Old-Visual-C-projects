@@ -1,0 +1,42 @@
+// OptRok.odl : type library source for OptRok.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (OptRok.tlb).
+
+[ uuid(63ADDE4C-9F52-4AA9-A9BF-6A9FD694BD57), version(1.0) ]
+library OptRok
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for COptRokDoc
+	
+	[ uuid(3E869BAA-9507-46BA-BEAC-F433D217818E) ]
+	dispinterface IOptRok
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(COptRokDoc)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(COptRokDoc)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for COptRokDoc
+	
+	[ uuid(D6D86562-B35D-4E6A-8AD0-6ACEBEDCFA15) ]
+	coclass Document
+	{
+		[default] dispinterface IOptRok;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

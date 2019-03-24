@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "Mathlib", "..\..\MathLib\Mathlib.dsp", "{967955C2-8E78-44FC-9D0E-870B7A8D00E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NonLinSystems", "NonLinSystems.vcxproj", "{C4BCE29E-D8E6-46F8-82E3-244C53141AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugStatic|Win32 = DebugStatic|Win32
+		Release|Win32 = Release|Win32
+		ReleaseStatic|Win32 = ReleaseStatic|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BCE29E-D8E6-46F8-82E3-244C53141AB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4BCE29E-D8E6-46F8-82E3-244C53141AB0}.Debug|Win32.Build.0 = Debug|Win32
+		{C4BCE29E-D8E6-46F8-82E3-244C53141AB0}.DebugStatic|Win32.ActiveCfg = DebugStatic|Win32
+		{C4BCE29E-D8E6-46F8-82E3-244C53141AB0}.DebugStatic|Win32.Build.0 = DebugStatic|Win32
+		{C4BCE29E-D8E6-46F8-82E3-244C53141AB0}.Release|Win32.ActiveCfg = Release|Win32
+		{C4BCE29E-D8E6-46F8-82E3-244C53141AB0}.Release|Win32.Build.0 = Release|Win32
+		{C4BCE29E-D8E6-46F8-82E3-244C53141AB0}.ReleaseStatic|Win32.ActiveCfg = ReleaseStatic|Win32
+		{C4BCE29E-D8E6-46F8-82E3-244C53141AB0}.ReleaseStatic|Win32.Build.0 = ReleaseStatic|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

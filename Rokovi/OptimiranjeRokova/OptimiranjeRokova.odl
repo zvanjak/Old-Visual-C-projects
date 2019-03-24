@@ -1,0 +1,42 @@
+// OptimiranjeRokova.odl : type library source for OptimiranjeRokova.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (OptimiranjeRokova.tlb).
+
+[ uuid(6821DE09-20DB-4CC4-8672-427889CE396F), version(1.0) ]
+library OptimiranjeRokova
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for COptRokovaDoc
+	
+	[ uuid(EA3DC2B5-5F6F-42DE-A127-2A57FE3F34B5) ]
+	dispinterface IOptimiranjeRokova
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(COptRokovaDoc)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(COptRokovaDoc)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for COptRokovaDoc
+	
+	[ uuid(E8090E7B-AB4A-457F-AA72-0B2C4013D15C) ]
+	coclass Document
+	{
+		[default] dispinterface IOptimiranjeRokova;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

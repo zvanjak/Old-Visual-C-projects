@@ -1,0 +1,42 @@
+// ScheduleSolver.odl : type library source for ScheduleSolver.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (ScheduleSolver.tlb).
+
+[ uuid(92FEA471-0DA7-4B47-B8C7-BC75AE706AE2), version(1.0) ]
+library ScheduleSolver
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CSchSolverDoc
+	
+	[ uuid(712970CA-F29F-4DEA-B9F5-A13814AF7B22) ]
+	dispinterface IScheduleSolver
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CSchSolverDoc)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CSchSolverDoc)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CSchSolverDoc
+	
+	[ uuid(CAC3E0DF-0428-4D92-8D41-950A43686425) ]
+	coclass Document
+	{
+		[default] dispinterface IScheduleSolver;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

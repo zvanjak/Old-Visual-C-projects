@@ -1,0 +1,170 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "OptimizationLibrary"="..\..\..\..\LIBRARY\C++\PROJECTS\OptimizationLibrary\OptimizationLibrary.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/OptimizationLibrary", QUAAAAAA
+    ..\..\..\..\library\c++\projects\optimizationlibrary
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "PrikazRasporedaIspita"="..\..\Controls\PrikazRasporedaIspita\PrikazRasporedaIspita.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Controls/PrikazRasporedaIspita", FPAAAAAA
+    ..\..\controls\prikazrasporedaispita
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "QAPLibrary"="..\..\..\..\LIBRARY\C++\PROJECTS\QAPLibrary\QAPLibrary.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/QAPLibrary", MLAAAAAA
+    ..\..\..\..\library\c++\projects\qaplibrary
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "QAPLibrary2"="..\..\..\..\LIBRARY\C++\PROJECTS\QAPLibrary2\QAPLibrary2.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/QAPLibrary2", IUAAAAAA
+    ..\..\..\..\library\c++\projects\qaplibrary2
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "QAPSolver"=".\QAPSolver\QAPSolver.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/QAPSolver", YJAAAAAA
+    .\qapsolver
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name QAPLibrary2
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name PrikazRasporedaIspita
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SimpleGraph
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "SimpleGraph"="..\..\CONTROLS\SimpleGraph\SimpleGraph.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Controls/SimpleGraph", KOAAAAAA
+    ..\..\controls\simplegraph
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "SortedList"=".\SortedList\SortedList.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "TestDiffLanguage"="..\TestDiffLanguage\TestDiffLanguage.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "TestNumFramework"=".\TestNumFramework\TestNumFramework.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Win32Serialize"="..\..\..\..\LIBRARY\C++\PROJECTS\Win32Serialize\Win32Serialize.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

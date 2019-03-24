@@ -1,0 +1,414 @@
+
+
+Temeljni dio studija
+
+Elektroenergetika
+
+Elektrostrojarstvo i automatizacija
+
+ 3. godina
+
+  FIZIKA MATERIJALA                           10  23      2      0   7  21      3  15  24 
+  TEORIJSKA ELEKTROTEHNIKA                     7  15      2      1  11  24      2  10  18 
+  ELEKTRIÈNI STROJEVI                          3  24      0      3  16  29      0  10  23 
+  ELEKTROMEHANIÈKA I ELEKTROMAGNETSKA PRET     4  16      0      2  11  28      4  14  22 
+  REGULACIJSKA TEHNIKA                         7  22      0      0  17  25      7  14  21 
+  ELEKTROTEHNIÈKI MATERIJALI I TEHNOLOGIJA     3  14      2      9  22  30      0   9  21 
+  TEHNIÈKA MEHANIKA                            9  24      3      8  14  23      8  16  22 
+  OSNOVE ÈVRSTOÆE I KONSTRUIRANJA              1  18      3      8  17  28      1  15  23 
+  SKLOPNI I ZAŠTITNI UREÐAJI U POSTROJENJI     0  21      3      4  18  29      1  11  24 
+  ENERGETSKA ELEKTRONIKA                       2  22      1      1  17  31      3  11  24 
+  ENERGETSKA ELEKTRONIKA                      10  23      1      3  22  31      0   8  16 
+  SIGNALI I SUSTAVI                            1  11      2      0  14  23      2   9  17 
+  RAÈUNALA I                                   8  17      0      7  15  24      1   8  17 
+  DIGITALNI SUSTAVI                            2  18      1      4  16  30      4  14  23 
+
+ 4. godina
+
+  NUMERIÈKA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  ELEKTROMOTORNI POGONI                        3  24      0      3  16  29      0  10  23 
+  PROJEKTIRANJE INDUSTRIJSKIH POSTROJENJA      4  16      2      1  15  30      4  15  23 
+  AUTOMATIZIRANA ISPITIVANJA ELEKTROTEHNIÈ     1  16      1      2  15  30      2  11  21 
+  UPRAVLJANJE ELEKTROMOTORNIM POGONIMA         7  22      0      0  17  25      7  14  21 
+  DIGITALNI I NELINEARNI SUSTAVI UPRAVLJAN     3  17      2      3  14  29      1   9  18 
+  AUTOMATIZACIJA INDUSTRIJSKIH POSTROJENJA     4  15      3      4  17  31      1  10  24 
+  RAZVOJ ELEKTROTEHNIÈKIH PROIZVODA            2  18      1      1  11  23      2  10  18 
+  REGULACIJA ELEKTROENERGETSKOG SUSTAVA        2  14      3      7  16  24      8  16  22 
+  RAZVOD ELEKTRIÈNE ENERGIJE                  11  24      1      0  21  29      1  11  23 
+  PRIJENOS ELEKTRIÈNE ENERGIJE                 0  17      3      9  22  31      0   9  17 
+  TEHNIKA VISOKOG NAPONA                       9  23      2      2  18  28      1  10  18 
+  ZAŠTITA I AUTOMATIKA ELEKTROENERGETSKOG      8  21      0      0  14  25      4  14  22 
+  DIGITALNA OBRADBA SIGNALA                   10  21      3      7  21  29      3   7  17 
+  EKONOMIKA                                    1  11      2      8  18  28      0   8  16 
+
+ 5. godina
+
+  OBJEKTNO ORIJENTIRANO PROGRAMIRANJE          1  10      2      1  17  28      1  10  18 
+  MEHATRONIÈKI SUSTAVI                         4  15      3      4  17  31      1  10  24 
+  NEURONSKE MREŽE                              2  23      0      1  14  31      3  14  24 
+
+Industrijska elektronika
+
+ 3. godina
+
+  FIZIKA MATERIJALA                           10  23      2      0   7  21      3  15  24 
+  OPERACIJSKA ISTRAŽIVANJA                     4  16      0      8  16  24      4  17  24 
+  TEORIJA ELEKTROMAGNETSKIH POLJA              8  18      3      4  15  23      1   9  18 
+  TELEKOMUNIKACIJSKE MREŽE                     7  15      0      2  11  22      8  14  22 
+  FILTRI I FILTARSKA POJAÈALA                  9  22      2      0   8  25      7  15  24 
+  SIGNALI I SUSTAVI                            0  14      0     14  22  31      0  11  22 
+  SLUÈAJNI PROCESI U SUSTAVIMA                 7  21      1      1  15  23      1  10  21 
+  ELEKTRONIÈKA INSTRUMENTACIJA                 2  11      3      4  21  30      2  14  23 
+  ELEKTRONIÈKA MJERENJA I KOMPONENTE           1  24      2      2  17  29      2  11  23 
+  AUTOMATSKO UPRAVLJANJE                       2  17      3      9  17  28      4   7  18 
+  RAÈUNALA I                                   8  17      0      7  15  24      1   8  17 
+  OSNOVE MIKROELEKTRONIKE                      9  22      1      1   9  30      0  10  21 
+  AUTOMATI, FORMALNI JEZICI I JEZIÈNI PROC     3  18      3      2  16  29      4  14  22 
+  VISOKOFREKVENCIJSKA ELEKTRONIKA              4  21      1      3  11  28      1   9  18 
+
+ 4. godina
+
+  NUMERIÈKA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  DISKRETNA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  OSNOVE ENERGETSKE ELEKTRONIKE                8  17      0      7  16  24      4  14  24 
+  SUSTAVI ZA PRIJENOS I TELEMETRIJU            2  14      3      0  11  31      4  14  22 
+  DIGITALNA OBRADBA SIGNALA                   10  21      3      7  21  29      3   7  17 
+  PROJEKTIRANJE UGRAÐENIH RAÈUNALNIH SUSTA     3  16      0      1  23  31      0   7  16 
+  SUSTAVI ZA PRAÆENJE I VOÐENJE PROCESA        9  24      0      9  17  30      2  10  21 
+  DIGITALNA OBRADBA SLIKE                      8  17      3      2  16  24      1   9  18 
+  BIOMEDICINSKA ELEKTRONIKA                    7  23      2      3  17  28      1  15  24 
+  KONSTRUKCIJA I PROIZVODNJA ELEKTRONIÈKIH     3  15      2      0   8  22      2  15  23 
+  MIKROELEKTRONIÈKI SKLOPOVI                   4  22      1      4  14  22      0   8  22 
+  OTVORENO RAÈUNARSTVO                        15  24      1     15  23  30      2  10  21 
+  RAÈUNALNA GRAFIKA                            1  17      0      3  11  21      1   9  18 
+  EKONOMIKA                                    1  11      2      8  18  28      0   8  16 
+
+ 5. godina
+
+  FOTONIÈKE KOMUNIKACIJSKE TEHNOLOGIJE         0  17      2      4  14  25      3  14  24 
+  NEURONSKE MREŽE                              2  23      0      1  14  31      3  14  24 
+  PODATKOVNI VIŠEMEDIJSKI PRIJENOS I RAÈUN    11  24      1      0  21  29      1  11  23 
+  AUTOMATIZIRANA INSTRUMENTACIJA               7  21      3      4  21  30      2  11  22 
+  ODABRANA POGLAVLJA IZ PROGRAMSKOG INŽENJ     4  22      2      3  18  30      2  10  21 
+  RADIOLOKACIJA I NAVIGACIJA                   9  24      0      0  11  28      1   9  18 
+
+Telekomunikacije i informatika
+
+ 3. godina
+
+  FIZIKA MATERIJALA                           10  23      2      0   7  21      3  15  24 
+  FIZIKA LASERA                                3  14      0      1  14  31      2  10  22 
+  STOHASTIÈKI PROCESI                          8  16      3      1  17  31      1  14  22 
+  NUMERIÈKA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  STOHASTIÈKA MATEMATIKA                      11  22      1      4  14  25      2  10  21 
+  TEORIJA ELEKTROMAGNETSKIH POLJA              8  18      3      4  15  23      1   9  18 
+  TEORIJA INFORMACIJE                          0  24      0      2  11  24      7  16  24 
+  LOGIÈKA ALGEBRA                              1  10      1      8  18  28      1  14  24 
+  TELEKOMUNIKACIJSKE MREŽE                     7  15      0      2  11  22      8  14  22 
+  INFORMACIJSKE MREŽE                         14  22      0      2  15  23      0   8  21 
+  DIGITALNI AUTOMATI                           7  17      3      1   9  31      4  16  24 
+  INFORMACIJA, LOGIKA I JEZICI                 2  23      3      0  21  29      0   9  18 
+  ALGORITMI I METODE OPTIMIZACIJE              9  21      2      3  11  28      0  11  23 
+  TEORIJA MREŽA I LINIJA                       4  21      0      3  22  30      4  15  23 
+  SIGNALI I SUSTAVI                            1  11      2      0  14  23      2   9  17 
+  AUTOMATSKO UPRAVLJANJE                       2  17      3      9  17  28      4   7  18 
+  ARHITEKTURA I ORGANIZACIJA RAÈUNALA          4  15      2      8  24  31      2  10  21 
+  OPERACIJSKI SUSTAVI I                        3  11      2      7  16  25      0   9  17 
+
+ 4. godina
+
+  KOMUTACIJSKI SUSTAVI                         4  14      3      2  22  30      4  14  22 
+  TRANSMISIJSKI SUSTAVI                        7  18      3      8  17  25      3  11  22 
+  TEORIJA PROMETA                              9  21      2      3  11  28      0   9  23 
+  KOMUNIKACIJSKI PROTOKOLI                     1  23      0      2  22  30      0  10  24 
+  POUZDANOST TELEKOMUNIKACIJSKIH SUSTAVA       4  17      2      4  15  23      2  16  24 
+  TELEMATIÈKE USLUGE                           7  18      3      1  16  24      0   8  17 
+  ORGANIZACIJA OBRADE PODATAKA                 2  16      1      7  16  24      3  11  22 
+  KONKURENTNO PROGRAMIRANJE                    8  16      0      9  21  29      2  14  24 
+  PRIJENOS PODATAKA                            3  11      2      0  14  31      1  14  21 
+  DIGITALNA OBRADBA SIGNALA                   10  21      3      7  21  29      3   7  17 
+  OTVORENO RAÈUNARSTVO                        15  24      1     15  23  30      2  10  21 
+  RAÈUNALNA GRAFIKA                            1  17      0      3  11  21      1   9  18 
+  OSNOVE RADIOKOMUNIKACIJSKIH SUSTAVA          3  14      1      4  18  31      4  15  21 
+  MOBILNE KOMUNIKACIJE                         2  22      0      1  11  25      4  15  23 
+  EKONOMIKA                                    1  11      2      8  18  28      0   8  16 
+
+ 5. godina
+
+  VIŠEMEDIJSKE KOMUNIKACIJE                    3  22      0      2  17  28      0  10  18 
+  FOTONIÈKE KOMUNIKACIJSKE TEHNOLOGIJE         0  17      2      4  14  25      3  14  24 
+  AUTOMATI SA SVOJSTVOM UÈENJA                 1  11      2      0   8  30      1   9  23 
+  RAZVOJ TELEKOMUNIKACIJSKE PROGRAMSKE POD     3  22      0      2  17  28      0  10  18 
+  ORGANIZACIJA TELEKOMUNIKACIJSKE MREŽE        8  24      1      1  11  31      4  14  24 
+  AUTOMATIZIRANA INSTRUMENTACIJA               7  21      3      4  21  30      2  11  22 
+
+Automatika
+
+ 3. godina
+
+  FIZIKA MATERIJALA                           10  23      2      0   7  21      3  15  24 
+  STOHASTIÈKI PROCESI                          8  16      3      1  17  31      1  14  22 
+  STOHASTIÈKA MATEMATIKA                      11  22      1      4  14  25      2  10  21 
+  DISKRETNA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  PROCESNA MJERENJA                            1  16      1      3  15  25      3  11  24 
+  TEHNIÈKA MEHANIKA                            9  24      3      8  14  23      8  16  22 
+  ENERGETSKA ELEKTRONIKA                      10  23      1      3  22  31      0   8  16 
+  ENERGETSKI PROCESI                           2  22      0      2  18  29      2  10  18 
+  TEORIJA INFORMACIJE                          0  24      0      2  11  24      7  16  24 
+  ALGORITMI I METODE OPTIMIZACIJE              9  21      2      3  11  28      0  11  23 
+  SIGNALI I SUSTAVI                            1  11      2      0  14  23      2   9  17 
+  SLUÈAJNI PROCESI U SUSTAVIMA                 7  21      1      1  15  23      1  10  21 
+  ELEKTRONIÈKA MJERENJA I INSTRUMENTACIJA      7  18      0      0   8  30      4  14  23 
+  ELEMENTI AUTOMATIZACIJE PROCESA              4  14      2      0  17  29      7  15  24 
+  MODELIRANJE I SIMULIRANJE PROCESA            7  18      0      4  21  30      1  11  22 
+  AUTOMATSKO UPRAVLJANJE                       2  17      3      9  17  28      4   7  18 
+  RAÈUNALA I                                   8  17      0      7  15  24      1   8  17 
+  RAÈUNALA II                                  3  21      3      2  16  28      0   9  18 
+  OSNOVE MIKROELEKTRONIÈKIH SKLOPOVA           4  15      3      1   9  22      2  14  23 
+  OPERACIJSKI SUSTAVI I                        3  11      2      7  16  25      0   9  17 
+  OSNOVE RADIOKOMUNIKACIJSKIH SUSTAVA          3  14      1      4  18  31      4  15  21 
+
+ 4. godina
+
+  PROCESNA MJERENJA                            1  16      1      3  15  25      3  11  24 
+  UPRAVLJANJE ELEKTROMOTORNIM POGONIMA         7  22      0      0  17  25      7  14  21 
+  REGULACIJA ELEKTROENERGETSKOG SUSTAVA        2  14      3      7  16  24      8  16  22 
+  DIGITALNA OBRADBA SIGNALA                   10  21      3      7  21  29      3   7  17 
+  DIGITALNA OBRADBA SLIKE                      8  17      3      2  16  24      1   9  18 
+  KONSTRUKCIJA I PROIZVODNJA ELEKTRONIÈKIH     3  15      2      0   8  22      2  15  23 
+  DIGITALNI SUSTAVI UPRAVLJANJA                9  23      0      4  21  30      4  14  23 
+  OSNOVE ROBOTIKE                              4  24      1      4  18  28      1  11  22 
+  NELINEARNI I OPTIMALNI SUSTAVI UPRAVLJAN     3  17      2      3  14  29      1   9  18 
+  AUTOMATIZACIJA POSTROJENJA I PROCESA         2  14      0      1  11  22      0  11  24 
+  SLIJEDNI SUSTAVI                             8  16      3      2  17  31      2  10  21 
+  OTVORENO RAÈUNARSTVO                        15  24      1     15  23  30      2  10  21 
+  RAÈUNALA I PROCESI                           0  18      1     14  23  31      4  15  24 
+  EKONOMIKA                                    1  11      2      8  18  28      0   8  16 
+
+ 5. godina
+
+  OBJEKTNO ORIJENTIRANO PROGRAMIRANJE          1  10      2      1  17  28      1  10  18 
+  PROJEKTIRANJE UGRAÐENIH RAÈUNALNIH SUSTA     3  16      0      1  23  31      0   7  16 
+  PODATKOVNI VIŠEMEDIJSKI PRIJENOS I RAÈUN    11  24      1      0  21  29      1  11  23 
+  AUTOMATIZIRANA INSTRUMENTACIJA               7  21      3      4  21  30      2  11  22 
+  SUSTAVI ZA DALJINSKO VOÐENJE I DISTRIBUI     0  18      0      3  15  23      0   9  24 
+  ODABRANA POGLAVLJA IZ PROGRAMSKOG INŽENJ     4  22      2      3  18  30      2  10  21 
+  RASPOZNAVANJE UZORAKA                        8  23      1      9  17  28      0   8  16 
+
+Raèunarska tehnika
+
+Radiokomunikacije i profesionalna elektronika
+
+ 3. godina
+
+  FIZIKA MATERIJALA                           10  23      2      0   7  21      3  15  24 
+  FIZIKA LASERA                                3  14      0      1  14  31      2  10  22 
+  NUMERIÈKA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  DISKRETNA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  TELEKOMUNIKACIJSKE MREŽE                     7  15      0      2  11  22      8  14  22 
+  FILTRI I FILTARSKA POJAÈALA                  9  22      2      0   8  25      7  15  24 
+  SIGNALI I SUSTAVI                            1  11      2      0  14  23      2   9  17 
+  AUTOMATSKO UPRAVLJANJE                       2  17      3      9  17  28      4   7  18 
+  RAÈUNALA I                                   8  17      0      7  15  24      1   8  17 
+  RAÈUNALA II                                  3  21      3      2  16  28      0   9  18 
+  TONFREKVENCIJSKA TEHNIKA                     7  16      3      7  15  25      3  14  23 
+  ELEKTROAKUSTIKA                              1  24      2      2  21  31      1  16  24 
+  OSNOVE MIKROELEKTRONIKE                      9  22      1      1   9  30      0  10  21 
+  TEORIJA ELEKTROMAGNETSKIH VALOVA             0  18      2      3  14  29      0   9  17 
+  TELEVIZIJA                                  14  24      3      3  17  30      0  10  22 
+  VISOKOFREKVENCIJSKA ELEKTRONIKA              4  21      1      3  11  28      1   9  18 
+  MODULACIJE I MODULATORI                      8  16      3      8  22  30      2  16  24 
+  MIKROVALNA ELEKTRONIKA                       2  22      0      1  16  24      4  11  21 
+
+ 4. godina
+
+  NUMERIÈKI POSTUPCI U PROJEKTIRANJU           4  23      3      1  11  30      7  16  22 
+  DIGITALNA OBRADBA SIGNALA                   10  21      3      7  21  29      3   7  17 
+  SUSTAVI ZA PRAÆENJE I VOÐENJE PROCESA        9  24      0      9  17  30      2  10  21 
+  MIKROELEKTRONIÈKI SKLOPOVI                   4  22      1      4  14  22      0   8  22 
+  RAÈUNALA I PROCESI                           0  18      1     14  23  31      4  15  24 
+  PRIJAMNICI                                   8  24      2      8  16  30      0   8  18 
+  DIGITALNA AUDIOTEHNIKA                      11  23      1      7  15  23      1  14  24 
+  ELEKTROAKUSTIÈKI SIGNALI I SUSTAVI           7  17      0      4  16  24      1  11  21 
+  OPTOELEKTRONIÈKI SKLOPOVI                    1  15      3      2  17  25      2  10  23 
+  OSNOVE RADIOKOMUNIKACIJSKIH SUSTAVA          3  14      1      4  18  31      4  15  21 
+  MIKROVALNE KOMUNIKACIJE                      0  18      2      3  14  29      0   9  17 
+  MOBILNE KOMUNIKACIJE                         2  22      0      1  11  25      4  15  23 
+  RADIOLOKACIJA I NAVIGACIJA                   9  24      0      0  11  28      1   9  18 
+  ANALIZA ŠUMA U KOMUNIKACIJSKIM SUSTAVIMA     2  16      2      3  15  29      3  11  22 
+  OPTIÈKI KOMUNIKACIJSKI SUSTAVI               1  15      3      2  17  25      2  10  23 
+  ANTENE                                       8  16      0      0   9  21      3  14  24 
+  EKONOMIKA                                    1  11      2      8  18  28      0   8  16 
+
+ 5. godina
+
+  STOHASTIÈKI PROCESI                          8  16      3      1  17  31      1  14  22 
+  DIGITALNE VIDEOKOMUNIKACIJE                  7  15      1      2  14  31      3  11  22 
+  DIGITALNA TELEVIZIJA                         1  23      2      4  17  29      0  14  24 
+  RADARSKI SUSTAVI                             2  22      0      1  11  25      4  15  23 
+  RADIOTELEMETRIJA                             9  24      0      0  11  28      1   9  18 
+  MIKROVALNI PRIJAMNICI                        0  21      2      0  14  24      0   9  24 
+
+Energetske tehnologije
+
+Nuklearna energetika
+
+
+
+
+
+
+
+Izgradnja i pogon elektroenergetskih sustava
+
+Upravljanje elektroenergetskim sistemom
+
+Opæa energetika
+
+
+
+
+
+
+
+Studij raèunarstva
+
+ 3. godina
+
+  FIZIKA MATERIJALA                           10  23      2      0   7  21      3  15  24 
+  NUMERIÈKA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  STOHASTIÈKA MATEMATIKA                      11  22      1      4  14  25      2  10  21 
+  PROGRAMSKE PARADIGME I JEZICI                2  14      0      8  22  31      1  11  22 
+  TEORIJA INFORMACIJE                          0  24      0      2  11  24      7  16  24 
+  TEORIJA MREŽA I LINIJA                       4  21      0      3  22  30      4  15  23 
+  SIGNALI I SUSTAVI                            1  11      2      0  14  23      2   9  17 
+  SLUÈAJNI PROCESI U SUSTAVIMA                 7  21      1      1  15  23      1  10  21 
+  AUTOMATSKO UPRAVLJANJE                       2  17      3      9  17  28      4   7  18 
+  TONFREKVENCIJSKA TEHNIKA                     7  16      3      7  15  25      3  14  23 
+  RASPOZNAVANJE UZORAKA                        8  23      1      9  17  28      0   8  16 
+  PROJEKTIRANJE DIGITALNIH SUSTAVA             8  22      2      1  18  30      0   8  24 
+  ARHITEKTURA I ORGANIZACIJA RAÈUNALA          4  15      2      8  24  31      2  10  21 
+  AUTOMATI, FORMALNI JEZICI I JEZIÈNI PROC     3  18      3      2  16  29      4  14  22 
+  AUTOMATI, FORMALNI JEZICI I JEZIÈNI PROC     3  18      3      4  16  29      4  14  22 
+  OPERACIJSKI SUSTAVI I                        3  11      2      7  16  25      0   9  17 
+  RAÈUNALNA GRAFIKA                            1  17      0      3  11  21      1   9  18 
+
+ 4. godina
+
+  BAZE PODATAKA                                8  24      2      0  14  25      1  11  22 
+  OPERACIJSKA ISTRAŽIVANJA                     4  16      0      8  16  24      4  17  24 
+  NUMERIÈKI POSTUPCI U PROJEKTIRANJU           4  23      3      1  11  30      7  16  22 
+  TELEKOMUNIKACIJSKE MREŽE                     7  15      0      2  11  22      8  14  22 
+  DIGITALNA OBRADBA SIGNALA                   10  21      3      7  21  29      3   7  17 
+  SLIJEDNI SUSTAVI                             8  16      3      2  17  31      2  10  21 
+  OTVORENO RAÈUNARSTVO                        15  24      1     15  23  30      2  10  21 
+  RAÈUNALA I PROCESI                           0  18      1     14  23  31      4  15  24 
+  RASPOZNAVANJE UZORAKA                        8  23      1      9  17  28      0   8  16 
+  INTELIGENTNI SUSTAVI                         2  14      2      2  17  30      1   9  18 
+  OPERACIJSKI SUSTAVI II                       3  11      2      4  16  25      0   9  17 
+  ANALIZA I PROJEKTIRANJE RAÈUNALOM            1  17      0      3  11  21      7  15  24 
+  MREŽE RAÈUNALA                               0  21      1      1   9  22      3  11  23 
+  MEMORIJSKI SUSTAVI                           9  22      3      4  15  24      2  14  23 
+  RAÈUNALNA GRAFIKA                            1  17      0      3  11  21      1   9  18 
+  POUZDANOST I NEOSJETLJIVOST NA POGREŠKE      2  23      1      0  18  28      3  15  23 
+  EKONOMIKA                                    1  11      2      8  18  28      0   8  16 
+
+ 5. godina
+
+  OBJEKTNO ORIJENTIRANO PROGRAMIRANJE          1  10      2      1  17  28      1  10  18 
+  MODELIRANJE I SIMULIRANJE                    0  24      0      0   8  30      2  11  24 
+  ODABRANA POGLAVLJA IZ PROGRAMSKOG INŽENJ     4  22      2      3  18  30      2  10  21 
+  OSNOVE RADIOKOMUNIKACIJSKIH SUSTAVA          3  14      1      4  18  31      4  15  21 
+  DIGITALNE VIDEOKOMUNIKACIJE                  7  15      1      2  14  31      3  11  22 
+
+Energetski sustavi
+
+ 3. godina
+
+  FIZIKA MATERIJALA                           10  23      2      0   7  21      3  15  24 
+  DISKRETNA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  TEORIJSKA ELEKTROTEHNIKA                     7  15      2      1  11  24      2  10  18 
+  NUMERIÈKI POSTUPCI U PROJEKTIRANJU           4  23      3      1  11  30      7  16  22 
+  PROCESNA MJERENJA                            1  16      1      3  15  25      3  11  24 
+  ELEKTRIÈNI STROJEVI I TRANSFORMATORI        11  21      1      4  21  29      4  14  22 
+  OSNOVE ENERGETSKE ELEKTRONIKE                8  17      0      7  16  24      4  14  24 
+  REGULACIJSKA TEHNIKA                         7  22      0      0  17  25      7  14  21 
+  ELEKTROTEHNIÈKI MATERIJALI I TEHNOLOGIJA     3  14      2      9  22  30      0   9  21 
+  TEHNIÈKA MEHANIKA                            9  24      3      8  14  23      8  16  22 
+  OSNOVE ÈVRSTOÆE I KONSTRUIRANJA              1  18      3      8  17  28      1  15  23 
+  VOÐENJE I PRIJELAZ TOPLINE                   8  24      2      3  16  30      1  10  21 
+  ENERGETSKI PROCESI                           2  22      0      2  18  29      2  10  18 
+  UVOD U NUKLEARNU ENERGETIKU                  3  18      1      2  15  28      1   9  17 
+  OBNOVLJIVI IZVORI ENERGIJE                   4  16      0      1  14  31      0   8  23 
+  PRIJENOS ELEKTRIÈNE ENERGIJE                 0  17      3      9  22  31      0   9  17 
+
+ 4. godina
+
+  OPERACIJSKA ISTRAŽIVANJA                     4  16      0      8  16  24      4  17  24 
+  NUMERIÈKI POSTUPCI U PROJEKTIRANJU           4  23      3      1  11  30      7  16  22 
+  PROCESNA MJERENJA                            1  16      1      3  15  25      3  11  24 
+  RASKLOPNA POSTROJENJA                       10  24      1      3  11  21      2  15  24 
+  ELEKTROENERGETSKE MREŽE                      0  17      1      9  22  31      0   9  17 
+  NUMERIÈKA ANALIZA ELEKTROENERGETSKOG SUS     2  15      0      4  22  31      3  11  21 
+  ELEKTRANE                                   14  24      3      1  14  23      7  15  23 
+  REGULACIJA ELEKTROENERGETSKOG SUSTAVA        2  14      3      7  16  24      8  16  22 
+  POUZDANOST ELEKTROENERGETSKOG SUSTAVA        7  22      3      4  15  23      1   9  18 
+  ENERGETSKI IZVORI                            8  21      0      9  17  29      2  10  23 
+  TEHNIKA VISOKOG NAPONA                       9  23      2      2  18  28      1  10  18 
+  ZAŠTITA I AUTOMATIKA ELEKTROENERGETSKOG      8  21      0      0  14  25      4  14  22 
+  PRIJENOS PODATAKA                            3  11      2      0  14  31      1  14  21 
+  EKONOMIKA                                    1  11      2      8  18  28      0   8  16 
+
+ 5. godina
+
+  OPERACIJSKA ISTRAŽIVANJA                     4  16      0      8  16  24      4  17  24 
+  VOÐENJE ELEKTROENERGETSKOG SUSTAVA           0  24      3      2  16  28      2  11  22 
+  POUZDANOST ELEKTROENERGETSKOG SUSTAVA        7  22      3      4  15  23      1   9  18 
+
+Energetske tehnologije
+
+ 3. godina
+
+  FIZIKA MATERIJALA                           10  23      2      0   7  21      3  15  24 
+  DISKRETNA MATEMATIKA                         0  18      1      4  18  29      3  11  23 
+  TEORIJSKA ELEKTROTEHNIKA                     7  15      2      1  11  24      2  10  18 
+  NUMERIÈKI POSTUPCI U PROJEKTIRANJU           4  23      3      1  11  30      7  16  22 
+  PROCESNA MJERENJA                            1  16      1      3  15  25      3  11  24 
+  ELEKTRIÈNI STROJEVI I TRANSFORMATORI        11  21      1      4  21  29      4  14  22 
+  OSNOVE ENERGETSKE ELEKTRONIKE                8  17      0      7  16  24      4  14  24 
+  REGULACIJSKA TEHNIKA                         7  22      0      0  17  25      7  14  21 
+  ELEKTROTEHNIÈKI MATERIJALI I TEHNOLOGIJA     3  14      2      9  22  30      0   9  21 
+  TEHNIÈKA MEHANIKA                            9  24      3      8  14  23      8  16  22 
+  OSNOVE ÈVRSTOÆE I KONSTRUIRANJA              1  18      3      8  17  28      1  15  23 
+  VOÐENJE I PRIJELAZ TOPLINE                   8  24      2      3  16  30      1  10  21 
+  ENERGETSKI PROCESI                           2  22      0      2  18  29      2  10  18 
+  UVOD U NUKLEARNU ENERGETIKU                  3  18      1      2  15  28      1   9  17 
+  OBNOVLJIVI IZVORI ENERGIJE                   4  16      0      1  14  31      0   8  23 
+  PRIJENOS ELEKTRIÈNE ENERGIJE                 0  17      3      9  22  31      0   9  17 
+
+ 4. godina
+
+  DJELOVANJE I ZAŠTITA OD ZRAÈENJA            10  18      1      7  17  30      7  14  23 
+  OPERACIJSKA ISTRAŽIVANJA                     4  16      0      8  16  24      4  17  24 
+  NUMERIÈKI POSTUPCI U PROJEKTIRANJU           4  23      3      1  11  30      7  16  22 
+  PROCESNA MJERENJA                            1  16      1      3  15  25      3  11  24 
+  RASKLOPNA POSTROJENJA                       10  24      1      3  11  21      2  15  24 
+  ELEKTROENERGETSKE MREŽE                      0  17      1      9  22  31      0   9  17 
+  NUMERIÈKA ANALIZA ELEKTROENERGETSKOG SUS     2  15      0      4  22  31      3  11  21 
+  ELEKTRANE                                   14  24      3      1  14  23      7  15  23 
+  REGULACIJA ELEKTROENERGETSKOG SUSTAVA        2  14      3      7  16  24      8  16  22 
+  ENERGETIKA I OKOLIŠ                          0  23      0      0  21  30      2  10  23 
+  POUZDANOST ELEKTROENERGETSKOG SUSTAVA        7  22      3      4  15  23      1   9  18 
+  ENERGETSKI IZVORI                            8  21      0      9  17  29      2  10  23 
+  SIGURNOST NUKLEARNIH POSTROJENJA             1  22      2      2  16  29      3  11  21 
+  NUKLEARNE ELEKTRANE                          3  18      3      2  11  21      0   9  18 
+  TEHNIKA VISOKOG NAPONA                       9  23      2      2  18  28      1  10  18 
+  ZAŠTITA I AUTOMATIKA ELEKTROENERGETSKOG      8  21      0      0  14  25      4  14  22 
+  PRIJENOS PODATAKA                            3  11      2      0  14  31      1  14  21 
+  EKONOMIKA                                    1  11      2      8  18  28      0   8  16 
+
+ 5. godina
+
+  GORIVNI CIKLUSI I REAKTORSKI MATERIJALI      0  24      2      4  17  29      1  11  23 
+  OPERACIJSKA ISTRAŽIVANJA                     4  16      0      8  16  24      4  17  24 
+  POUZDANOST ELEKTROENERGETSKOG SUSTAVA        7  22      3      4  15  23      1   9  18 

@@ -1,0 +1,20 @@
+// ATLControls.idl : IDL source for ATLControls.dll
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (ATLControls.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(35D32363-5B22-40EF-A639-505CA5A820A4),
+	version(1.0),
+	helpstring("ATLControls 1.0 Type Library")
+]
+library ATLCONTROLSLib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+};

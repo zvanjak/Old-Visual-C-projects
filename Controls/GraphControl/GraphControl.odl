@@ -1,0 +1,100 @@
+// GraphControl.odl : type library source for ActiveX Control project.
+
+// This file will be processed by the Make Type Library (mktyplib) tool to
+// produce the type library (GraphControl.tlb) that will become a resource in
+// GraphControl.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(106D39E5-C7AF-11D1-AFFE-0000C03E618C), version(1.0),
+  helpfile("GraphControl.hlp"),
+  helpstring("GraphControl ActiveX Control module"),
+  control ]
+library GRAPHCONTROLLib
+{
+	importlib(STDOLE_TLB);
+	importlib(STDTYPE_TLB);
+
+	//  Primary dispatch interface for CGraphCtrl
+
+	[ uuid(106D39E6-C7AF-11D1-AFFE-0000C03E618C),
+	  helpstring("Dispatch interface for Graph Control"), hidden ]
+	dispinterface _DGraph
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CGraphCtrl)
+			[id(1)] BSTR Title;
+			[id(2)] BSTR XAxisTitle;
+			[id(3)] boolean UseColor;
+			[id(4)] boolean UseLineStyles;
+			[id(5)] boolean ShowLegend;
+			[id(6)] boolean ShowCoordSystem;
+			[id(7)] boolean ShowScale;
+			[id(8)] short ScaleType;
+			[id(9)] short XAxisVar;
+			[id(10)] short YAxisVar;
+			[id(11)] short ZAxisVar;
+			[id(12)] short ScaleIntervalsNum;
+			[id(13)] short PlotType;
+			[id(14)] double StartX;
+			[id(15)] double EndX;
+			[id(20)] short GraphNum;
+			[id(21)] long PointsNum;
+			[id(16)] boolean SetLegendPosFlag;
+			[id(17)] double Distance;
+			[id(18)] double Azimuth;
+			[id(19)] double VerticalAngle;
+			//}}AFX_ODL_PROP
+
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CGraphCtrl)
+			[id(22)] short AddNewGraph(double* pdYVal, long lPointsNum, BSTR pchLegend);
+			[id(23)] short AddNewGraphWithX(double* pdXVal, double* pdYVal, long lPointsNum, BSTR pchLegend);
+			[id(24)] void RemoveGraph(short nID);
+			[id(25)] void RemoveAllGraphs();
+			[id(26)] short ShowGraph(short nID, boolean bShow);
+			[id(27)] short Resize(short nXPercent, short nYPercent);
+			[id(28)] short Move(short nXPercent, short nYPercent);
+			[id(29)] void SetLegendPos(short nXPercent, short nYPercent);
+			[id(30)] void DrawItself(long* pDC, short x1, short y1, short x2, short y2);
+			[id(31)] boolean DrawToMetafile(BSTR FileNmae);
+			//}}AFX_ODL_METHOD
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+	};
+
+	//  Event dispatch interface for CGraphCtrl
+
+	[ uuid(106D39E7-C7AF-11D1-AFFE-0000C03E618C),
+	  helpstring("Event interface for Graph Control") ]
+	dispinterface _DGraphEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+			// NOTE - ClassWizard will maintain event information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_EVENT(CGraphCtrl)
+			//}}AFX_ODL_EVENT
+	};
+
+	//  Class information for CGraphCtrl
+
+	[ uuid(106D39E8-C7AF-11D1-AFFE-0000C03E618C),
+	  helpstring("Graph Control"), control ]
+	coclass Graph
+	{
+		[default] dispinterface _DGraph;
+		[default, source] dispinterface _DGraphEvents;
+	};
+
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Template|Win32">
+      <Configuration>Template</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <SccProjectName>"$/QAPSolver", YJAAAAAA</SccProjectName>
+    <SccLocalPath>.</SccLocalPath>
+    <Keyword>MFCProj</Keyword>
+    <ProjectGuid>{8805C14C-1DDF-CE82-AEE4-68723148509B}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Template|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>.\Debug\</OutDir>
+    <IntDir>.\Debug\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules />
+    <CodeAnalysisRuleAssemblies />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>.\Release\</OutDir>
+    <IntDir>.\Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules />
+    <CodeAnalysisRuleAssemblies />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'">
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules />
+    <CodeAnalysisRuleAssemblies />
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <MinimalRebuild>true</MinimalRebuild>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\Debug\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\Debug\QAPSolver.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\Debug\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Debug\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Debug\QAPSolver.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x041a</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Debug\QAPSolver.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>.\Debug\QAPSolver.exe</OutputFile>
+      <AdditionalDependencies>QAPLibraryDbg.lib;Win32SerializeDbg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <StringPooling>true</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <Optimization>MaxSpeed</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerOutput>AssemblyAndSourceCode</AssemblerOutput>
+      <AssemblerListingLocation>.\Release\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\Release\QAPSolver.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\Release\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Release\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Release\QAPSolver.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x041a</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Release\QAPSolver.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>.\Release\QAPSolver.exe</OutputFile>
+      <AdditionalDependencies>QAPLibrary.lib;Win32Serialize.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ChildFrm.cpp" />
+    <ClCompile Include="DlgAlgDepQualityOfSolution.cpp" />
+    <ClCompile Include="DlgGeneric.cpp" />
+    <ClCompile Include="DlgSelectGraphNumber.cpp" />
+    <ClCompile Include="DlgSetProblemInstances.cpp" />
+    <ClCompile Include="DlgTestChart.cpp" />
+    <ClCompile Include="DlgTimeToReachSol.cpp" />
+    <ClCompile Include="DlgViewBestSolution.cpp" />
+    <ClCompile Include="DlgViewData.cpp" />
+    <ClCompile Include="DlgViewGraphResults.cpp" />
+    <ClCompile Include="DlgViewResults.cpp" />
+    <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="QAPCompareDoc.cpp" />
+    <ClCompile Include="QAPCompareView.cpp" />
+    <ClCompile Include="QAPSolver.cpp" />
+    <ClCompile Include="QAPSolverDoc.cpp" />
+    <ClCompile Include="QAPSolverView.cpp" />
+    <ClCompile Include="StdAfx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="commondialog.cpp" />
+    <ClCompile Include="font.cpp" />
+    <ClCompile Include="graph.cpp" />
+    <ClCompile Include="mschart.cpp" />
+    <ClCompile Include="msflexgrid.cpp" />
+    <ClCompile Include="picture.cpp" />
+    <ClCompile Include="prikazrasporedaispita.cpp" />
+    <ClCompile Include="rowcursor.cpp" />
+    <ClCompile Include="simplegraph.cpp" />
+    <ClCompile Include="vcaxis.cpp" />
+    <ClCompile Include="vcaxisgrid.cpp" />
+    <ClCompile Include="vcaxisscale.cpp" />
+    <ClCompile Include="vcaxistitle.cpp" />
+    <ClCompile Include="vcbackdrop.cpp" />
+    <ClCompile Include="vcbrush.cpp" />
+    <ClCompile Include="vccategoryscale.cpp" />
+    <ClCompile Include="vccolor.cpp" />
+    <ClCompile Include="vccoor.cpp" />
+    <ClCompile Include="vcdatagrid.cpp" />
+    <ClCompile Include="vcdatapoint.cpp" />
+    <ClCompile Include="vcdatapointlabel.cpp" />
+    <ClCompile Include="vcdatapoints.cpp" />
+    <ClCompile Include="vcfill.cpp" />
+    <ClCompile Include="vcfont.cpp" />
+    <ClCompile Include="vcfootnote.cpp" />
+    <ClCompile Include="vcframe.cpp" />
+    <ClCompile Include="vcintersection.cpp" />
+    <ClCompile Include="vclabel.cpp" />
+    <ClCompile Include="vclabels.cpp" />
+    <ClCompile Include="vclcoor.cpp" />
+    <ClCompile Include="vclegend.cpp" />
+    <ClCompile Include="vclight.cpp" />
+    <ClCompile Include="vclightsource.cpp" />
+    <ClCompile Include="vclightsources.cpp" />
+    <ClCompile Include="vclocation.cpp" />
+    <ClCompile Include="vcmarker.cpp" />
+    <ClCompile Include="vcpen.cpp" />
+    <ClCompile Include="vcplot.cpp" />
+    <ClCompile Include="vcplotbase.cpp" />
+    <ClCompile Include="vcrect.cpp" />
+    <ClCompile Include="vcseries.cpp" />
+    <ClCompile Include="vcseriescollection.cpp" />
+    <ClCompile Include="vcseriesmarker.cpp" />
+    <ClCompile Include="vcseriesposition.cpp" />
+    <ClCompile Include="vcshadow.cpp" />
+    <ClCompile Include="vcstatline.cpp" />
+    <ClCompile Include="vctextlayout.cpp" />
+    <ClCompile Include="vctick.cpp" />
+    <ClCompile Include="vctitle.cpp" />
+    <ClCompile Include="vcvaluescale.cpp" />
+    <ClCompile Include="vcview3d.cpp" />
+    <ClCompile Include="vcwall.cpp" />
+    <ClCompile Include="vcweighting.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="QAPSolver.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChildFrm.h" />
+    <ClInclude Include="DlgAlgDepQualityOfSolution.h" />
+    <ClInclude Include="DlgGeneric.h" />
+    <ClInclude Include="DlgOptimizationGenetic.h" />
+    <ClInclude Include="DlgOptimizationGRASP.h" />
+    <ClInclude Include="DlgOptimizationLocal.h" />
+    <ClInclude Include="DlgOptimizationSimAnnealing.h" />
+    <ClInclude Include="DlgOptimizationTabuSearch.h" />
+    <ClInclude Include="DlgSelectGraphNumber.h" />
+    <ClInclude Include="DlgSetProblemInstances.h" />
+    <ClInclude Include="DlgTestChart.h" />
+    <ClInclude Include="DlgTimeToReachSol.h" />
+    <ClInclude Include="DlgViewBestSolution.h" />
+    <ClInclude Include="DlgViewData.h" />
+    <ClInclude Include="DlgViewGraphResults.h" />
+    <ClInclude Include="DlgViewResults.h" />
+    <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="QAPCompareDoc.h" />
+    <ClInclude Include="QAPCompareView.h" />
+    <ClInclude Include="QAPSolver.h" />
+    <ClInclude Include="QAPSolverDoc.h" />
+    <ClInclude Include="QAPSolverView.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="commondialog.h" />
+    <ClInclude Include="font.h" />
+    <ClInclude Include="graph.h" />
+    <ClInclude Include="mschart.h" />
+    <ClInclude Include="msflexgrid.h" />
+    <ClInclude Include="picture.h" />
+    <ClInclude Include="prikazrasporedaispita.h" />
+    <ClInclude Include="rowcursor.h" />
+    <ClInclude Include="simplegraph.h" />
+    <ClInclude Include="vcaxis.h" />
+    <ClInclude Include="vcaxisgrid.h" />
+    <ClInclude Include="vcaxisscale.h" />
+    <ClInclude Include="vcaxistitle.h" />
+    <ClInclude Include="vcbackdrop.h" />
+    <ClInclude Include="vcbrush.h" />
+    <ClInclude Include="vccategoryscale.h" />
+    <ClInclude Include="vccolor.h" />
+    <ClInclude Include="vccoor.h" />
+    <ClInclude Include="vcdatagrid.h" />
+    <ClInclude Include="vcdatapoint.h" />
+    <ClInclude Include="vcdatapointlabel.h" />
+    <ClInclude Include="vcdatapoints.h" />
+    <ClInclude Include="vcfill.h" />
+    <ClInclude Include="vcfont.h" />
+    <ClInclude Include="vcfootnote.h" />
+    <ClInclude Include="vcframe.h" />
+    <ClInclude Include="vcintersection.h" />
+    <ClInclude Include="vclabel.h" />
+    <ClInclude Include="vclabels.h" />
+    <ClInclude Include="vclcoor.h" />
+    <ClInclude Include="vclegend.h" />
+    <ClInclude Include="vclight.h" />
+    <ClInclude Include="vclightsource.h" />
+    <ClInclude Include="vclightsources.h" />
+    <ClInclude Include="vclocation.h" />
+    <ClInclude Include="vcmarker.h" />
+    <ClInclude Include="vcpen.h" />
+    <ClInclude Include="vcplot.h" />
+    <ClInclude Include="vcplotbase.h" />
+    <ClInclude Include="vcrect.h" />
+    <ClInclude Include="vcseries.h" />
+    <ClInclude Include="vcseriescollection.h" />
+    <ClInclude Include="vcseriesmarker.h" />
+    <ClInclude Include="vcseriesposition.h" />
+    <ClInclude Include="vcshadow.h" />
+    <ClInclude Include="vcstatline.h" />
+    <ClInclude Include="vctextlayout.h" />
+    <ClInclude Include="vctick.h" />
+    <ClInclude Include="vctitle.h" />
+    <ClInclude Include="vcvaluescale.h" />
+    <ClInclude Include="vcview3d.h" />
+    <ClInclude Include="vcwall.h" />
+    <ClInclude Include="vcweighting.h" />
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\Optimization\Base.h" />
+    <ClInclude Include="..\..\..\..\..\Library\C++\Include\Mathlib\Matrix.h" />
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\Optimization\Optimization.h" />
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\Optimization\OptimizationResult.h" />
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\Optimization\OptRefresh.h" />
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\QAP\QAP.H" />
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\QAP\QAPTabuSearch.h" />
+    <ClInclude Include="..\..\..\..\..\Library\C++\Include\QAP\Win32Serialize.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\qap_comp.ico" />
+    <CustomBuild Include="res\QAPSolver.ico" />
+    <CustomBuild Include="res\QAPSolver.rc2">
+      <FileType>RC</FileType>
+    </CustomBuild>
+    <CustomBuild Include="res\QAPSolverDoc.ico" />
+    <CustomBuild Include="res\Toolbar.bmp" />
+    <CustomBuild Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="QAPSolver.vcxproj">
+      <Project>{8805c14c-1ddf-ce82-aee4-68723148509b}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

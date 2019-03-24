@@ -1,0 +1,641 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Croatian resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_HRV)
+#ifdef _WIN32
+LANGUAGE LANG_CROATIAN, SUBLANG_DEFAULT
+#pragma code_page(1250)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DATUM_FIKS DIALOG DISCARDABLE  0, 0, 225, 111
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Datumi ispitnih rokova "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Prihvati",IDOK,168,7,50,14
+    PUSHBUTTON      "Odbaci",IDCANCEL,168,24,50,14
+    EDITTEXT        IDC_EDIT_ZAPORKA,7,17,77,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT_NAZIV,7,49,209,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT_ROK_1,7,84,45,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_ROK_2,87,84,47,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_ROK_3,171,84,46,14,ES_AUTOHSCROLL
+    LTEXT           "Zaporka Kolegija",IDC_STATIC,7,7,77,8
+    LTEXT           "Naziv kolegija",IDC_STATIC,7,39,117,8
+    LTEXT           "Datum 1. roka",IDC_STATIC,7,73,46,8
+    LTEXT           "Datum 2. roka",IDC_STATIC,87,74,49,8
+    LTEXT           "Datum 3. roka",IDC_STATIC,171,74,45,8
+END
+
+IDD_DLGBAR DIALOG DISCARDABLE  0, 0, 462, 10
+STYLE DS_MODALFRAME | WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Progress1",IDC_PROGRESS1,"msctls_progress32",WS_BORDER,
+                    81,2,80,7
+    CONTROL         "Progress2",IDC_PROGRESS2,"msctls_progress32",WS_BORDER,
+                    257,2,80,7
+    LTEXT           "Ukupan napredak",IDC_STATIC,191,1,59,8
+    LTEXT           "Pojedinaèan napredak",IDC_STATIC,3,1,73,8
+END
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 247, 63
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "O programu"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    ICON            IDI_ICON_GA,IDC_STATIC,7,7,20,20
+    LTEXT           "Mentor               Prof. Dr. Sc. Damir Kalpiæ\n\rDiplomand         Hrvoje Pehar \n\r                          0036335656",
+                    IDC_STATIC,40,25,135,28,SS_NOPREFIX,WS_EX_STATICEDGE
+    DEFPUSHBUTTON   "Prihvati",IDOK,193,7,47,14,WS_GROUP
+    LTEXT           "Optimizacija Ispitnih Rokova",IDC_STATIC,38,7,140,10
+END
+
+IDD_KOLEGIJ DIALOG DISCARDABLE  0, 0, 228, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Predodreðivanje datuma ispitnih rokova kolegija"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Prihvati",IDOK,171,170,50,14
+    LISTBOX         IDC_LIST_KOLEGIJI,7,18,72,166,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    LISTBOX         IDC_LIST_KOLEGIJI_FIKS,144,50,77,110,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Prijenos >>",IDC_BUTTON_PRIJENOS,90,87,43,14
+    PUSHBUTTON      "Brisanje",IDC_BUTTON_POBRISI,192,7,29,14
+    LTEXT           "Kolegiji s predodreðenim ",IDC_STATIC,144,30,77,8
+    LTEXT           "Kolegij",IDC_STATIC,7,7,22,8
+    PUSHBUTTON      "Datum ",IDC_BUTTON_DATUM,144,7,30,14
+    LTEXT           "datumima",IDC_STATIC,144,39,31,8
+END
+
+IDD_PARAMETRI DIALOG DISCARDABLE  0, 0, 269, 215
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Parametri optimizacije"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Prihvati",IDOK,204,7,55,14
+    PUSHBUTTON      "Odbaci",IDCANCEL,140,7,50,14
+    GROUPBOX        "% Mutacije jedinki",IDC_STATIC,8,7,119,77
+    EDITTEXT        IDC_EDIT1,13,28,61,14,ES_AUTOHSCROLL
+    CONTROL         "Spin1",IDC_SPIN1,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,56,28,11,14
+    LTEXT           "Poèetna vrijednost",IDC_STATIC,14,17,60,8
+    LTEXT           "Završna vrijednost",IDC_STATIC,14,53,59,8
+    EDITTEXT        IDC_EDIT5,14,63,61,14,ES_AUTOHSCROLL
+    CONTROL         "Spin1",IDC_SPIN2,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,64,64,11,14
+    LTEXT           "Korak",IDC_STATIC,82,36,20,8
+    EDITTEXT        IDC_EDIT6,82,47,37,14,ES_AUTOHSCROLL
+    CONTROL         "Spin1",IDC_SPIN5,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,108,47,11,14
+    GROUPBOX        "% Mutacije bitova jedinke",IDC_STATIC,8,95,119,71
+    LTEXT           "Poèetna vrijednost",IDC_STATIC,14,106,60,8
+    LTEXT           "Završna vrijednost",IDC_STATIC,14,136,59,8
+    LTEXT           "Poèetna vrijednost",IDC_STATIC,146,44,60,8
+    LTEXT           "Završna vrijednost",IDC_STATIC,146,71,59,8
+    EDITTEXT        IDC_EDIT2,14,116,61,14,ES_AUTOHSCROLL
+    CONTROL         "Spin7",IDC_SPIN7,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,63,116,11,14
+    EDITTEXT        IDC_EDIT7,14,146,61,14,ES_AUTOHSCROLL
+    CONTROL         "Spin8",IDC_SPIN8,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,64,146,11,14
+    LTEXT           "Korak",IDC_STATIC,82,120,20,8
+    EDITTEXT        IDC_EDIT8,81,131,37,14,ES_AUTOHSCROLL
+    CONTROL         "Spin9",IDC_SPIN9,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,107,132,11,14
+    EDITTEXT        IDC_EDIT4,146,53,61,14,ES_AUTOHSCROLL
+    CONTROL         "Spin10",IDC_SPIN10,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,197,53,11,14
+    EDITTEXT        IDC_EDIT9,146,82,61,14,ES_AUTOHSCROLL
+    CONTROL         "Spin11",IDC_SPIN11,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,198,82,11,14
+    LTEXT           "Korak",IDC_STATIC,217,56,20,8
+    EDITTEXT        IDC_EDIT10,218,67,35,14,ES_AUTOHSCROLL
+    CONTROL         "Spin12",IDC_SPIN12,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,242,67,11,14
+    GROUPBOX        "% Smislene poèetne populacije",IDC_STATIC,140,31,122,72
+    EDITTEXT        IDC_EDIT11,141,120,87,14,ES_AUTOHSCROLL
+    CONTROL         "Spin6",IDC_SPIN6,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,216,121,11,14
+    LTEXT           "Velièina poèetne populacije",IDC_STATIC,141,107,88,8
+    EDITTEXT        IDC_EDIT15,212,152,50,14,ES_AUTOHSCROLL
+    CONTROL         "Spin16",IDC_SPIN16,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,251,152,11,14
+    LTEXT           "Broj ponavljanja",IDC_STATIC,211,142,51,8
+    LTEXT           "Broj iteracija x 1000",IDC_STATIC,141,142,62,8
+    EDITTEXT        IDC_EDIT17,140,152,59,14,ES_AUTOHSCROLL
+    CONTROL         "Spin18",IDC_SPIN18,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,185,152,11,14
+    EDITTEXT        IDC_EDIT_DG,14,192,49,14,ES_AUTOHSCROLL
+    CONTROL         "Spin13",IDC_SPIN13,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,53,192,11,14
+    EDITTEXT        IDC_EDIT_IG,73,192,57,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT_GG,141,192,47,14,ES_AUTOHSCROLL
+    CONTROL         "Spin14",IDC_SPIN14,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,178,192,11,14
+    LTEXT           "Doljnja granica",IDC_STATIC,14,182,48,8
+    LTEXT           "Idealna vrijednost",IDC_STATIC,75,182,56,8
+    LTEXT           "Gornja granica",IDC_STATIC,141,182,47,8
+    GROUPBOX        "Udaljenosi izmeðu istih ispita na razlièitim rokovima",
+                    IDC_STATIC,8,171,189,39
+    EDITTEXT        IDC_EDIT12,209,192,53,14,ES_AUTOHSCROLL
+    CONTROL         "Spin15",IDC_SPIN15,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,252,190,10,14
+    LTEXT           "Grupa predmeta",IDC_STATIC,209,174,53,8
+    LTEXT           "max_br_stud",IDC_STATIC,209,182,53,8
+END
+
+IDD_DIALOG_PODACI DIALOG DISCARDABLE  0, 0, 172, 164
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Uèitavanje podataka"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Prihvati",IDOK,109,142,50,14
+    PUSHBUTTON      "Odbaci",IDCANCEL,20,142,50,14
+    PUSHBUTTON      "Uèitavanje Podataka",IDC_BUTTON_OPEN,49,80,75,14
+    GROUPBOX        "Odabir Godine",IDC_STATIC,18,6,62,66
+    CONTROL         "1. Godina",IDC_RADIO_GOD_1,"Button",BS_AUTORADIOBUTTON,
+                    26,17,47,10
+    CONTROL         "2. Godina",IDC_RADIO_GOD_2,"Button",BS_AUTORADIOBUTTON,
+                    26,31,47,10
+    CONTROL         "3. Godina",IDC_RADIO_GOD_3,"Button",BS_AUTORADIOBUTTON,
+                    26,44,47,10
+    CONTROL         "4. Godina",IDC_RADIO_GOD_4,"Button",BS_AUTORADIOBUTTON,
+                    26,57,47,10
+    GROUPBOX        "Ispitni rok",IDC_STATIC,94,6,65,65
+    CONTROL         "Zimski",IDC_RADIO_ROK_Z,"Button",BS_AUTORADIOBUTTON,102,
+                    18,36,10
+    CONTROL         "Proljetni",IDC_RADIO_ROK_P,"Button",BS_AUTORADIOBUTTON,
+                    102,31,41,10
+    CONTROL         "Ljetni",IDC_RADIO_ROK_LJ,"Button",BS_AUTORADIOBUTTON,
+                    102,44,33,10
+    CONTROL         "Jesenski",IDC_RADIO_ROK_J,"Button",BS_AUTORADIOBUTTON,
+                    102,57,43,10
+    LTEXT           "Trajanje ispitnog roka",IDC_STATIC,20,100,68,8
+    EDITTEXT        IDC_EDIT2,20,112,67,14,ES_AUTOHSCROLL
+    CONTROL         "Spin1",IDC_SPIN1,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS | 
+                    UDS_NOTHOUSANDS,79,112,11,14
+    LTEXT           "(Dana)",IDC_STATIC,102,114,22,8
+END
+
+IDD_DIALOG_GRESKA DIALOG DISCARDABLE  0, 0, 114, 74
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Greška"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Prihvati",IDOK,30,53,53,14
+    LTEXT           "Podaci o ispitima nisu uèitani!",IDC_STATIC,7,7,93,8
+    LTEXT           "Pritisnite ovaj gumb",IDC_STATIC,7,24,62,8
+    ICON            IDI_ICON2,IDC_STATIC,73,24,20,20
+    LTEXT           "na traci s alatima.",IDC_STATIC,7,33,56,8
+END
+
+IDD_DIALOG_GRESKA_2 DIALOG DISCARDABLE  0, 0, 122, 71
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Greška"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Prihvati",IDOK,37,50,50,14
+    LTEXT           "Podaci o parametrima nisu uèitani!",IDC_STATIC,7,7,108,
+                    8
+    LTEXT           "Pritisnite ovaj gumb",IDC_STATIC,7,21,62,8
+    LTEXT           "na traci s alatima.",IDC_STATIC,7,31,56,8
+    ICON            IDI_ICON3,IDC_STATIC,78,21,21,20
+END
+
+IDD_UCIT_MASOVNI DIALOG DISCARDABLE  0, 0, 248, 119
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Uèitavanje masovnih podataka"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Prihvati",IDOK,185,98,50,14
+    PUSHBUTTON      "Odbaci",IDCANCEL,13,98,50,14
+    GROUPBOX        "Uèitavanje nastavnog plana",IDC_STATIC,7,7,234,37
+    GROUPBOX        "Uèitavanje presjeka broja studenata",IDC_STATIC,7,54,
+                    234,31
+    PUSHBUTTON      "NastavPlan",IDC_BUTTON_NASTAV_PLAN,13,20,50,14
+    PUSHBUTTON      "Presjek",IDC_BUTTON_PRESJEK,13,66,50,14
+    LTEXT           "sifra_predmeta#sifra_smjera# redovni_izborni#",
+                    IDC_STATIC,77,17,150,8
+    LTEXT           "semestar#grupa_predmeta#broj_studenata#",IDC_STATIC,77,
+                    27,146,8
+    LTEXT           "sifra_ispit_1#sifra_ispit_2#broj_presjek",IDC_STATIC,77,
+                    69,158,8
+END
+
+IDD_DIALOG_NAPREDAK DIALOG DISCARDABLE  0, 0, 172, 22
+STYLE DS_MODALFRAME | WS_POPUP
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Progress1",IDC_PROGRESS3,"msctls_progress32",WS_BORDER,
+                    7,7,158,8
+END
+
+IDD_DIALOG_GRESKA_3 DIALOG DISCARDABLE  0, 0, 107, 71
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Greška"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Prihvati",IDOK,30,50,50,14
+    LTEXT           "Optimizacija nije zaustavljena!",IDC_STATIC,7,7,93,8
+    LTEXT           "Pritisnite ovaj gumb",IDC_STATIC,7,19,65,8
+    LTEXT           "na traci s alatima.",IDC_STATIC,7,28,64,8
+    ICON            IDI_ICON4,IDC_STATIC,72,20,20,20
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DATUM_FIKS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 218
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 104
+    END
+
+    IDD_DLGBAR, DIALOG
+    BEGIN
+        RIGHTMARGIN, 455
+        BOTTOMMARGIN, 9
+    END
+
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        RIGHTMARGIN, 245
+    END
+
+    IDD_KOLEGIJ, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 221
+        VERTGUIDE, 7
+        VERTGUIDE, 79
+        VERTGUIDE, 90
+        VERTGUIDE, 133
+        VERTGUIDE, 144
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+        HORZGUIDE, 160
+    END
+
+    IDD_PARAMETRI, DIALOG
+    BEGIN
+        VERTGUIDE, 8
+        VERTGUIDE, 14
+        VERTGUIDE, 209
+        VERTGUIDE, 254
+        VERTGUIDE, 262
+        HORZGUIDE, 7
+        HORZGUIDE, 166
+        HORZGUIDE, 190
+        HORZGUIDE, 206
+    END
+
+    IDD_DIALOG_PODACI, DIALOG
+    BEGIN
+        VERTGUIDE, 20
+        VERTGUIDE, 26
+        VERTGUIDE, 49
+        VERTGUIDE, 102
+        VERTGUIDE, 124
+        VERTGUIDE, 159
+        HORZGUIDE, 6
+        HORZGUIDE, 27
+        HORZGUIDE, 41
+        HORZGUIDE, 54
+        HORZGUIDE, 67
+        HORZGUIDE, 94
+        HORZGUIDE, 156
+    END
+
+    IDD_DIALOG_GRESKA, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 107
+        VERTGUIDE, 30
+        VERTGUIDE, 83
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 67
+    END
+
+    IDD_DIALOG_GRESKA_2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 115
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 64
+    END
+
+    IDD_UCIT_MASOVNI, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 241
+        VERTGUIDE, 13
+        VERTGUIDE, 77
+        VERTGUIDE, 235
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 112
+    END
+
+    IDD_DIALOG_NAPREDAK, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 165
+        VERTGUIDE, 7
+        VERTGUIDE, 165
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 15
+    END
+
+    IDD_DIALOG_GRESKA_3, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 100
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 64
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_TOOLBAR1 TOOLBAR DISCARDABLE  16, 16
+BEGIN
+    BUTTON      ID_BUTTON_OPEN
+    SEPARATOR
+    BUTTON      ID_BUTTON_OPCIJE
+    SEPARATOR
+    BUTTON      ID_BUTTON_FX
+    SEPARATOR
+    BUTTON      ID_BUTTON_GA
+    SEPARATOR
+    BUTTON      ID_BUTTON_STOP
+    SEPARATOR
+    BUTTON      ID_BUTTON_SAVE_TREN
+    SEPARATOR
+    BUTTON      ID_BUTTON_SAVE
+    SEPARATOR
+    BUTTON      ID_BUTTON_ABOUT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_TOOLBAR1            BITMAP  DISCARDABLE     "toolbar1.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU DISCARDABLE 
+BEGIN
+    POPUP "&Datoteka"
+    BEGIN
+        MENUITEM "&Uèitavanje podataka\tCtrl+U", 
+                                                ID_DATOTEKA_UCITAVANJEPODATAKA
+
+        MENUITEM "&Snimanje rezultata\tCtrl+S", ID_DATOTEKA_SNIMANJEREZULTATA
+
+        MENUITEM "Snimanje &odabranog rezultata\tCtrl+O", 
+                                                ID_DATOTEKA_SNIMANJEODABRANOGREZULTATA
+
+        MENUITEM "&Izlaz\t Alt+F4",             ID_FILE_EXIT
+    END
+    POPUP "&Opcije"
+    BEGIN
+        MENUITEM "Odreðivanjei &datumi\t Ctrl+D", 
+                                                ID_OPCIJE_PREDODREENIDATUMI
+        MENUITEM "&Parametri optimizacije\t Ctrl+P", 
+                                                ID_OPCIJE_PARAMETRIOPTIMIZACIJE
+
+    END
+    POPUP "&Alati"
+    BEGIN
+        MENUITEM "&Pokretanje optimizacije\t Ctrl+O", 
+                                                ID_ALATI_POKRENIOPTIMIZACIJU
+        MENUITEM "&Zaustavljanje optimizacije\tCtrl+Z", 
+                                                ID_ALATI_ZAUSTAVLJANJEOPTIMIZACIJE
+
+    END
+    POPUP "&Pomoæ"
+    BEGIN
+        MENUITEM "&O programu\tF12",            ID_HELP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON_GA             ICON    DISCARDABLE     "icon1.ico"
+IDR_MAINFRAME           ICON    DISCARDABLE     "ico00001.ico"
+IDI_ICON1               ICON    DISCARDABLE     "Fx.ico"
+IDI_ICON2               ICON    DISCARDABLE     "Files03b.ico"
+IDI_ICON3               ICON    DISCARDABLE     "Wrench.ico"
+IDI_ICON4               ICON    DISCARDABLE     "Msgbox01.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "Genetski Algoritmi : Optimizacija Ispitnih Rokova"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_HELP_ABOUT           "Provides information about the application"
+    ID_DIALOG_WNDSIZE       "Allows you to change the window size"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_EXIT            "Exits the application"
+END
+
+#endif    // Croatian resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS DISCARDABLE 
+BEGIN
+    "D",            ID_OPCIJE_PREDODREENIDATUMI, VIRTKEY, CONTROL, NOINVERT
+    "O",            ID_ALATI_POKRENIOPTIMIZACIJU, VIRTKEY, CONTROL, NOINVERT
+    "P",            ID_OPCIJE_PARAMETRIOPTIMIZACIJE, VIRTKEY, CONTROL, 
+                                                    NOINVERT
+    "R",            ID_DATOTEKA_SNIMANJEODABRANOGREZULTATA, VIRTKEY, CONTROL, 
+                                                    NOINVERT
+    "S",            ID_DATOTEKA_SNIMANJEREZULTATA, VIRTKEY, CONTROL, 
+                                                    NOINVERT
+    "U",            ID_DATOTEKA_UCITAVANJEPODATAKA, VIRTKEY, CONTROL, 
+                                                    NOINVERT
+    VK_F12,         ID_HELP_ABOUT,          VIRTKEY, NOINVERT
+    VK_F4,          ID_FILE_EXIT,           VIRTKEY, ALT, NOINVERT
+    "Z",            ID_ALATI_ZAUSTAVLJANJEOPTIMIZACIJE, VIRTKEY, CONTROL, 
+                                                    NOINVERT
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041a04b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "Damage Data d.o.o.\0"
+            VALUE "FileDescription", "Optimizacija ispitnih rokova genetskim algortmom\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "DIALOG2\0"
+            VALUE "LegalCopyright", "Copyright © 1999 Hrvoje Pehar\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "DIALOG2.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "Dialog2 Application\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x41a, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

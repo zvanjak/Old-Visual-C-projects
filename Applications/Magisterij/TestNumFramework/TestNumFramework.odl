@@ -1,0 +1,42 @@
+// TestNumFramework.odl : type library source for TestNumFramework.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (TestNumFramework.tlb).
+
+[ uuid(C0824010-2AF3-43D9-82B2-AB68C5F90173), version(1.0) ]
+library TestNumFramework
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CTestNumFrameworkDoc
+	
+	[ uuid(CEB2F5A3-3E14-45B5-A8C0-C151039F0769) ]
+	dispinterface ITestNumFramework
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CTestDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CTestDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CTestNumFrameworkDoc
+	
+	[ uuid(EE33A12D-74A0-42C3-B771-A62BF6CC785A) ]
+	coclass TestNumFramework
+	{
+		[default] dispinterface ITestNumFramework;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

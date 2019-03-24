@@ -1,0 +1,324 @@
+
+
+Predmeti iz 1. semestra 
+
+266, FIZIKA I                            	 3.  21.      2.      0.  14.  22.      0.   8.  16.  
+343, LINEARNA ALGEBRA                    	 1.  23.      0.      2.  11.  30.      7.  15.  23.  
+344, MATEMATIÈKA ANALIZA I               	 9.  17.      1.      8.  16.  29.      3.  14.  23.  
+345, OSNOVE ELEKTROTEHNIKE I             	 2.  15.      0.      1.  17.  25.      1.  10.  18.  
+
+Predmeti iz 2. semestra 
+
+267, FIZIKA II                           	 4.  22.      3.      1.   9.  28.      1.   9.  17.  
+347, MATEMATIÈKA ANALIZA II              	 0.  18.      1.      3.  21.  29.      4.  11.  22.  
+349, PROGRAMIRANJE                       	 0.  14.      3.      0.  18.  30.      3.  11.  21.  
+348, OSNOVE ELEKTROTEHNIKE II            	 7.  22.      3.      7.  15.  24.      2.  15.  23.  
+350, INŽENJERSKA GRAFIKA I DOKUMENTIRANJ 	 8.  16.      2.      4.  14.  23.      0.  14.  22.  
+
+Predmeti iz 3. semestra 
+
+351, MATEMATIÈKA ANALIZA III             	 2.  16.      3.      7.  15.  24.      0.   8.  18.  
+355, ALGORITMI I STRUKTURE PODATAKA      	10.  22.      0.      1.   9.  28.      1.   9.  17.  
+352, MJERENJA U ELEKTROTEHNICI           	 8.  17.      3.      1.  17.  25.      7.  15.  23.  
+438, ELEKTRONIKA I                       	 1.  14.      2.      8.  17.  30.      1.  14.  22.  
+353, ENERGETSKA ELEKTROTEHNIKA           	 3.  23.      0.      2.  16.  28.      4.  14.  22.  
+
+Predmeti iz 4. semestra 
+
+439, STOHASTIÈKA MATEMATIKA              	11.  22.      2.      4.  14.  25.      2.  10.  21.  
+293, TEORIJA MREŽA I LINIJA              	 4.  21.      0.      3.  22.  30.      4.  15.  23.  
+361, OSNOVE DIGITALNIH RAÈUNALA          	 4.  21.      2.      3.  14.  22.      0.   8.  16.  
+442, ELEKTRONIKA II                      	 7.  15.      3.      2.  11.  23.      2.  11.  21.  
+360, DIGITALNA ELEKTRONIKA               	 7.  15.      1.      0.  11.  21.      0.  10.  18.  
+
+Predmeti iz 5. semestra 
+
+
+Predmeti iz 6. semestra 
+
+441, DISKRETNA MATEMATIKA                	 0.  18.      1.      0.  18.  29.      3.  11.  23.  
+
+Predmeti iz 7. semestra 
+
+
+Predmeti iz 8. semestra 
+
+429, NUMERIÈKA MATEMATIKA                	 0.  18.      1.      4.  18.  29.      3.  11.  23.  
+
+Predmeti iz 9. semestra 
+
+
+ Grupa predmeta broj   1
+
+266, FIZIKA I                            	 3.  21.      2.      0.  14.  22.      0.   8.  16.  
+267, FIZIKA II                           	 4.  22.      3.      1.   9.  28.      1.   9.  17.  
+
+ Grupa predmeta broj   2
+
+
+ Grupa predmeta broj   3
+
+343, LINEARNA ALGEBRA                    	 1.  23.      0.      2.  11.  30.      7.  15.  23.  
+344, MATEMATIÈKA ANALIZA I               	 9.  17.      1.      8.  16.  29.      3.  14.  23.  
+347, MATEMATIÈKA ANALIZA II              	 0.  18.      1.      3.  21.  29.      4.  11.  22.  
+351, MATEMATIÈKA ANALIZA III             	 2.  16.      3.      7.  15.  24.      0.   8.  18.  
+429, NUMERIÈKA MATEMATIKA                	 0.  18.      1.      4.  18.  29.      3.  11.  23.  
+439, STOHASTIÈKA MATEMATIKA              	11.  22.      2.      4.  14.  25.      2.  10.  21.  
+441, DISKRETNA MATEMATIKA                	 0.  18.      1.      0.  18.  29.      3.  11.  23.  
+
+ Grupa predmeta broj   4
+
+349, PROGRAMIRANJE                       	 0.  14.      3.      0.  18.  30.      3.  11.  21.  
+355, ALGORITMI I STRUKTURE PODATAKA      	10.  22.      0.      1.   9.  28.      1.   9.  17.  
+
+ Grupa predmeta broj   5
+
+345, OSNOVE ELEKTROTEHNIKE I             	 2.  15.      0.      1.  17.  25.      1.  10.  18.  
+348, OSNOVE ELEKTROTEHNIKE II            	 7.  22.      3.      7.  15.  24.      2.  15.  23.  
+
+ Grupa predmeta broj   6
+
+352, MJERENJA U ELEKTROTEHNICI           	 8.  17.      3.      1.  17.  25.      7.  15.  23.  
+
+ Grupa predmeta broj   7
+
+
+ Grupa predmeta broj   8
+
+
+ Grupa predmeta broj   9
+
+
+ Grupa predmeta broj   10
+
+350, INŽENJERSKA GRAFIKA I DOKUMENTIRANJ 	 8.  16.      2.      4.  14.  23.      0.  14.  22.  
+
+ Grupa predmeta broj   11
+
+
+ Grupa predmeta broj   12
+
+
+ Grupa predmeta broj   13
+
+
+ Grupa predmeta broj   14
+
+
+ Grupa predmeta broj   15
+
+
+ Grupa predmeta broj   16
+
+
+ Grupa predmeta broj   17
+
+
+ Grupa predmeta broj   18
+
+
+ Grupa predmeta broj   19
+
+
+ Grupa predmeta broj   20
+
+
+ Grupa predmeta broj   21
+
+
+ Grupa predmeta broj   22
+
+293, TEORIJA MREŽA I LINIJA              	 4.  21.      0.      3.  22.  30.      4.  15.  23.  
+
+ Grupa predmeta broj   23
+
+
+ Grupa predmeta broj   24
+
+
+ Grupa predmeta broj   25
+
+361, OSNOVE DIGITALNIH RAÈUNALA          	 4.  21.      2.      3.  14.  22.      0.   8.  16.  
+
+ Grupa predmeta broj   26
+
+
+ Grupa predmeta broj   27
+
+
+ Grupa predmeta broj   28
+
+438, ELEKTRONIKA I                       	 1.  14.      2.      8.  17.  30.      1.  14.  22.  
+442, ELEKTRONIKA II                      	 7.  15.      3.      2.  11.  23.      2.  11.  21.  
+
+ Grupa predmeta broj   29
+
+360, DIGITALNA ELEKTRONIKA               	 7.  15.      1.      0.  11.  21.      0.  10.  18.  
+
+ Grupa predmeta broj   30
+
+
+ Grupa predmeta broj   31
+
+
+ Grupa predmeta broj   32
+
+
+ Grupa predmeta broj   33
+
+
+ Grupa predmeta broj   34
+
+
+ Grupa predmeta broj   35
+
+
+ Grupa predmeta broj   36
+
+
+ Grupa predmeta broj   37
+
+
+ Grupa predmeta broj   38
+
+
+ Grupa predmeta broj   39
+
+
+ Grupa predmeta broj   40
+
+
+ Grupa predmeta broj   41
+
+353, ENERGETSKA ELEKTROTEHNIKA           	 3.  23.      0.      2.  16.  28.      4.  14.  22.  
+
+ Grupa predmeta broj   42
+
+
+ Grupa predmeta broj   43
+
+
+ Grupa predmeta broj   44
+
+
+ Grupa predmeta broj   45
+
+
+ Grupa predmeta broj   46
+
+
+ Grupa predmeta broj   47
+
+
+ Grupa predmeta broj   48
+
+
+ Grupa predmeta broj   49
+
+
+ Smjer  1
+
+266, FIZIKA I                            	 3.  21.      2.      0.  14.  22.      0.   8.  16.  
+267, FIZIKA II                           	 4.  22.      3.      1.   9.  28.      1.   9.  17.  
+343, LINEARNA ALGEBRA                    	 1.  23.      0.      2.  11.  30.      7.  15.  23.  
+344, MATEMATIÈKA ANALIZA I               	 9.  17.      1.      8.  16.  29.      3.  14.  23.  
+347, MATEMATIÈKA ANALIZA II              	 0.  18.      1.      3.  21.  29.      4.  11.  22.  
+351, MATEMATIÈKA ANALIZA III             	 2.  16.      3.      7.  15.  24.      0.   8.  18.  
+439, STOHASTIÈKA MATEMATIKA              	11.  22.      2.      4.  14.  25.      2.  10.  21.  
+349, PROGRAMIRANJE                       	 0.  14.      3.      0.  18.  30.      3.  11.  21.  
+355, ALGORITMI I STRUKTURE PODATAKA      	10.  22.      0.      1.   9.  28.      1.   9.  17.  
+345, OSNOVE ELEKTROTEHNIKE I             	 2.  15.      0.      1.  17.  25.      1.  10.  18.  
+348, OSNOVE ELEKTROTEHNIKE II            	 7.  22.      3.      7.  15.  24.      2.  15.  23.  
+352, MJERENJA U ELEKTROTEHNICI           	 8.  17.      3.      1.  17.  25.      7.  15.  23.  
+350, INŽENJERSKA GRAFIKA I DOKUMENTIRANJ 	 8.  16.      2.      4.  14.  23.      0.  14.  22.  
+293, TEORIJA MREŽA I LINIJA              	 4.  21.      0.      3.  22.  30.      4.  15.  23.  
+361, OSNOVE DIGITALNIH RAÈUNALA          	 4.  21.      2.      3.  14.  22.      0.   8.  16.  
+438, ELEKTRONIKA I                       	 1.  14.      2.      8.  17.  30.      1.  14.  22.  
+442, ELEKTRONIKA II                      	 7.  15.      3.      2.  11.  23.      2.  11.  21.  
+360, DIGITALNA ELEKTRONIKA               	 7.  15.      1.      0.  11.  21.      0.  10.  18.  
+353, ENERGETSKA ELEKTROTEHNIKA           	 3.  23.      0.      2.  16.  28.      4.  14.  22.  
+
+ Smjer  2
+
+
+ Smjer  3
+
+429, NUMERIÈKA MATEMATIKA                	 0.  18.      1.      4.  18.  29.      3.  11.  23.  
+
+ Smjer  4
+
+
+ Smjer  5
+
+
+ Smjer  6
+
+441, DISKRETNA MATEMATIKA                	 0.  18.      1.      0.  18.  29.      3.  11.  23.  
+
+ Smjer  7
+
+
+ Smjer  8
+
+
+ Smjer  9
+
+
+ Smjer  10
+
+
+ Smjer  11
+
+
+ Smjer  12
+
+
+ Smjer  13
+
+
+ Smjer  14
+
+
+ Smjer  15
+
+
+ Smjer  16
+
+
+ Smjer  17
+
+
+ Smjer  18
+
+
+ Smjer  19
+
+
+ Smjer  20
+
+
+ Smjer  21
+
+
+ Smjer  22
+
+
+ Smjer  23
+
+
+ Smjer  24
+
+
+ Smjer  25
+
+
+ Smjer  26
+
+
+ Smjer  27
+
+
+ Smjer  28
+
+
+ Smjer  29

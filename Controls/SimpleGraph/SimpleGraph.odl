@@ -1,0 +1,86 @@
+// SimpleGraph.odl : type library source for ActiveX Control project.
+
+// This file will be processed by the Make Type Library (mktyplib) tool to
+// produce the type library (SimpleGraph.tlb) that will become a resource in
+// SimpleGraph.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(6DCAF33C-6A30-42A4-8BA3-3006BAB4EBCB), version(1.0),
+  helpfile("SimpleGraph.hlp"),
+  helpstring("SimpleGraph ActiveX Control module"),
+  control ]
+library SIMPLEGRAPHLib
+{
+	importlib(STDOLE_TLB);
+	importlib(STDTYPE_TLB);
+
+	//  Primary dispatch interface for CSimpleGraphCtrl
+
+	[ uuid(CF614461-608B-40F3-A462-CF4094530FE2),
+	  helpstring("Dispatch interface for SimpleGraph Control"), hidden ]
+	dispinterface _DSimpleGraph
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CSimpleGraphCtrl)
+			[id(1)] BSTR Title;
+			[id(2)] boolean UseColors;
+			[id(3)] boolean UseLineStyles;
+			[id(4)] boolean ShowLegend;
+			[id(5)] boolean ShowCoordSystem;
+			[id(6)] double StartX;
+			[id(7)] double EndX;
+			[id(8)] boolean AllowDifferentYScale;
+			[id(9)] boolean ShowCommandButtons;
+			//}}AFX_ODL_PROP
+
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CSimpleGraphCtrl)
+			[id(10)] short AddGraph(float* XValues, float* YValues, long PointsNum, BSTR Legend);
+			[id(11)] boolean RemoveGraph(short GraphID);
+			[id(12)] boolean RemoveAllGraphs();
+			[id(13)] boolean ShowGraph(boolean GraphID);
+			[id(14)] boolean DrawtToMetafile(BSTR FileName, long ExtentX, long ExtentY);
+			[id(15)] boolean SetLegendPos(float XPos, float YPos);
+			[id(16)] boolean DoesGraphAlreadyExist(float* XValues, float* YValues, long PointsNum);
+			[id(17)] void ChangeGraphData(short GraphID, float* XValues, float* YValues, long PointsNum, BSTR Legedn);
+			//}}AFX_ODL_METHOD
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+	};
+
+	//  Event dispatch interface for CSimpleGraphCtrl
+
+	[ uuid(611CB629-EFBB-4E44-B519-9403B690FF77),
+	  helpstring("Event interface for SimpleGraph Control") ]
+	dispinterface _DSimpleGraphEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+			// NOTE - ClassWizard will maintain event information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_EVENT(CSimpleGraphCtrl)
+			//}}AFX_ODL_EVENT
+	};
+
+	//  Class information for CSimpleGraphCtrl
+
+	[ uuid(FA54AEE2-B3C1-4897-AFDA-19D2FDED9B03),
+	  helpstring("SimpleGraph Control"), control ]
+	coclass SimpleGraph
+	{
+		[default] dispinterface _DSimpleGraph;
+		[default, source] dispinterface _DSimpleGraphEvents;
+	};
+
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

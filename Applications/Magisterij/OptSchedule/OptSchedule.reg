@@ -1,0 +1,13 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+
+HKEY_CLASSES_ROOT\OptSchedule.Document = OptSch Document
+HKEY_CLASSES_ROOT\OptSchedule.Document\CLSID = {85904BA1-A4B5-4077-977C-6108E55AC4DA}
+
+HKEY_CLASSES_ROOT\CLSID\{85904BA1-A4B5-4077-977C-6108E55AC4DA} = OptSch Document
+HKEY_CLASSES_ROOT\CLSID\{85904BA1-A4B5-4077-977C-6108E55AC4DA}\ProgId = OptSchedule.Document
+HKEY_CLASSES_ROOT\CLSID\{85904BA1-A4B5-4077-977C-6108E55AC4DA}\LocalServer32 = OPTSCHEDULE.EXE

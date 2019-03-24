@@ -1,0 +1,175 @@
+#ifndef __GENETIC_ALG_NEW
+#define __GENETIC_ALG_NEW
+
+#include <vector>
+#include <map>
+
+using std::vector;
+using std::map;
+
+class GAErrException {
+public:
+	GAErrException( int inErrorID ) { ErrorID = inErrorID; }
+
+private:
+	int ErrorID;
+};
+
+/***************************************************************************************/
+/***************************************************************************************/
+
+class	CromResults {
+public:
+	float		CurrFuncVal;
+	float		MaxFuncVal;
+	long		IterNumForMaxVal;
+};
+
+class	OptResults {
+public:
+	float		BestFuncVal;
+	int			BestCromInd;
+	long		IterNum;
+
+	vector<CromResults>		CRes; // rezultati pojedinog kromosoma
+};
+
+/***************************************************************************************/
+/*******************				ABSTRACT INTERFACE CLASSES           ***********************/
+/***************************************************************************************/
+
+class	Cromosom {
+public:
+	virtual	int			GenerateCromosom() = 0;
+
+	// vraæa trenutnu vrijednost funkcije cilja
+	float		getFuncValue() { return Value; }
+	
+	// vraæa maksimalnu postignutu vrijednost funkcije cilja, i u kojoj je iteraciji postignuta
+	void		getMaxValue( float *Max, long *Iter ) { 
+						*Max = MaxValue; 
+						*Iter = MaxValInIterNum; 
+					}
+
+	void		setFuncValue( float Val ) { Value = Val; }
+	void		setFuncValue( float Val, long IterNum ) { 	
+						Value = Val; 
+						if( Val > MaxValue ) {
+							MaxValue = Val;
+							MaxValInIterNum = IterNum;
+						} 
+					}
+
+protected:
+	float		Value;						// vrijednost funkcije cilja za ovaj kromosom
+	float		MaxValue;					// max. postignuta vrijednost funkcije cilja za ovu jedinku
+	long		MaxValInIterNum;	// u kojoj iteraciji je postignuta ta max. vrijednost
+};
+
+template<class _TCrom> class GeneticAlg {
+public:
+	///////////////////////////////////////////////////////////////////////////////////////
+	//		konstruktor
+	GeneticAlg( int inPopulationSize, int inIterNum, float inMutationProb );
+
+	///////////////////////////////////////////////////////////////////////////////////////
+	//		metode
+	virtual	void		GenerateInitialPopulation() = 0;
+	virtual	float		OptFunc( _TCrom & ) = 0;
+
+	OptResults	PrepareResults();
+
+	///////////////////////////////////////////////////////////////////////////////////////
+	//		pristupne funkcije
+	_TCrom&		getIndividual( int i );		// ukoliko je 'i' izvan raspona, throw exception
+
+	///////////////////////////////////////////////////////////////////////////////////////
+	//		get i set metode
+	int			getPopulationSize() { return PopulationSize; }
+	bool		setPopulationSize( int inPopSize ) 
+					{ 
+						if( inPopSize>0 ) {						// provjera da li je ispravan broj
+							PopulationSize = inPopSize;
+							
+							if( CromList != NULL ) {		// ukoliko smo veæ alocirali nekakvu listu jedinki
+								delete []CromList;
+								CromList = new _TCrom[getPopulationSize()];
+							}
+							return true;
+						} 
+						else 
+							return false;
+					}
+	
+	long		getIterNum() { return IterNum; }
+	bool		setIterNum( long inIterNum ) { IterNum = inIterNum; return true;}
+
+	float		getMutProb() { return MutationProb; }
+	bool		setMutationProb( float inMutProb ) { MutationProb = inMutProb; return true; }
+
+protected:
+	///////////////////////////////////////////////////////////////////////////////////////
+	//		èlanske varijable
+	int			PopulationSize;
+	long		IterNum;
+	float		MutationProb;
+
+	long		CurrIterNum;
+
+	_TCrom	*CromList;
+};
+
+
+/***************************************************************************************/
+/*******************								POOL	CLASSES								 ***********************/
+/***************************************************************************************/
+
+class ResultsPool {
+public:
+	ResultsPool( int PopSize );
+
+	bool	addData( int IterNum, vector<float>& Res );
+
+	// vraæa cjelokupni rezultat iteracije
+	float	getIterationResults( int IterNum );
+
+	// vraæaju i postavljaju rezultate za pojedinu jedinku u iteraciji
+	float	getIndividualResult( int IterNum, int CromNum );
+	bool	setIndividualResult( int IterNum, int CromNum, float Res );
+
+private:
+	int		PopSize;
+	map<int, vector<float> > mapCromProgress;
+};
+
+
+/***************************************************************************************/
+/***********************				    IMPLEMENTACIJA				      ************************/
+/***************************************************************************************/
+
+template<class _TCrom>
+GeneticAlg<_TCrom>::GeneticAlg( int inPopulationSize, int inIterNum, float inMutationProb )
+{
+	if( setPopulationSize(inPopulationSize) && setIterNum(inIterNum) && setMutProb(inMutProb) )
+	{
+		CurrIterNum = 0;
+		CromList = new _TCrom[inPopulationSize];
+	}
+	else {
+		CromList = NULL;
+		throw(GAErrException(1));			// znaèi da nismo uspješno konstruirali objekt
+	}
+}
+
+template<class _TCrom>
+_TCrom& GeneticAlg<_TCrom>::GetIndividual( int i)
+{
+	if( i>=0 && i<getPopulationSize() )
+		return CromList[i];
+	else {
+		throw(GAErrException(2));
+		return CromList[0];
+	}
+}
+
+#endif

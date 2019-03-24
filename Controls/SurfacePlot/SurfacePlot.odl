@@ -1,0 +1,74 @@
+// SurfacePlot.odl : type library source for ActiveX Control project.
+
+// This file will be processed by the Make Type Library (mktyplib) tool to
+// produce the type library (SurfacePlot.tlb) that will become a resource in
+// SurfacePlot.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(7E0D9ED9-075A-11D2-914A-00C0DFE52874), version(1.0),
+  helpfile("SurfacePlot.hlp"),
+  helpstring("SurfacePlot ActiveX Control module"),
+  control ]
+library SURFACEPLOTLib
+{
+	importlib(STDOLE_TLB);
+	importlib(STDTYPE_TLB);
+
+	//  Primary dispatch interface for CSurfacePlotCtrl
+
+	[ uuid(7E0D9EDA-075A-11D2-914A-00C0DFE52874),
+	  helpstring("Dispatch interface for SurfacePlot Control"), hidden ]
+	dispinterface _DSurfacePlot
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CSurfacePlotCtrl)
+			[id(1)] double Distance;
+			[id(2)] double VerticalAngle;
+			[id(3)] double Azimuth;
+			[id(4)] boolean HideLines;
+			[id(5)] float Stretch;
+			//}}AFX_ODL_PROP
+
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CSurfacePlotCtrl)
+			//}}AFX_ODL_METHOD
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+	};
+
+	//  Event dispatch interface for CSurfacePlotCtrl
+
+	[ uuid(7E0D9EDB-075A-11D2-914A-00C0DFE52874),
+	  helpstring("Event interface for SurfacePlot Control") ]
+	dispinterface _DSurfacePlotEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+			// NOTE - ClassWizard will maintain event information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_EVENT(CSurfacePlotCtrl)
+			//}}AFX_ODL_EVENT
+	};
+
+	//  Class information for CSurfacePlotCtrl
+
+	[ uuid(7E0D9EDC-075A-11D2-914A-00C0DFE52874),
+	  helpstring("SurfacePlot Control"), control ]
+	coclass SurfacePlot
+	{
+		[default] dispinterface _DSurfacePlot;
+		[default, source] dispinterface _DSurfacePlotEvents;
+	};
+
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

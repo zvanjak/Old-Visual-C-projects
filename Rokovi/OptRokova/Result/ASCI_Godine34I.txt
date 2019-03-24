@@ -1,0 +1,708 @@
+
+
+Predmeti iz 1. semestra 
+
+
+Predmeti iz 2. semestra 
+
+
+Predmeti iz 3. semestra 
+
+
+Predmeti iz 4. semestra 
+
+439, STOHASTIÈKA MATEMATIKA              	 0.  24.      2.      9.  18.  28.      7.  14.  23.  
+293, TEORIJA MREŽA I LINIJA              	 1.  15.      0.      7.  21.  31.      0.   8.  18.  
+
+Predmeti iz 5. semestra 
+
+367, FIZIKA MATERIJALA                   	 8.  14.      2.      9.  22.  31.      4.  14.  24.  
+425, STOHASTIÈKI PROCESI                 	 9.  15.      0.      1.  17.  29.      1.  10.  18.  
+414, PROGRAMSKE PARADIGME I JEZICI       	 0.  24.      0.      3.  17.  30.      4.  15.  24.  
+384, TEORIJSKA ELEKTROTEHNIKA            	11.  21.      2.      9.  21.  29.      0.  14.  23.  
+424, TEORIJA ELEKTROMAGNETSKIH POLJA     	 4.  24.      1.      3.  15.  25.      2.  11.  21.  
+382, ELEKTRIÈNI STROJEVI I TRANSFORMATOR 	 2.  18.      1.      2.  15.  22.      2.  11.  23.  
+642, ELEKTROMEHANIÈKA I ELEKTROMAGNETSKA 	 0.  23.      0.      1.  16.  31.      1.   9.  16.  
+393, ELEKTROTEHNIÈKI MATERIJALI I TEHNOL 	 4.  15.      3.      3.  14.  24.      3.  10.  21.  
+377, TEHNIÈKA MEHANIKA                   	 3.  22.      0.      7.  16.  25.      3.  10.  18.  
+532, SKLOPNI I ZAŠTITNI UREÐAJI U POSTRO 	 2.  22.      3.      4.  11.  28.      3.  10.  23.  
+392, ENERGETSKA ELEKTRONIKA              	 0.  24.      1.      3.  17.  29.      8.  15.  22.  
+554, ENERGETSKA ELEKTRONIKA              	 7.  17.      3.      0.  21.  30.      0.   8.  18.  
+450, ENERGETSKI PROCESI                  	 9.  24.      3.      4.  14.  23.      3.  10.  17.  
+383, UVOD U NUKLEARNU ENERGETIKU         	 3.  14.      1.      8.  15.  30.      1.   9.  17.  
+449, OBNOVLJIVI IZVORI ENERGIJE          	 0.  23.      0.      3.  11.  29.      1.   8.  18.  
+247, TEORIJA INFORMACIJE                 	 2.  23.      2.      0.  14.  21.      0.   9.  22.  
+409, LOGIÈKA ALGEBRA                     	 8.  18.      0.      1.  16.  24.      8.  16.  24.  
+422, SIGNALI I SUSTAVI                   	10.  18.      1.      4.  22.  30.      2.  11.  21.  
+440, SIGNALI I SUSTAVI                   	 1.  22.      1.      2.  11.  31.      2.   9.  21.  
+397, ELEKTRONIÈKA MJERENJA I KOMPONENTE  	 2.  17.      3.      4.  17.  29.      2.  10.  23.  
+365, ELEMENTI AUTOMATIZACIJE PROCESA     	11.  23.      0.      2.  11.  30.      2.   9.  22.  
+366, MODELIRANJE I SIMULIRANJE PROCESA   	 1.  16.      2.      0.  15.  22.      4.  15.  23.  
+471, RAÈUNALA I                          	10.  24.      0.      2.  14.  24.      4.  11.  17.  
+404, ELEKTROAKUSTIKA                     	 4.  15.      1.      3.  15.  31.      1.   9.  18.  
+505, OSNOVE MIKROELEKTRONIÈKIH SKLOPOVA  	 1.  18.      1.      8.  17.  25.      7.  14.  21.  
+415, ARHITEKTURA I ORGANIZACIJA RAÈUNALA 	11.  21.      1.      7.  15.  25.      7.  16.  22.  
+416, AUTOMATI, FORMALNI JEZICI I JEZIÈNI 	 8.  17.      3.      4.  14.  29.      3.  10.  18.  
+402, TEORIJA ELEKTROMAGNETSKIH VALOVA    	 8.  22.      0.      1.  18.  29.      0.   9.  21.  
+403, VISOKOFREKVENCIJSKA ELEKTRONIKA     	 0.  23.      3.      7.  16.  29.      7.  15.  22.  
+
+Predmeti iz 6. semestra 
+
+509, FIZIKA LASERA                       	 2.  17.      0.      0.  14.  23.      4.   9.  17.  
+441, DISKRETNA MATEMATIKA                	 2.  22.      3.      3.  11.  21.      8.  16.  21.  
+641, ELEKTRIÈNI STROJEVI                 	 1.  16.      1.      8.  16.  30.      2.  17.  24.  
+461, REGULACIJSKA TEHNIKA                	 1.  16.      2.      0.  18.  28.      2.  15.  22.  
+390, OSNOVE ÈVRSTOÆE I KONSTRUIRANJA     	 7.  21.      0.      1.  18.  25.      1.   9.  16.  
+388, VOÐENJE I PRIJELAZ TOPLINE          	 0.  17.      1.      2.  17.  28.      7.  15.  24.  
+387, PRIJENOS ELEKTRIÈNE ENERGIJE        	11.  24.      3.      0.   8.  31.      7.  14.  24.  
+411, INFORMACIJSKE MREŽE                 	10.  23.      3.      7.  14.  31.      0.  10.  23.  
+412, DIGITALNI AUTOMATI                  	 3.  17.      2.      4.  11.  28.      4.  15.  22.  
+413, INFORMACIJA, LOGIKA I JEZICI        	 0.  16.      3.      8.  18.  30.      3.  14.  21.  
+427, ALGORITMI I METODE OPTIMIZACIJE     	 4.  22.      1.      3.  16.  29.      2.  11.  18.  
+400, FILTRI I FILTARSKA POJAÈALA         	 4.  18.      2.      8.  18.  28.      0.   8.  18.  
+481, SLUÈAJNI PROCESI U SUSTAVIMA        	 2.  21.      0.      1.  18.  24.      0.   9.  16.  
+288, ELEKTRONIÈKA INSTRUMENTACIJA        	 0.  23.      2.      0.  11.  30.      0.   8.  22.  
+472, AUTOMATSKO UPRAVLJANJE              	 3.  11.      3.      8.  17.  25.      3.  15.  23.  
+473, RAÈUNALA II                         	 0.  15.      2.      4.  17.  24.      3.  10.  22.  
+488, TONFREKVENCIJSKA TEHNIKA            	 7.  16.      1.      3.  11.  22.      0.   8.  16.  
+399, OSNOVE MIKROELEKTRONIKE             	 9.  16.      1.      7.  21.  30.      1.  14.  24.  
+395, DIGITALNI SUSTAVI                   	 9.  23.      3.      4.  11.  29.      7.  14.  23.  
+401, PROJEKTIRANJE DIGITALNIH SUSTAVA    	 3.  22.      0.      1.  16.  24.      2.  11.  17.  
+417, AUTOMATI, FORMALNI JEZICI I JEZIÈNI 	 8.  17.      3.      4.  14.  29.      1.  10.  18.  
+418, OPERACIJSKI SUSTAVI I               	 7.  16.      3.      2.  15.  23.      1.  15.  24.  
+406, TELEVIZIJA                          	11.  21.      3.      7.  14.  25.      3.  10.  18.  
+405, MODULACIJE I MODULATORI             	 1.  23.      0.      0.  15.  30.      2.  14.  23.  
+487, MIKROVALNA ELEKTRONIKA              	 3.  24.      3.      9.  21.  28.      2.  11.  22.  
+
+Predmeti iz 7. semestra 
+
+385, DJELOVANJE I ZAŠTITA OD ZRAÈENJA    	 1.  14.      3.      2.  15.  29.      0.  16.  23.  
+464, ELEKTROMOTORNI POGONI               	 1.  16.      1.      8.  16.  30.      2.  17.  24.  
+465, UPRAVLJANJE ELEKTROMOTORNIM POGONIM 	 1.  16.      2.      0.  18.  28.      2.  15.  22.  
+466, DIGITALNI I NELINEARNI SUSTAVI UPRA 	 4.  15.      0.      1.  18.  31.      0.  16.  23.  
+451, RASKLOPNA POSTROJENJA               	 0.  21.      2.      3.  11.  28.      1.   9.  17.  
+452, ELEKTROENERGETSKE MREŽE             	11.  24.      3.      0.   8.  31.      7.  14.  24.  
+453, NUMERIÈKA ANALIZA ELEKTROENERGETSKO 	 3.  23.      0.      8.  18.  29.      2.  16.  24.  
+468, RAZVOD ELEKTRIÈNE ENERGIJE          	10.  23.      0.      3.  17.  31.      0.   9.  16.  
+455, NUKLEARNE ELEKTRANE                 	 2.  11.      2.      1.  14.  21.      1.  10.  24.  
+454, TEHNIKA VISOKOG NAPONA              	 7.  15.      3.      1.  11.  25.      0.  11.  18.  
+410, TELEKOMUNIKACIJSKE MREŽE            	 1.  14.      0.      1.  16.  24.      7.  16.  24.  
+496, KOMUTACIJSKI SUSTAVI                	10.  21.      3.      1.  14.  22.      8.  15.  22.  
+497, TRANSMISIJSKI SUSTAVI               	 2.  15.      2.      2.  14.  24.      4.  14.  22.  
+498, TEORIJA PROMETA                     	 4.  22.      1.      3.  16.  29.      2.  11.  18.  
+510, ORGANIZACIJA OBRADE PODATAKA        	 7.  16.      3.      4.  15.  23.      1.  10.  21.  
+511, KONKURENTNO PROGRAMIRANJE           	11.  23.      0.      2.  15.  23.      1.  17.  24.  
+482, SUSTAVI ZA PRIJENOS I TELEMETRIJU   	 2.  24.      1.      1.  15.  23.      7.  15.  22.  
+484, DIGITALNA OBRADBA SIGNALA           	 0.  17.      2.      7.  21.  29.      7.  16.  23.  
+485, PROJEKTIRANJE UGRAÐENIH RAÈUNALNIH  	 8.  16.      2.      2.  17.  30.      0.  10.  24.  
+ 79, BIOMEDICINSKA ELEKTRONIKA           	11.  22.      3.      0.  17.  31.      4.  14.  23.  
+475, DIGITALNI SUSTAVI UPRAVLJANJA       	 7.  22.      0.      2.  11.  30.      1.   9.  21.  
+476, OSNOVE ROBOTIKE                     	 2.  14.      3.      2.  16.  24.      3.  11.  18.  
+483, MIKROELEKTRONIÈKI SKLOPOVI          	 1.  24.      0.      8.  16.  28.      1.  10.  17.  
+477, RAÈUNALA I PROCESI                  	11.  24.      1.      3.  11.  22.      0.   7.  17.  
+491, DIGITALNA AUDIOTEHNIKA              	11.  22.      3.      2.  11.  21.      1.  11.  21.  
+490, ELEKTROAKUSTIÈKI SIGNALI I SUSTAVI  	 3.  14.      3.      9.  16.  24.      0.   8.  16.  
+443, INTELIGENTNI SUSTAVI                	 0.  15.      0.      1.  16.  23.      0.  11.  22.  
+444, OPERACIJSKI SUSTAVI II              	 7.  16.      3.      2.  15.  23.      1.  15.  23.  
+504, MEMORIJSKI SUSTAVI                  	 3.  21.      2.      1.  11.  25.      1.  10.  18.  
+407, OPTOELEKTRONIÈKI SKLOPOVI           	 7.  16.      0.      4.  16.  23.      3.  10.  22.  
+515, RADIOLOKACIJA I NAVIGACIJA          	 2.  21.      1.      8.  17.  30.      2.  14.  23.  
+
+Predmeti iz 8. semestra 
+
+429, NUMERIÈKA MATEMATIKA                	 9.  21.      2.      2.  11.  23.      1.  10.  17.  
+ 55, BAZE PODATAKA                       	 4.  22.      3.      4.  14.  30.      3.  11.  18.  
+421, NUMERIÈKI POSTUPCI U PROJEKTIRANJU  	10.  18.      2.      7.  17.  30.      4.  15.  22.  
+374, PROCESNA MJERENJA                   	 8.  17.      1.      1.  15.  23.      2.  17.  23.  
+467, PROJEKTIRANJE INDUSTRIJSKIH POSTROJ 	 8.  18.      3.      7.  15.  29.      3.  14.  21.  
+644, AUTOMATIZIRANA ISPITIVANJA ELEKTROT 	 3.  23.      2.      4.  16.  24.      1.   8.  18.  
+372, OSNOVE ENERGETSKE ELEKTRONIKE       	 4.  23.      0.      4.  16.  24.      0.  11.  18.  
+534, AUTOMATIZACIJA INDUSTRIJSKIH POSTRO 	 4.  24.      1.      0.  14.  22.      4.  15.  22.  
+643, RAZVOJ ELEKTROTEHNIÈKIH PROIZVODA   	 2.  22.      0.      4.  17.  25.      1.   9.  18.  
+456, ELEKTRANE                           	 3.  16.      2.      7.  16.  31.      0.   9.  18.  
+457, REGULACIJA ELEKTROENERGETSKOG SUSTA 	 4.  22.      3.      4.  14.  23.      4.  10.  21.  
+459, ENERGETIKA I OKOLIŠ                 	 0.  24.      2.      7.  14.  22.      3.  11.  18.  
+545, ENERGETSKI IZVORI                   	 1.  16.      3.      2.  17.  25.      7.  14.  21.  
+231, SIGURNOST NUKLEARNIH POSTROJENJA    	 4.  23.      1.      3.  18.  25.      2.   9.  22.  
+458, ZAŠTITA I AUTOMATIKA ELEKTROENERGET 	14.  21.      0.      2.  15.  24.      4.  11.  21.  
+499, KOMUNIKACIJSKI PROTOKOLI            	 2.  24.      0.      1.  11.  30.      0.  10.  23.  
+500, POUZDANOST TELEKOMUNIKACIJSKIH SUST 	 3.  21.      2.      1.  17.  25.      0.  11.  24.  
+501, TELEMATIÈKE USLUGE                  	 0.  24.      3.      7.  15.  25.      0.  10.  17.  
+513, PRIJENOS PODATAKA                   	 8.  18.      0.      8.  16.  24.      3.  16.  22.  
+486, SUSTAVI ZA PRAÆENJE I VOÐENJE PROCE 	 0.  15.      3.      1.  15.  25.      2.   9.  24.  
+524, DIGITALNA OBRADBA SLIKE             	 7.  21.      0.      7.  14.  25.      4.  11.  22.  
+268, KONSTRUKCIJA I PROIZVODNJA ELEKTRON 	 3.  23.      3.      0.   9.  30.      1.  14.  24.  
+474, ELEKTRONIÈKA MJERENJA I INSTRUMENTA 	 4.  21.      0.      7.  16.  31.      1.   8.  16.  
+478, NELINEARNI I OPTIMALNI SUSTAVI UPRA 	 4.  15.      0.      1.  18.  31.      0.  16.  23.  
+479, AUTOMATIZACIJA POSTROJENJA I PROCES 	 0.  23.      2.      8.  16.  28.      0.  10.  16.  
+565, SLIJEDNI SUSTAVI                    	 3.  24.      3.      8.  15.  25.      8.  14.  24.  
+376, OTVORENO RAÈUNARSTVO                	10.  18.      0.      4.  17.  31.      2.   9.  18.  
+213, PRIJAMNICI                          	 1.  21.      3.      0.  15.  31.      1.  14.  24.  
+445, ANALIZA I PROJEKTIRANJE RAÈUNALOM   	 1.  14.      1.      8.  18.  28.      2.   9.  21.  
+446, MREŽE RAÈUNALA                      	 2.  23.      2.      2.  17.  31.      0.   8.  17.  
+506, RAÈUNALNA GRAFIKA                   	 1.  14.      1.      8.  18.  28.      3.   9.  21.  
+508, POUZDANOST I NEOSJETLJIVOST NA POGR 	 8.  23.      3.      0.  14.  29.      2.  14.  21.  
+492, MIKROVALNE KOMUNIKACIJE             	 8.  22.      0.      1.  18.  29.      0.   9.  21.  
+514, MOBILNE KOMUNIKACIJE                	 7.  23.      3.      0.  21.  31.      4.  11.  18.  
+516, ANALIZA ŠUMA U KOMUNIKACIJSKIM SUST 	 2.  23.      2.      2.  14.  24.      2.   9.  18.  
+493, OPTIÈKI KOMUNIKACIJSKI SUSTAVI      	 7.  16.      0.      4.  16.  23.      3.  10.  22.  
+494, ANTENE                              	 4.  18.      2.      1.  15.  25.      8.  15.  23.  
+ 27, EKONOMIKA                           	 9.  17.      1.      3.   9.  22.      3.   8.  15.  
+
+Predmeti iz 9. semestra 
+
+226, GORIVNI CIKLUSI I REAKTORSKI MATERI 	 0.  24.      1.      2.  11.  23.      2.  10.  21.  
+419, OPERACIJSKA ISTRAŽIVANJA            	 7.  15.      0.      9.  21.  28.      1.  10.  17.  
+583, OBJEKTNO ORIJENTIRANO PROGRAMIRANJE 	 9.  17.      3.      0.  15.  29.      2.  14.  23.  
+470, MEHATRONIÈKI SUSTAVI                	 4.  24.      1.      0.  14.  22.      4.  15.  22.  
+460, VOÐENJE ELEKTROENERGETSKOG SUSTAVA  	 0.  24.      2.      0.  16.  30.      2.  14.  21.  
+541, POUZDANOST ELEKTROENERGETSKOG SUSTA 	 2.  22.      1.      0.  18.  30.      8.  15.  23.  
+502, VIŠEMEDIJSKE KOMUNIKACIJE           	 2.  15.      2.      2.  17.  31.      0.  10.  21.  
+597, FOTONIÈKE KOMUNIKACIJSKE TEHNOLOGIJ 	 9.  18.      0.      4.  14.  29.      9.  16.  24.  
+620, AUTOMATI SA SVOJSTVOM UÈENJA        	 0.  22.      1.      9.  16.  28.      1.  16.  22.  
+621, RAZVOJ TELEKOMUNIKACIJSKE PROGRAMSK 	 2.  15.      2.      2.  17.  31.      0.  10.  21.  
+627, ORGANIZACIJA TELEKOMUNIKACIJSKE MRE 	 4.  23.      3.      1.  11.  23.      4.  14.  22.  
+587, NEURONSKE MREŽE                     	 0.  22.      3.      1.  11.  23.      0.  14.  23.  
+603, PODATKOVNI VIŠEMEDIJSKI PRIJENOS I  	10.  23.      0.      3.  17.  31.      0.   9.  16.  
+599, AUTOMATIZIRANA INSTRUMENTACIJA      	 3.  24.      1.      1.  18.  25.      3.  11.  18.  
+480, SUSTAVI ZA DALJINSKO VOÐENJE I DIST 	 0.  21.      0.      3.  11.  28.      2.   9.  24.  
+447, MODELIRANJE I SIMULIRANJE           	 0.  24.      0.      1.  16.  24.      3.  10.  24.  
+605, ODABRANA POGLAVLJA IZ PROGRAMSKOG I 	 1.  15.      3.      4.  16.  29.      4.  10.  22.  
+171, RASPOZNAVANJE UZORAKA               	 4.  22.      3.      0.  16.  24.      4.  14.  23.  
+489, OSNOVE RADIOKOMUNIKACIJSKIH SUSTAVA 	 3.  14.      1.      9.  18.  28.      7.  14.  24.  
+495, DIGITALNE VIDEOKOMUNIKACIJE         	10.  18.      2.      3.  11.  24.      4.  11.  22.  
+618, DIGITALNA TELEVIZIJA                	 1.  24.      3.      2.  14.  31.      1.   9.  22.  
+619, RADARSKI SUSTAVI                    	 7.  23.      3.      0.  21.  31.      4.  11.  18.  
+634, RADIOTELEMETRIJA                    	 2.  21.      1.      8.  17.  30.      2.  14.  23.  
+635, MIKROVALNI PRIJAMNICI               	 0.  22.      0.      9.  21.  28.      2.  10.  21.  
+
+ Grupa predmeta broj   1
+
+367, FIZIKA MATERIJALA                   	 8.  14.      2.      9.  22.  31.      4.  14.  24.  
+385, DJELOVANJE I ZAŠTITA OD ZRAÈENJA    	 1.  14.      3.      2.  15.  29.      0.  16.  23.  
+509, FIZIKA LASERA                       	 2.  17.      0.      0.  14.  23.      4.   9.  17.  
+
+ Grupa predmeta broj   2
+
+226, GORIVNI CIKLUSI I REAKTORSKI MATERI 	 0.  24.      1.      2.  11.  23.      2.  10.  21.  
+
+ Grupa predmeta broj   3
+
+425, STOHASTIÈKI PROCESI                 	 9.  15.      0.      1.  17.  29.      1.  10.  18.  
+429, NUMERIÈKA MATEMATIKA                	 9.  21.      2.      2.  11.  23.      1.  10.  17.  
+439, STOHASTIÈKA MATEMATIKA              	 0.  24.      2.      9.  18.  28.      7.  14.  23.  
+441, DISKRETNA MATEMATIKA                	 2.  22.      3.      3.  11.  21.      8.  16.  21.  
+
+ Grupa predmeta broj   4
+
+ 55, BAZE PODATAKA                       	 4.  22.      3.      4.  14.  30.      3.  11.  18.  
+414, PROGRAMSKE PARADIGME I JEZICI       	 0.  24.      0.      3.  17.  30.      4.  15.  24.  
+419, OPERACIJSKA ISTRAŽIVANJA            	 7.  15.      0.      9.  21.  28.      1.  10.  17.  
+583, OBJEKTNO ORIJENTIRANO PROGRAMIRANJE 	 9.  17.      3.      0.  15.  29.      2.  14.  23.  
+
+ Grupa predmeta broj   5
+
+384, TEORIJSKA ELEKTROTEHNIKA            	11.  21.      2.      9.  21.  29.      0.  14.  23.  
+421, NUMERIÈKI POSTUPCI U PROJEKTIRANJU  	10.  18.      2.      7.  17.  30.      4.  15.  22.  
+424, TEORIJA ELEKTROMAGNETSKIH POLJA     	 4.  24.      1.      3.  15.  25.      2.  11.  21.  
+
+ Grupa predmeta broj   6
+
+374, PROCESNA MJERENJA                   	 8.  17.      1.      1.  15.  23.      2.  17.  23.  
+
+ Grupa predmeta broj   7
+
+382, ELEKTRIÈNI STROJEVI I TRANSFORMATOR 	 2.  18.      1.      2.  15.  22.      2.  11.  23.  
+464, ELEKTROMOTORNI POGONI               	 1.  16.      1.      8.  16.  30.      2.  17.  24.  
+467, PROJEKTIRANJE INDUSTRIJSKIH POSTROJ 	 8.  18.      3.      7.  15.  29.      3.  14.  21.  
+641, ELEKTRIÈNI STROJEVI                 	 1.  16.      1.      8.  16.  30.      2.  17.  24.  
+642, ELEKTROMEHANIÈKA I ELEKTROMAGNETSKA 	 0.  23.      0.      1.  16.  31.      1.   9.  16.  
+644, AUTOMATIZIRANA ISPITIVANJA ELEKTROT 	 3.  23.      2.      4.  16.  24.      1.   8.  18.  
+
+ Grupa predmeta broj   8
+
+372, OSNOVE ENERGETSKE ELEKTRONIKE       	 4.  23.      0.      4.  16.  24.      0.  11.  18.  
+461, REGULACIJSKA TEHNIKA                	 1.  16.      2.      0.  18.  28.      2.  15.  22.  
+465, UPRAVLJANJE ELEKTROMOTORNIM POGONIM 	 1.  16.      2.      0.  18.  28.      2.  15.  22.  
+466, DIGITALNI I NELINEARNI SUSTAVI UPRA 	 4.  15.      0.      1.  18.  31.      0.  16.  23.  
+470, MEHATRONIÈKI SUSTAVI                	 4.  24.      1.      0.  14.  22.      4.  15.  22.  
+534, AUTOMATIZACIJA INDUSTRIJSKIH POSTRO 	 4.  24.      1.      0.  14.  22.      4.  15.  22.  
+
+ Grupa predmeta broj   9
+
+393, ELEKTROTEHNIÈKI MATERIJALI I TEHNOL 	 4.  15.      3.      3.  14.  24.      3.  10.  21.  
+
+ Grupa predmeta broj   10
+
+377, TEHNIÈKA MEHANIKA                   	 3.  22.      0.      7.  16.  25.      3.  10.  18.  
+390, OSNOVE ÈVRSTOÆE I KONSTRUIRANJA     	 7.  21.      0.      1.  18.  25.      1.   9.  16.  
+
+ Grupa predmeta broj   11
+
+532, SKLOPNI I ZAŠTITNI UREÐAJI U POSTRO 	 2.  22.      3.      4.  11.  28.      3.  10.  23.  
+
+ Grupa predmeta broj   12
+
+392, ENERGETSKA ELEKTRONIKA              	 0.  24.      1.      3.  17.  29.      8.  15.  22.  
+554, ENERGETSKA ELEKTRONIKA              	 7.  17.      3.      0.  21.  30.      0.   8.  18.  
+643, RAZVOJ ELEKTROTEHNIÈKIH PROIZVODA   	 2.  22.      0.      4.  17.  25.      1.   9.  18.  
+
+ Grupa predmeta broj   13
+
+
+ Grupa predmeta broj   14
+
+
+ Grupa predmeta broj   15
+
+
+ Grupa predmeta broj   16
+
+388, VOÐENJE I PRIJELAZ TOPLINE          	 0.  17.      1.      2.  17.  28.      7.  15.  24.  
+450, ENERGETSKI PROCESI                  	 9.  24.      3.      4.  14.  23.      3.  10.  17.  
+451, RASKLOPNA POSTROJENJA               	 0.  21.      2.      3.  11.  28.      1.   9.  17.  
+452, ELEKTROENERGETSKE MREŽE             	11.  24.      3.      0.   8.  31.      7.  14.  24.  
+453, NUMERIÈKA ANALIZA ELEKTROENERGETSKO 	 3.  23.      0.      8.  18.  29.      2.  16.  24.  
+456, ELEKTRANE                           	 3.  16.      2.      7.  16.  31.      0.   9.  18.  
+457, REGULACIJA ELEKTROENERGETSKOG SUSTA 	 4.  22.      3.      4.  14.  23.      4.  10.  21.  
+459, ENERGETIKA I OKOLIŠ                 	 0.  24.      2.      7.  14.  22.      3.  11.  18.  
+460, VOÐENJE ELEKTROENERGETSKOG SUSTAVA  	 0.  24.      2.      0.  16.  30.      2.  14.  21.  
+468, RAZVOD ELEKTRIÈNE ENERGIJE          	10.  23.      0.      3.  17.  31.      0.   9.  16.  
+541, POUZDANOST ELEKTROENERGETSKOG SUSTA 	 2.  22.      1.      0.  18.  30.      8.  15.  23.  
+545, ENERGETSKI IZVORI                   	 1.  16.      3.      2.  17.  25.      7.  14.  21.  
+
+ Grupa predmeta broj   17
+
+231, SIGURNOST NUKLEARNIH POSTROJENJA    	 4.  23.      1.      3.  18.  25.      2.   9.  22.  
+383, UVOD U NUKLEARNU ENERGETIKU         	 3.  14.      1.      8.  15.  30.      1.   9.  17.  
+449, OBNOVLJIVI IZVORI ENERGIJE          	 0.  23.      0.      3.  11.  29.      1.   8.  18.  
+455, NUKLEARNE ELEKTRANE                 	 2.  11.      2.      1.  14.  21.      1.  10.  24.  
+
+ Grupa predmeta broj   18
+
+387, PRIJENOS ELEKTRIÈNE ENERGIJE        	11.  24.      3.      0.   8.  31.      7.  14.  24.  
+454, TEHNIKA VISOKOG NAPONA              	 7.  15.      3.      1.  11.  25.      0.  11.  18.  
+458, ZAŠTITA I AUTOMATIKA ELEKTROENERGET 	14.  21.      0.      2.  15.  24.      4.  11.  21.  
+
+ Grupa predmeta broj   19
+
+
+ Grupa predmeta broj   20
+
+
+ Grupa predmeta broj   21
+
+247, TEORIJA INFORMACIJE                 	 2.  23.      2.      0.  14.  21.      0.   9.  22.  
+409, LOGIÈKA ALGEBRA                     	 8.  18.      0.      1.  16.  24.      8.  16.  24.  
+410, TELEKOMUNIKACIJSKE MREŽE            	 1.  14.      0.      1.  16.  24.      7.  16.  24.  
+411, INFORMACIJSKE MREŽE                 	10.  23.      3.      7.  14.  31.      0.  10.  23.  
+412, DIGITALNI AUTOMATI                  	 3.  17.      2.      4.  11.  28.      4.  15.  22.  
+413, INFORMACIJA, LOGIKA I JEZICI        	 0.  16.      3.      8.  18.  30.      3.  14.  21.  
+427, ALGORITMI I METODE OPTIMIZACIJE     	 4.  22.      1.      3.  16.  29.      2.  11.  18.  
+496, KOMUTACIJSKI SUSTAVI                	10.  21.      3.      1.  14.  22.      8.  15.  22.  
+497, TRANSMISIJSKI SUSTAVI               	 2.  15.      2.      2.  14.  24.      4.  14.  22.  
+498, TEORIJA PROMETA                     	 4.  22.      1.      3.  16.  29.      2.  11.  18.  
+499, KOMUNIKACIJSKI PROTOKOLI            	 2.  24.      0.      1.  11.  30.      0.  10.  23.  
+500, POUZDANOST TELEKOMUNIKACIJSKIH SUST 	 3.  21.      2.      1.  17.  25.      0.  11.  24.  
+501, TELEMATIÈKE USLUGE                  	 0.  24.      3.      7.  15.  25.      0.  10.  17.  
+502, VIŠEMEDIJSKE KOMUNIKACIJE           	 2.  15.      2.      2.  17.  31.      0.  10.  21.  
+510, ORGANIZACIJA OBRADE PODATAKA        	 7.  16.      3.      4.  15.  23.      1.  10.  21.  
+511, KONKURENTNO PROGRAMIRANJE           	11.  23.      0.      2.  15.  23.      1.  17.  24.  
+513, PRIJENOS PODATAKA                   	 8.  18.      0.      8.  16.  24.      3.  16.  22.  
+597, FOTONIÈKE KOMUNIKACIJSKE TEHNOLOGIJ 	 9.  18.      0.      4.  14.  29.      9.  16.  24.  
+620, AUTOMATI SA SVOJSTVOM UÈENJA        	 0.  22.      1.      9.  16.  28.      1.  16.  22.  
+621, RAZVOJ TELEKOMUNIKACIJSKE PROGRAMSK 	 2.  15.      2.      2.  17.  31.      0.  10.  21.  
+627, ORGANIZACIJA TELEKOMUNIKACIJSKE MRE 	 4.  23.      3.      1.  11.  23.      4.  14.  22.  
+
+ Grupa predmeta broj   22
+
+293, TEORIJA MREŽA I LINIJA              	 1.  15.      0.      7.  21.  31.      0.   8.  18.  
+400, FILTRI I FILTARSKA POJAÈALA         	 4.  18.      2.      8.  18.  28.      0.   8.  18.  
+422, SIGNALI I SUSTAVI                   	10.  18.      1.      4.  22.  30.      2.  11.  21.  
+440, SIGNALI I SUSTAVI                   	 1.  22.      1.      2.  11.  31.      2.   9.  21.  
+481, SLUÈAJNI PROCESI U SUSTAVIMA        	 2.  21.      0.      1.  18.  24.      0.   9.  16.  
+482, SUSTAVI ZA PRIJENOS I TELEMETRIJU   	 2.  24.      1.      1.  15.  23.      7.  15.  22.  
+484, DIGITALNA OBRADBA SIGNALA           	 0.  17.      2.      7.  21.  29.      7.  16.  23.  
+485, PROJEKTIRANJE UGRAÐENIH RAÈUNALNIH  	 8.  16.      2.      2.  17.  30.      0.  10.  24.  
+486, SUSTAVI ZA PRAÆENJE I VOÐENJE PROCE 	 0.  15.      3.      1.  15.  25.      2.   9.  24.  
+524, DIGITALNA OBRADBA SLIKE             	 7.  21.      0.      7.  14.  25.      4.  11.  22.  
+587, NEURONSKE MREŽE                     	 0.  22.      3.      1.  11.  23.      0.  14.  23.  
+603, PODATKOVNI VIŠEMEDIJSKI PRIJENOS I  	10.  23.      0.      3.  17.  31.      0.   9.  16.  
+
+ Grupa predmeta broj   23
+
+ 79, BIOMEDICINSKA ELEKTRONIKA           	11.  22.      3.      0.  17.  31.      4.  14.  23.  
+268, KONSTRUKCIJA I PROIZVODNJA ELEKTRON 	 3.  23.      3.      0.   9.  30.      1.  14.  24.  
+288, ELEKTRONIÈKA INSTRUMENTACIJA        	 0.  23.      2.      0.  11.  30.      0.   8.  22.  
+397, ELEKTRONIÈKA MJERENJA I KOMPONENTE  	 2.  17.      3.      4.  17.  29.      2.  10.  23.  
+474, ELEKTRONIÈKA MJERENJA I INSTRUMENTA 	 4.  21.      0.      7.  16.  31.      1.   8.  16.  
+599, AUTOMATIZIRANA INSTRUMENTACIJA      	 3.  24.      1.      1.  18.  25.      3.  11.  18.  
+
+ Grupa predmeta broj   24
+
+365, ELEMENTI AUTOMATIZACIJE PROCESA     	11.  23.      0.      2.  11.  30.      2.   9.  22.  
+366, MODELIRANJE I SIMULIRANJE PROCESA   	 1.  16.      2.      0.  15.  22.      4.  15.  23.  
+472, AUTOMATSKO UPRAVLJANJE              	 3.  11.      3.      8.  17.  25.      3.  15.  23.  
+475, DIGITALNI SUSTAVI UPRAVLJANJA       	 7.  22.      0.      2.  11.  30.      1.   9.  21.  
+476, OSNOVE ROBOTIKE                     	 2.  14.      3.      2.  16.  24.      3.  11.  18.  
+478, NELINEARNI I OPTIMALNI SUSTAVI UPRA 	 4.  15.      0.      1.  18.  31.      0.  16.  23.  
+479, AUTOMATIZACIJA POSTROJENJA I PROCES 	 0.  23.      2.      8.  16.  28.      0.  10.  16.  
+480, SUSTAVI ZA DALJINSKO VOÐENJE I DIST 	 0.  21.      0.      3.  11.  28.      2.   9.  24.  
+483, MIKROELEKTRONIÈKI SKLOPOVI          	 1.  24.      0.      8.  16.  28.      1.  10.  17.  
+565, SLIJEDNI SUSTAVI                    	 3.  24.      3.      8.  15.  25.      8.  14.  24.  
+
+ Grupa predmeta broj   25
+
+376, OTVORENO RAÈUNARSTVO                	10.  18.      0.      4.  17.  31.      2.   9.  18.  
+447, MODELIRANJE I SIMULIRANJE           	 0.  24.      0.      1.  16.  24.      3.  10.  24.  
+471, RAÈUNALA I                          	10.  24.      0.      2.  14.  24.      4.  11.  17.  
+473, RAÈUNALA II                         	 0.  15.      2.      4.  17.  24.      3.  10.  22.  
+477, RAÈUNALA I PROCESI                  	11.  24.      1.      3.  11.  22.      0.   7.  17.  
+605, ODABRANA POGLAVLJA IZ PROGRAMSKOG I 	 1.  15.      3.      4.  16.  29.      4.  10.  22.  
+
+ Grupa predmeta broj   26
+
+213, PRIJAMNICI                          	 1.  21.      3.      0.  15.  31.      1.  14.  24.  
+488, TONFREKVENCIJSKA TEHNIKA            	 7.  16.      1.      3.  11.  22.      0.   8.  16.  
+491, DIGITALNA AUDIOTEHNIKA              	11.  22.      3.      2.  11.  21.      1.  11.  21.  
+
+ Grupa predmeta broj   27
+
+404, ELEKTROAKUSTIKA                     	 4.  15.      1.      3.  15.  31.      1.   9.  18.  
+490, ELEKTROAKUSTIÈKI SIGNALI I SUSTAVI  	 3.  14.      3.      9.  16.  24.      0.   8.  16.  
+
+ Grupa predmeta broj   28
+
+399, OSNOVE MIKROELEKTRONIKE             	 9.  16.      1.      7.  21.  30.      1.  14.  24.  
+505, OSNOVE MIKROELEKTRONIÈKIH SKLOPOVA  	 1.  18.      1.      8.  17.  25.      7.  14.  21.  
+
+ Grupa predmeta broj   29
+
+171, RASPOZNAVANJE UZORAKA               	 4.  22.      3.      0.  16.  24.      4.  14.  23.  
+395, DIGITALNI SUSTAVI                   	 9.  23.      3.      4.  11.  29.      7.  14.  23.  
+401, PROJEKTIRANJE DIGITALNIH SUSTAVA    	 3.  22.      0.      1.  16.  24.      2.  11.  17.  
+415, ARHITEKTURA I ORGANIZACIJA RAÈUNALA 	11.  21.      1.      7.  15.  25.      7.  16.  22.  
+416, AUTOMATI, FORMALNI JEZICI I JEZIÈNI 	 8.  17.      3.      4.  14.  29.      3.  10.  18.  
+417, AUTOMATI, FORMALNI JEZICI I JEZIÈNI 	 8.  17.      3.      4.  14.  29.      1.  10.  18.  
+418, OPERACIJSKI SUSTAVI I               	 7.  16.      3.      2.  15.  23.      1.  15.  24.  
+443, INTELIGENTNI SUSTAVI                	 0.  15.      0.      1.  16.  23.      0.  11.  22.  
+444, OPERACIJSKI SUSTAVI II              	 7.  16.      3.      2.  15.  23.      1.  15.  23.  
+445, ANALIZA I PROJEKTIRANJE RAÈUNALOM   	 1.  14.      1.      8.  18.  28.      2.   9.  21.  
+446, MREŽE RAÈUNALA                      	 2.  23.      2.      2.  17.  31.      0.   8.  17.  
+504, MEMORIJSKI SUSTAVI                  	 3.  21.      2.      1.  11.  25.      1.  10.  18.  
+506, RAÈUNALNA GRAFIKA                   	 1.  14.      1.      8.  18.  28.      3.   9.  21.  
+508, POUZDANOST I NEOSJETLJIVOST NA POGR 	 8.  23.      3.      0.  14.  29.      2.  14.  21.  
+
+ Grupa predmeta broj   30
+
+402, TEORIJA ELEKTROMAGNETSKIH VALOVA    	 8.  22.      0.      1.  18.  29.      0.   9.  21.  
+406, TELEVIZIJA                          	11.  21.      3.      7.  14.  25.      3.  10.  18.  
+407, OPTOELEKTRONIÈKI SKLOPOVI           	 7.  16.      0.      4.  16.  23.      3.  10.  22.  
+489, OSNOVE RADIOKOMUNIKACIJSKIH SUSTAVA 	 3.  14.      1.      9.  18.  28.      7.  14.  24.  
+492, MIKROVALNE KOMUNIKACIJE             	 8.  22.      0.      1.  18.  29.      0.   9.  21.  
+495, DIGITALNE VIDEOKOMUNIKACIJE         	10.  18.      2.      3.  11.  24.      4.  11.  22.  
+514, MOBILNE KOMUNIKACIJE                	 7.  23.      3.      0.  21.  31.      4.  11.  18.  
+515, RADIOLOKACIJA I NAVIGACIJA          	 2.  21.      1.      8.  17.  30.      2.  14.  23.  
+516, ANALIZA ŠUMA U KOMUNIKACIJSKIM SUST 	 2.  23.      2.      2.  14.  24.      2.   9.  18.  
+618, DIGITALNA TELEVIZIJA                	 1.  24.      3.      2.  14.  31.      1.   9.  22.  
+619, RADARSKI SUSTAVI                    	 7.  23.      3.      0.  21.  31.      4.  11.  18.  
+634, RADIOTELEMETRIJA                    	 2.  21.      1.      8.  17.  30.      2.  14.  23.  
+
+ Grupa predmeta broj   31
+
+403, VISOKOFREKVENCIJSKA ELEKTRONIKA     	 0.  23.      3.      7.  16.  29.      7.  15.  22.  
+405, MODULACIJE I MODULATORI             	 1.  23.      0.      0.  15.  30.      2.  14.  23.  
+487, MIKROVALNA ELEKTRONIKA              	 3.  24.      3.      9.  21.  28.      2.  11.  22.  
+493, OPTIÈKI KOMUNIKACIJSKI SUSTAVI      	 7.  16.      0.      4.  16.  23.      3.  10.  22.  
+494, ANTENE                              	 4.  18.      2.      1.  15.  25.      8.  15.  23.  
+635, MIKROVALNI PRIJAMNICI               	 0.  22.      0.      9.  21.  28.      2.  10.  21.  
+
+ Grupa predmeta broj   32
+
+
+ Grupa predmeta broj   33
+
+
+ Grupa predmeta broj   34
+
+ 27, EKONOMIKA                           	 9.  17.      1.      3.   9.  22.      3.   8.  15.  
+
+ Grupa predmeta broj   35
+
+
+ Grupa predmeta broj   36
+
+
+ Grupa predmeta broj   37
+
+
+ Grupa predmeta broj   38
+
+
+ Grupa predmeta broj   39
+
+
+ Grupa predmeta broj   40
+
+
+ Grupa predmeta broj   41
+
+
+ Grupa predmeta broj   42
+
+
+ Grupa predmeta broj   43
+
+
+ Grupa predmeta broj   44
+
+
+ Grupa predmeta broj   45
+
+
+ Grupa predmeta broj   46
+
+
+ Grupa predmeta broj   47
+
+
+ Grupa predmeta broj   48
+
+
+ Grupa predmeta broj   49
+
+
+ Smjer  1
+
+439, STOHASTIÈKA MATEMATIKA              	 0.  24.      2.      9.  18.  28.      7.  14.  23.  
+293, TEORIJA MREŽA I LINIJA              	 1.  15.      0.      7.  21.  31.      0.   8.  18.  
+
+ Smjer  2
+
+
+ Smjer  3
+
+429, NUMERIÈKA MATEMATIKA                	 9.  21.      2.      2.  11.  23.      1.  10.  17.  
+464, ELEKTROMOTORNI POGONI               	 1.  16.      1.      8.  16.  30.      2.  17.  24.  
+641, ELEKTRIÈNI STROJEVI                 	 1.  16.      1.      8.  16.  30.      2.  17.  24.  
+642, ELEKTROMEHANIÈKA I ELEKTROMAGNETSKA 	 0.  23.      0.      1.  16.  31.      1.   9.  16.  
+644, AUTOMATIZIRANA ISPITIVANJA ELEKTROT 	 3.  23.      2.      4.  16.  24.      1.   8.  18.  
+465, UPRAVLJANJE ELEKTROMOTORNIM POGONIM 	 1.  16.      2.      0.  18.  28.      2.  15.  22.  
+470, MEHATRONIÈKI SUSTAVI                	 4.  24.      1.      0.  14.  22.      4.  15.  22.  
+534, AUTOMATIZACIJA INDUSTRIJSKIH POSTRO 	 4.  24.      1.      0.  14.  22.      4.  15.  22.  
+532, SKLOPNI I ZAŠTITNI UREÐAJI U POSTRO 	 2.  22.      3.      4.  11.  28.      3.  10.  23.  
+392, ENERGETSKA ELEKTRONIKA              	 0.  24.      1.      3.  17.  29.      8.  15.  22.  
+643, RAZVOJ ELEKTROTEHNIÈKIH PROIZVODA   	 2.  22.      0.      4.  17.  25.      1.   9.  18.  
+468, RAZVOD ELEKTRIÈNE ENERGIJE          	10.  23.      0.      3.  17.  31.      0.   9.  16.  
+458, ZAŠTITA I AUTOMATIKA ELEKTROENERGET 	14.  21.      0.      2.  15.  24.      4.  11.  21.  
+422, SIGNALI I SUSTAVI                   	10.  18.      1.      4.  22.  30.      2.  11.  21.  
+474, ELEKTRONIÈKA MJERENJA I INSTRUMENTA 	 4.  21.      0.      7.  16.  31.      1.   8.  16.  
+395, DIGITALNI SUSTAVI                   	 9.  23.      3.      4.  11.  29.      7.  14.  23.  
+ 27, EKONOMIKA                           	 9.  17.      1.      3.   9.  22.      3.   8.  15.  
+
+ Smjer  4
+
+424, TEORIJA ELEKTROMAGNETSKIH POLJA     	 4.  24.      1.      3.  15.  25.      2.  11.  21.  
+372, OSNOVE ENERGETSKE ELEKTRONIKE       	 4.  23.      0.      4.  16.  24.      0.  11.  18.  
+400, FILTRI I FILTARSKA POJAÈALA         	 4.  18.      2.      8.  18.  28.      0.   8.  18.  
+440, SIGNALI I SUSTAVI                   	 1.  22.      1.      2.  11.  31.      2.   9.  21.  
+482, SUSTAVI ZA PRIJENOS I TELEMETRIJU   	 2.  24.      1.      1.  15.  23.      7.  15.  22.  
+484, DIGITALNA OBRADBA SIGNALA           	 0.  17.      2.      7.  21.  29.      7.  16.  23.  
+485, PROJEKTIRANJE UGRAÐENIH RAÈUNALNIH  	 8.  16.      2.      2.  17.  30.      0.  10.  24.  
+486, SUSTAVI ZA PRAÆENJE I VOÐENJE PROCE 	 0.  15.      3.      1.  15.  25.      2.   9.  24.  
+524, DIGITALNA OBRADBA SLIKE             	 7.  21.      0.      7.  14.  25.      4.  11.  22.  
+587, NEURONSKE MREŽE                     	 0.  22.      3.      1.  11.  23.      0.  14.  23.  
+603, PODATKOVNI VIŠEMEDIJSKI PRIJENOS I  	10.  23.      0.      3.  17.  31.      0.   9.  16.  
+ 79, BIOMEDICINSKA ELEKTRONIKA           	11.  22.      3.      0.  17.  31.      4.  14.  23.  
+268, KONSTRUKCIJA I PROIZVODNJA ELEKTRON 	 3.  23.      3.      0.   9.  30.      1.  14.  24.  
+288, ELEKTRONIÈKA INSTRUMENTACIJA        	 0.  23.      2.      0.  11.  30.      0.   8.  22.  
+397, ELEKTRONIÈKA MJERENJA I KOMPONENTE  	 2.  17.      3.      4.  17.  29.      2.  10.  23.  
+399, OSNOVE MIKROELEKTRONIKE             	 9.  16.      1.      7.  21.  30.      1.  14.  24.  
+506, RAÈUNALNA GRAFIKA                   	 1.  14.      1.      8.  18.  28.      3.   9.  21.  
+
+ Smjer  5
+
+425, STOHASTIÈKI PROCESI                 	 9.  15.      0.      1.  17.  29.      1.  10.  18.  
+459, ENERGETIKA I OKOLIŠ                 	 0.  24.      2.      7.  14.  22.      3.  11.  18.  
+247, TEORIJA INFORMACIJE                 	 2.  23.      2.      0.  14.  21.      0.   9.  22.  
+409, LOGIÈKA ALGEBRA                     	 8.  18.      0.      1.  16.  24.      8.  16.  24.  
+411, INFORMACIJSKE MREŽE                 	10.  23.      3.      7.  14.  31.      0.  10.  23.  
+412, DIGITALNI AUTOMATI                  	 3.  17.      2.      4.  11.  28.      4.  15.  22.  
+413, INFORMACIJA, LOGIKA I JEZICI        	 0.  16.      3.      8.  18.  30.      3.  14.  21.  
+496, KOMUTACIJSKI SUSTAVI                	10.  21.      3.      1.  14.  22.      8.  15.  22.  
+497, TRANSMISIJSKI SUSTAVI               	 2.  15.      2.      2.  14.  24.      4.  14.  22.  
+498, TEORIJA PROMETA                     	 4.  22.      1.      3.  16.  29.      2.  11.  18.  
+499, KOMUNIKACIJSKI PROTOKOLI            	 2.  24.      0.      1.  11.  30.      0.  10.  23.  
+500, POUZDANOST TELEKOMUNIKACIJSKIH SUST 	 3.  21.      2.      1.  17.  25.      0.  11.  24.  
+501, TELEMATIÈKE USLUGE                  	 0.  24.      3.      7.  15.  25.      0.  10.  17.  
+502, VIŠEMEDIJSKE KOMUNIKACIJE           	 2.  15.      2.      2.  17.  31.      0.  10.  21.  
+510, ORGANIZACIJA OBRADE PODATAKA        	 7.  16.      3.      4.  15.  23.      1.  10.  21.  
+511, KONKURENTNO PROGRAMIRANJE           	11.  23.      0.      2.  15.  23.      1.  17.  24.  
+513, PRIJENOS PODATAKA                   	 8.  18.      0.      8.  16.  24.      3.  16.  22.  
+597, FOTONIÈKE KOMUNIKACIJSKE TEHNOLOGIJ 	 9.  18.      0.      4.  14.  29.      9.  16.  24.  
+620, AUTOMATI SA SVOJSTVOM UÈENJA        	 0.  22.      1.      9.  16.  28.      1.  16.  22.  
+621, RAZVOJ TELEKOMUNIKACIJSKE PROGRAMSK 	 2.  15.      2.      2.  17.  31.      0.  10.  21.  
+627, ORGANIZACIJA TELEKOMUNIKACIJSKE MRE 	 4.  23.      3.      1.  11.  23.      4.  14.  22.  
+599, AUTOMATIZIRANA INSTRUMENTACIJA      	 3.  24.      1.      1.  18.  25.      3.  11.  18.  
+418, OPERACIJSKI SUSTAVI I               	 7.  16.      3.      2.  15.  23.      1.  15.  24.  
+
+ Smjer  6
+
+441, DISKRETNA MATEMATIKA                	 2.  22.      3.      3.  11.  21.      8.  16.  21.  
+467, PROJEKTIRANJE INDUSTRIJSKIH POSTROJ 	 8.  18.      3.      7.  15.  29.      3.  14.  21.  
+377, TEHNIÈKA MEHANIKA                   	 3.  22.      0.      7.  16.  25.      3.  10.  18.  
+554, ENERGETSKA ELEKTRONIKA              	 7.  17.      3.      0.  21.  30.      0.   8.  18.  
+427, ALGORITMI I METODE OPTIMIZACIJE     	 4.  22.      1.      3.  16.  29.      2.  11.  18.  
+365, ELEMENTI AUTOMATIZACIJE PROCESA     	11.  23.      0.      2.  11.  30.      2.   9.  22.  
+366, MODELIRANJE I SIMULIRANJE PROCESA   	 1.  16.      2.      0.  15.  22.      4.  15.  23.  
+475, DIGITALNI SUSTAVI UPRAVLJANJA       	 7.  22.      0.      2.  11.  30.      1.   9.  21.  
+476, OSNOVE ROBOTIKE                     	 2.  14.      3.      2.  16.  24.      3.  11.  18.  
+478, NELINEARNI I OPTIMALNI SUSTAVI UPRA 	 4.  15.      0.      1.  18.  31.      0.  16.  23.  
+479, AUTOMATIZACIJA POSTROJENJA I PROCES 	 0.  23.      2.      8.  16.  28.      0.  10.  16.  
+480, SUSTAVI ZA DALJINSKO VOÐENJE I DIST 	 0.  21.      0.      3.  11.  28.      2.   9.  24.  
+473, RAÈUNALA II                         	 0.  15.      2.      4.  17.  24.      3.  10.  22.  
+605, ODABRANA POGLAVLJA IZ PROGRAMSKOG I 	 1.  15.      3.      4.  16.  29.      4.  10.  22.  
+505, OSNOVE MIKROELEKTRONIÈKIH SKLOPOVA  	 1.  18.      1.      8.  17.  25.      7.  14.  21.  
+171, RASPOZNAVANJE UZORAKA               	 4.  22.      3.      0.  16.  24.      4.  14.  23.  
+
+ Smjer  7
+
+
+ Smjer  8
+
+509, FIZIKA LASERA                       	 2.  17.      0.      0.  14.  23.      4.   9.  17.  
+472, AUTOMATSKO UPRAVLJANJE              	 3.  11.      3.      8.  17.  25.      3.  15.  23.  
+483, MIKROELEKTRONIÈKI SKLOPOVI          	 1.  24.      0.      8.  16.  28.      1.  10.  17.  
+471, RAÈUNALA I                          	10.  24.      0.      2.  14.  24.      4.  11.  17.  
+477, RAÈUNALA I PROCESI                  	11.  24.      1.      3.  11.  22.      0.   7.  17.  
+213, PRIJAMNICI                          	 1.  21.      3.      0.  15.  31.      1.  14.  24.  
+491, DIGITALNA AUDIOTEHNIKA              	11.  22.      3.      2.  11.  21.      1.  11.  21.  
+404, ELEKTROAKUSTIKA                     	 4.  15.      1.      3.  15.  31.      1.   9.  18.  
+490, ELEKTROAKUSTIÈKI SIGNALI I SUSTAVI  	 3.  14.      3.      9.  16.  24.      0.   8.  16.  
+402, TEORIJA ELEKTROMAGNETSKIH VALOVA    	 8.  22.      0.      1.  18.  29.      0.   9.  21.  
+406, TELEVIZIJA                          	11.  21.      3.      7.  14.  25.      3.  10.  18.  
+407, OPTOELEKTRONIÈKI SKLOPOVI           	 7.  16.      0.      4.  16.  23.      3.  10.  22.  
+492, MIKROVALNE KOMUNIKACIJE             	 8.  22.      0.      1.  18.  29.      0.   9.  21.  
+514, MOBILNE KOMUNIKACIJE                	 7.  23.      3.      0.  21.  31.      4.  11.  18.  
+515, RADIOLOKACIJA I NAVIGACIJA          	 2.  21.      1.      8.  17.  30.      2.  14.  23.  
+516, ANALIZA ŠUMA U KOMUNIKACIJSKIM SUST 	 2.  23.      2.      2.  14.  24.      2.   9.  18.  
+618, DIGITALNA TELEVIZIJA                	 1.  24.      3.      2.  14.  31.      1.   9.  22.  
+619, RADARSKI SUSTAVI                    	 7.  23.      3.      0.  21.  31.      4.  11.  18.  
+634, RADIOTELEMETRIJA                    	 2.  21.      1.      8.  17.  30.      2.  14.  23.  
+403, VISOKOFREKVENCIJSKA ELEKTRONIKA     	 0.  23.      3.      7.  16.  29.      7.  15.  22.  
+405, MODULACIJE I MODULATORI             	 1.  23.      0.      0.  15.  30.      2.  14.  23.  
+487, MIKROVALNA ELEKTRONIKA              	 3.  24.      3.      9.  21.  28.      2.  11.  22.  
+493, OPTIÈKI KOMUNIKACIJSKI SUSTAVI      	 7.  16.      0.      4.  16.  23.      3.  10.  22.  
+494, ANTENE                              	 4.  18.      2.      1.  15.  25.      8.  15.  23.  
+635, MIKROVALNI PRIJAMNICI               	 0.  22.      0.      9.  21.  28.      2.  10.  21.  
+
+ Smjer  9
+
+
+ Smjer  10
+
+
+ Smjer  11
+
+
+ Smjer  12
+
+
+ Smjer  13
+
+
+ Smjer  14
+
+
+ Smjer  15
+
+
+ Smjer  16
+
+
+ Smjer  17
+
+
+ Smjer  18
+
+
+ Smjer  19
+
+
+ Smjer  20
+
+ 55, BAZE PODATAKA                       	 4.  22.      3.      4.  14.  30.      3.  11.  18.  
+414, PROGRAMSKE PARADIGME I JEZICI       	 0.  24.      0.      3.  17.  30.      4.  15.  24.  
+583, OBJEKTNO ORIJENTIRANO PROGRAMIRANJE 	 9.  17.      3.      0.  15.  29.      2.  14.  23.  
+421, NUMERIÈKI POSTUPCI U PROJEKTIRANJU  	10.  18.      2.      7.  17.  30.      4.  15.  22.  
+410, TELEKOMUNIKACIJSKE MREŽE            	 1.  14.      0.      1.  16.  24.      7.  16.  24.  
+481, SLUÈAJNI PROCESI U SUSTAVIMA        	 2.  21.      0.      1.  18.  24.      0.   9.  16.  
+565, SLIJEDNI SUSTAVI                    	 3.  24.      3.      8.  15.  25.      8.  14.  24.  
+376, OTVORENO RAÈUNARSTVO                	10.  18.      0.      4.  17.  31.      2.   9.  18.  
+447, MODELIRANJE I SIMULIRANJE           	 0.  24.      0.      1.  16.  24.      3.  10.  24.  
+488, TONFREKVENCIJSKA TEHNIKA            	 7.  16.      1.      3.  11.  22.      0.   8.  16.  
+401, PROJEKTIRANJE DIGITALNIH SUSTAVA    	 3.  22.      0.      1.  16.  24.      2.  11.  17.  
+415, ARHITEKTURA I ORGANIZACIJA RAÈUNALA 	11.  21.      1.      7.  15.  25.      7.  16.  22.  
+416, AUTOMATI, FORMALNI JEZICI I JEZIÈNI 	 8.  17.      3.      4.  14.  29.      3.  10.  18.  
+417, AUTOMATI, FORMALNI JEZICI I JEZIÈNI 	 8.  17.      3.      4.  14.  29.      1.  10.  18.  
+443, INTELIGENTNI SUSTAVI                	 0.  15.      0.      1.  16.  23.      0.  11.  22.  
+444, OPERACIJSKI SUSTAVI II              	 7.  16.      3.      2.  15.  23.      1.  15.  23.  
+445, ANALIZA I PROJEKTIRANJE RAÈUNALOM   	 1.  14.      1.      8.  18.  28.      2.   9.  21.  
+446, MREŽE RAÈUNALA                      	 2.  23.      2.      2.  17.  31.      0.   8.  17.  
+504, MEMORIJSKI SUSTAVI                  	 3.  21.      2.      1.  11.  25.      1.  10.  18.  
+508, POUZDANOST I NEOSJETLJIVOST NA POGR 	 8.  23.      3.      0.  14.  29.      2.  14.  21.  
+489, OSNOVE RADIOKOMUNIKACIJSKIH SUSTAVA 	 3.  14.      1.      9.  18.  28.      7.  14.  24.  
+495, DIGITALNE VIDEOKOMUNIKACIJE         	10.  18.      2.      3.  11.  24.      4.  11.  22.  
+
+ Smjer  21
+
+384, TEORIJSKA ELEKTROTEHNIKA            	11.  21.      2.      9.  21.  29.      0.  14.  23.  
+374, PROCESNA MJERENJA                   	 8.  17.      1.      1.  15.  23.      2.  17.  23.  
+393, ELEKTROTEHNIÈKI MATERIJALI I TEHNOL 	 4.  15.      3.      3.  14.  24.      3.  10.  21.  
+451, RASKLOPNA POSTROJENJA               	 0.  21.      2.      3.  11.  28.      1.   9.  17.  
+452, ELEKTROENERGETSKE MREŽE             	11.  24.      3.      0.   8.  31.      7.  14.  24.  
+453, NUMERIÈKA ANALIZA ELEKTROENERGETSKO 	 3.  23.      0.      8.  18.  29.      2.  16.  24.  
+457, REGULACIJA ELEKTROENERGETSKOG SUSTA 	 4.  22.      3.      4.  14.  23.      4.  10.  21.  
+460, VOÐENJE ELEKTROENERGETSKOG SUSTAVA  	 0.  24.      2.      0.  16.  30.      2.  14.  21.  
+545, ENERGETSKI IZVORI                   	 1.  16.      3.      2.  17.  25.      7.  14.  21.  
+231, SIGURNOST NUKLEARNIH POSTROJENJA    	 4.  23.      1.      3.  18.  25.      2.   9.  22.  
+455, NUKLEARNE ELEKTRANE                 	 2.  11.      2.      1.  14.  21.      1.  10.  24.  
+
+ Smjer  22
+
+367, FIZIKA MATERIJALA                   	 8.  14.      2.      9.  22.  31.      4.  14.  24.  
+385, DJELOVANJE I ZAŠTITA OD ZRAÈENJA    	 1.  14.      3.      2.  15.  29.      0.  16.  23.  
+226, GORIVNI CIKLUSI I REAKTORSKI MATERI 	 0.  24.      1.      2.  11.  23.      2.  10.  21.  
+419, OPERACIJSKA ISTRAŽIVANJA            	 7.  15.      0.      9.  21.  28.      1.  10.  17.  
+382, ELEKTRIÈNI STROJEVI I TRANSFORMATOR 	 2.  18.      1.      2.  15.  22.      2.  11.  23.  
+461, REGULACIJSKA TEHNIKA                	 1.  16.      2.      0.  18.  28.      2.  15.  22.  
+466, DIGITALNI I NELINEARNI SUSTAVI UPRA 	 4.  15.      0.      1.  18.  31.      0.  16.  23.  
+390, OSNOVE ÈVRSTOÆE I KONSTRUIRANJA     	 7.  21.      0.      1.  18.  25.      1.   9.  16.  
+388, VOÐENJE I PRIJELAZ TOPLINE          	 0.  17.      1.      2.  17.  28.      7.  15.  24.  
+450, ENERGETSKI PROCESI                  	 9.  24.      3.      4.  14.  23.      3.  10.  17.  
+456, ELEKTRANE                           	 3.  16.      2.      7.  16.  31.      0.   9.  18.  
+541, POUZDANOST ELEKTROENERGETSKOG SUSTA 	 2.  22.      1.      0.  18.  30.      8.  15.  23.  
+383, UVOD U NUKLEARNU ENERGETIKU         	 3.  14.      1.      8.  15.  30.      1.   9.  17.  
+449, OBNOVLJIVI IZVORI ENERGIJE          	 0.  23.      0.      3.  11.  29.      1.   8.  18.  
+387, PRIJENOS ELEKTRIÈNE ENERGIJE        	11.  24.      3.      0.   8.  31.      7.  14.  24.  
+454, TEHNIKA VISOKOG NAPONA              	 7.  15.      3.      1.  11.  25.      0.  11.  18.  
+
+ Smjer  23
+
+
+ Smjer  24
+
+
+ Smjer  25
+
+
+ Smjer  26
+
+
+ Smjer  27
+
+
+ Smjer  28
+
+
+ Smjer  29

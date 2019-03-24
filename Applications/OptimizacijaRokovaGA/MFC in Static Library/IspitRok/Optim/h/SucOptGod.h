@@ -1,0 +1,7 @@
+#include "dialog2.h"
+#include "sizedlg.h"
+#include "resource.h"
+#include "dlgfiks.h"
+#include "dlgUcit.h"
+#include "dlgParam.h"
+#include "dlgPred.h"

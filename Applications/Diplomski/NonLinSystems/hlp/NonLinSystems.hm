@@ -1,0 +1,78 @@
+// MAKEHELP.BAT generated Help Map file.  Used by NONLINSYSTEMS.HPJ. 
+ 
+// Commands (ID_* and IDM_*) 
+HID_CANCEL_EDIT_SRVR                    0x18001
+HID_EDIT_DIFF_EQUATIONS                 0x18003
+HID_PLOT_TRAJECTORY                     0x18004
+HID_PLOT_PHASE_CURVE                    0x18005
+HID_PLOT_EQUIL_SOLUTIONS                0x18006
+HID_PLOT_BIFUR_SURFACE                  0x18007
+HID_PLOT_BIFUR_DIAGRAM                  0x18008
+HID_PLOT_X_LEFT                         0x18011
+HID_PLOT_X_RIGHT                        0x18012
+HID_PLOT_Y_UP                           0x18013
+HID_PLOT_Y_DOWN                         0x18014
+HID_PLOT_X_EXPAND                       0x18015
+HID_PLOT_Y_EXPAND_WINDOW                0x18016
+HID_PLOT_X_CONDENSE                     0x18018
+HID_PLOT_Y_CONDENSE_WINDOW              0x1801A
+HID_PLOT_GET_CLOSER                     0x1801B
+HID_PLOT_GET_FARTHER                    0x1801C
+HID_ROTATE_LEFT                         0x1801F
+HID_ROTATE_RIGHT                        0x18020
+HID_ROTATE_UP                           0x18024
+HID_ROTATE_DOWN                         0x18025
+HID_RESET_MUL                           0x18026
+HID_PLOT_EXPAND_BOTH                    0x18027
+HID_PLOT_CONDENSE_BOTH                  0x18028
+HID_PLOT_LIAPUNOV_EXP                   0x18029
+HID_PLOT_FOURIER                        0x1802C
+HID_ANAL_LOCATE_BIF                     0x1802D
+HID_PLOT_SET_LEGEND_POS                 0x1802E
+HID_MOVE_CENTER_UP                      0x1802F
+HID_MOVE_CENTER_RIGHT                   0x18031
+HID_MOVE_CENTER_CLOSER                  0x18033
+HID_MOVE_CENTER_DOWN                    0x18035
+HID_MOVE_CENTER_LEFT                    0x18036
+HID_MOVE_CENTER_FURTHER                 0x18037
+HID_VIEW_BIF_POINTS                     0x18038
+HID_ANAL_CALC_LYAP_EXP                  0x18039
+HID_ANAL_CALC_EQU_SOL                   0x1803A
+HID_VIEW_LYAP_EXP                       0x1803B
+HID_OPTIONS_SET_OPTIONS                 0x1803C
+HID_OPTIONS_SHOW_LEGEND                 0x1803D
+HID_FOURIER_DRAW                        0x1803E
+HID_TRAJECTORY_PLOT                     0x1803F
+HID_PHASE_DIAGRAM_PLOT                  0x18040
+HID_LOC_BIF                             0x18041
+HID_CALC_LYAP_EXP                       0x18042
+HID_OPTIONS_SHOW_BIF_IN_EQU_SURF        0x18043
+HID_OPTIONS_SET_BIF_LEGEND_POS          0x18044
+ 
+// Prompts (IDP_*) 
+HIDP_OLE_INIT_FAILED                    0x30064
+ 
+// Resources (IDR_*) 
+HIDR_NLSYSTYPE_SRVR_IP                  0x20004
+HIDR_NLSYSTYPE_SRVR_EMB                 0x20005
+HIDR_MAINFRAME                          0x20080
+HIDR_NLSYSTYPE                          0x20081
+HIDR_WINDOW_SIZE                        0x20082
+HIDR_COMMANDS                           0x2008D
+ 
+// Dialogs (IDD_*) 
+HIDD_ABOUTBOX                           0x20064
+HIDD_PHASE_PLOT_PARAM                   0x20082
+HIDD_OPTIONS                            0x20083
+HIDD_LOCATE_BIF_POINTS                  0x20084
+HIDD_PLOT_EQU_SURFACE                   0x20085
+HIDD_SHOW_BIF_POINTS                    0x20087
+HIDD_CALC_LYAP_EXP                      0x20088
+HIDD_SHOW_LYAP_EXP                      0x20089
+HIDD_INPUT_DIFFEQ_SYSTEM                0x2008B
+HIDD_PLOT_LYAP_EXP                      0x2008C
+HIDD_TRAJECTORY_PLOT_PARAM              0x2008D
+HIDD_PLOT_SPECTRUM                      0x2008F
+HIDD_CALC_EQU_SOLUTION                  0x20090
+ 
+// Frame Controls (IDW_*) 

@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphControl", "..\..\Controls\GraphControl\GraphControl.vcxproj", "{EE47A261-7E07-5E92-5A31-233405F00F58}"
+EndProject
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "Mathlib", "..\..\Libraries\MathLib\Mathlib.dsp", "{FA1D1BC1-7C9D-4E5D-8408-8123CD7D04C7}"
+EndProject
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "MathlibTest", "..\..\..\..\Library\C++\Projects\MathlibTest\MathlibTest.dsp", "{B31439BE-E221-4E32-8E1F-BD81EA201927}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SchroedingerEq", "SchroedingerEq.vcxproj", "{D9064667-51C0-3818-0872-BEC466568318}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B698C6B9-5CF7-467B-0312-EC09BB453835} = {B698C6B9-5CF7-467B-0312-EC09BB453835}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleGraph", "..\..\Controls\SimpleGraph\SimpleGraph.vcxproj", "{B698C6B9-5CF7-467B-0312-EC09BB453835}"
+EndProject
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "TestContainer", "..\..\Testing\TestContainer\TestContainer.dsp", "{3B345313-B432-4E53-A533-41B18FEC8031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+		Unicode Debug|Win32 = Unicode Debug|Win32
+		Unicode Release|Win32 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Debug|Win32.Build.0 = Debug|Win32
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Release|Win32.ActiveCfg = Release|Win32
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Release|Win32.Build.0 = Release|Win32
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Template|Win32.ActiveCfg = Unicode Release|Win32
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Template|Win32.Build.0 = Unicode Release|Win32
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Unicode Debug|Win32.ActiveCfg = Unicode Debug|Win32
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Unicode Debug|Win32.Build.0 = Unicode Debug|Win32
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Unicode Release|Win32.ActiveCfg = Unicode Release|Win32
+		{EE47A261-7E07-5E92-5A31-233405F00F58}.Unicode Release|Win32.Build.0 = Unicode Release|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Debug|Win32.Build.0 = Debug|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Release|Win32.ActiveCfg = Release|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Release|Win32.Build.0 = Release|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Template|Win32.ActiveCfg = Template|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Template|Win32.Build.0 = Template|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Unicode Debug|Win32.ActiveCfg = Debug|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Unicode Debug|Win32.Build.0 = Debug|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Unicode Release|Win32.ActiveCfg = Release|Win32
+		{D9064667-51C0-3818-0872-BEC466568318}.Unicode Release|Win32.Build.0 = Release|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Debug|Win32.Build.0 = Debug|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Release|Win32.ActiveCfg = Release|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Release|Win32.Build.0 = Release|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Template|Win32.ActiveCfg = Template|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Template|Win32.Build.0 = Template|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Unicode Debug|Win32.ActiveCfg = Unicode Debug|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Unicode Debug|Win32.Build.0 = Unicode Debug|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Unicode Release|Win32.ActiveCfg = Unicode Release|Win32
+		{B698C6B9-5CF7-467B-0312-EC09BB453835}.Unicode Release|Win32.Build.0 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

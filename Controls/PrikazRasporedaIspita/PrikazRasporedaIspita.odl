@@ -1,0 +1,85 @@
+// PrikazRasporedaIspita.odl : type library source for ActiveX Control project.
+
+// This file will be processed by the Make Type Library (mktyplib) tool to
+// produce the type library (PrikazRasporedaIspita.tlb) that will become a resource in
+// PrikazRasporedaIspita.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(A76A2D98-8C06-4671-B710-97DC48CC5D85), version(1.0),
+  helpfile("PrikazRasporedaIspita.hlp"),
+  helpstring("PrikazRasporedaIspita ActiveX Control module"),
+  control ]
+library PRIKAZRASPOREDAISPITALib
+{
+	importlib(STDOLE_TLB);
+	importlib(STDTYPE_TLB);
+
+	//  Primary dispatch interface for CPrikazRasporedaIspitaCtrl
+
+	[ uuid(1030F5CF-FA20-413B-824F-C0D89D37272D),
+	  helpstring("Dispatch interface for PrikazRasporedaIspita Control"), hidden ]
+	dispinterface _DPrikazRasporedaIspita
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CPrikazRasporedaIspitaCtrl)
+			[id(1)] short ItemNameLengthPercentage;
+			[id(2)] short AdditionalDataLengthPercentage;
+			//}}AFX_ODL_PROP
+
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CPrikazRasporedaIspitaCtrl)
+			[id(3)] boolean AddRow(BSTR ItemName);
+			[id(4)] boolean AddRowTerm(short RowNum, short Term);
+			[id(5)] boolean MoveUp();
+			[id(6)] boolean MoveDown();
+			[id(7)] short GetRowNum();
+			[id(8)] short GetItemNum();
+			[id(9)] boolean ClearRowData(short RowNum);
+			[id(10)] short GetTermNum();
+			[id(11)] boolean SetTermNum(short TermNum);
+			[id(12)] void ClearAllData();
+			[id(13)] void DrawItself();
+			//}}AFX_ODL_METHOD
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+	};
+
+	//  Event dispatch interface for CPrikazRasporedaIspitaCtrl
+
+	[ uuid(285F6332-4359-418F-BEF2-B1F69A5FB678),
+	  helpstring("Event interface for PrikazRasporedaIspita Control") ]
+	dispinterface _DPrikazRasporedaIspitaEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+			// NOTE - ClassWizard will maintain event information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_EVENT(CPrikazRasporedaIspitaCtrl)
+			[id(1)] void RowSelected(short RowNum);
+			[id(2)] void ColSelected(short ColNum);
+			[id(3)] void TermSelected(short RowNum, short ColNum);
+			//}}AFX_ODL_EVENT
+	};
+
+	//  Class information for CPrikazRasporedaIspitaCtrl
+
+	[ uuid(58E19248-A94F-4762-B543-0F1CD6C3B71D),
+	  helpstring("PrikazRasporedaIspita Control"), control ]
+	coclass PrikazRasporedaIspita
+	{
+		[default] dispinterface _DPrikazRasporedaIspita;
+		[default, source] dispinterface _DPrikazRasporedaIspitaEvents;
+	};
+
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

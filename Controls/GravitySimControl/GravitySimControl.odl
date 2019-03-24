@@ -1,0 +1,69 @@
+// GravitySimControl.odl : type library source for ActiveX Control project.
+
+// This file will be processed by the Make Type Library (mktyplib) tool to
+// produce the type library (GravitySimControl.tlb) that will become a resource in
+// GravitySimControl.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(0566A573-C260-11D2-9649-00C0DFE5278A), version(1.0),
+  helpfile("GravitySimControl.hlp"),
+  helpstring("GravitySimControl ActiveX Control module"),
+  control ]
+library GRAVITYSIMCONTROLLib
+{
+	importlib(STDOLE_TLB);
+	importlib(STDTYPE_TLB);
+
+	//  Primary dispatch interface for CGravitySimCtrl
+
+	[ uuid(0566A576-C260-11D2-9649-00C0DFE5278A),
+	  helpstring("Dispatch interface for GravitySim Control"), hidden ]
+	dispinterface _DGravitySimCtrl
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CGravitySimCtrl)
+			//}}AFX_ODL_PROP
+
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CGravitySimCtrl)
+			//}}AFX_ODL_METHOD
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+	};
+
+	//  Event dispatch interface for CGravitySimCtrl
+
+	[ uuid(0566A577-C260-11D2-9649-00C0DFE5278A),
+	  helpstring("Event interface for GravitySim Control") ]
+	dispinterface _DGravitySimCtrlEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+			// NOTE - ClassWizard will maintain event information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_EVENT(CGravitySimCtrl)
+			//}}AFX_ODL_EVENT
+	};
+
+	//  Class information for CGravitySimCtrl
+
+	[ uuid(0566A578-C260-11D2-9649-00C0DFE5278A), licensed,
+	  helpstring("GravitySim Control"), control ]
+	coclass GravitySimCtrl
+	{
+		[default] dispinterface _DGravitySimCtrl;
+		[default, source] dispinterface _DGravitySimCtrlEvents;
+	};
+
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

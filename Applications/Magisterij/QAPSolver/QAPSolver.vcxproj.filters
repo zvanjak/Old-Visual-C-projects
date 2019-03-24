@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7fe918d0-3091-44f7-8b4b-0ac4d8c1a803}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{81d70114-3756-45f9-80d3-66fd55300f9a}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{c1c3967e-a38b-41e4-859c-f5e99794bc5e}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Control files - headers">
+      <UniqueIdentifier>{d31145ff-95d4-41f6-854c-8ef4252d94a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controls files - cpp">
+      <UniqueIdentifier>{3e9348cf-6fe1-49c3-a69b-b7967e9e68b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Extra headers">
+      <UniqueIdentifier>{150861eb-04a2-483f-9fd8-e109f03977e8}</UniqueIdentifier>
+      <Extensions>*.h</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChildFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAlgDepQualityOfSolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgGeneric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSelectGraphNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSetProblemInstances.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgTestChart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgTimeToReachSol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgViewBestSolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgViewData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgViewGraphResults.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgViewResults.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QAPCompareDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QAPCompareView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QAPSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QAPSolverDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QAPSolverView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="commondialog.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="font.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="graph.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="mschart.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="msflexgrid.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="picture.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="prikazrasporedaispita.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="rowcursor.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="simplegraph.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcaxis.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcaxisgrid.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcaxisscale.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcaxistitle.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcbackdrop.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcbrush.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vccategoryscale.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vccolor.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vccoor.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcdatagrid.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcdatapoint.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcdatapointlabel.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcdatapoints.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcfill.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcfont.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcfootnote.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcframe.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcintersection.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vclabel.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vclabels.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vclcoor.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vclegend.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vclight.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vclightsource.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vclightsources.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vclocation.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcmarker.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcpen.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcplot.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcplotbase.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcrect.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcseries.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcseriescollection.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcseriesmarker.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcseriesposition.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcshadow.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcstatline.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vctextlayout.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vctick.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vctitle.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcvaluescale.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcview3d.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcwall.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="vcweighting.cpp">
+      <Filter>Controls files - cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="QAPSolver.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChildFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgAlgDepQualityOfSolution.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgGeneric.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgOptimizationGenetic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgOptimizationGRASP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgOptimizationLocal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgOptimizationSimAnnealing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgOptimizationTabuSearch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSelectGraphNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSetProblemInstances.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgTestChart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgTimeToReachSol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgViewBestSolution.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgViewData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgViewGraphResults.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgViewResults.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QAPCompareDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QAPCompareView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QAPSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QAPSolverDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QAPSolverView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="commondialog.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="graph.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="mschart.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="msflexgrid.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="picture.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="prikazrasporedaispita.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="rowcursor.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="simplegraph.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcaxis.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcaxisgrid.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcaxisscale.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcaxistitle.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcbackdrop.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcbrush.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vccategoryscale.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vccolor.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vccoor.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcdatagrid.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcdatapoint.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcdatapointlabel.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcdatapoints.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcfill.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcfont.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcfootnote.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcframe.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcintersection.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vclabel.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vclabels.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vclcoor.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vclegend.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vclight.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vclightsource.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vclightsources.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vclocation.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcmarker.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcpen.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcplot.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcplotbase.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcrect.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcseries.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcseriescollection.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcseriesmarker.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcseriesposition.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcshadow.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcstatline.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vctextlayout.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vctick.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vctitle.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcvaluescale.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcview3d.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcwall.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="vcweighting.h">
+      <Filter>Control files - headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\Optimization\Base.h">
+      <Filter>Extra headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Library\C++\Include\Mathlib\Matrix.h">
+      <Filter>Extra headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\Optimization\Optimization.h">
+      <Filter>Extra headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\Optimization\OptimizationResult.h">
+      <Filter>Extra headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\Optimization\OptRefresh.h">
+      <Filter>Extra headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\QAP\QAP.H">
+      <Filter>Extra headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\LIBRARY\C++\Include\QAP\QAPTabuSearch.h">
+      <Filter>Extra headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Library\C++\Include\QAP\Win32Serialize.h">
+      <Filter>Extra headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\qap_comp.ico">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\QAPSolver.ico">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\QAPSolver.rc2">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\QAPSolverDoc.ico">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

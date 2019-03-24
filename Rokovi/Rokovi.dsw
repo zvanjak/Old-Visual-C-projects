@@ -1,0 +1,109 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "DBRokovi"=".\DBRokovi\DBRokovi.dsp" - Package Owner=<29>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "NewOptProblem"=".\NewOptProblem\NewOptProblem.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "OptRokova"=".\OptRokova\OptRokova.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "OptRokovaLib"="..\..\..\Library\C++\Projects\OptRokovaLib\OptRokovaLib.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/OptRokovaLib", GCAAAAAA
+    ..\..\..\library\c++\projects\optrokovalib
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "OptimiranjeRokova"=".\OptimiranjeRokova\OptimiranjeRokova.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "PrikazRasporedaIspita"="..\Controls\PrikazRasporedaIspita\PrikazRasporedaIspita.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "ScheduleFramework"="..\..\..\Library\C++\Projects\ScheduleFramework\ScheduleFramework.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/ScheduleFramework", WAAAAAAA
+    ..\..\..\library\c++\projects\scheduleframework
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

@@ -1,0 +1,83 @@
+// MathGraph.odl : type library source for ActiveX Control project.
+
+// This file will be processed by the Make Type Library (mktyplib) tool to
+// produce the type library (MathGraph.tlb) that will become a resource in
+// MathGraph.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(81936D26-BE53-11D1-AFF7-0000C03E618C), version(1.0),
+  helpfile("MathGraph.hlp"),
+  helpstring("MathGraph ActiveX Control module"),
+  control ]
+library MATHGRAPHLib
+{
+	importlib(STDOLE_TLB);
+	importlib(STDTYPE_TLB);
+
+	//  Primary dispatch interface for CMathGraphCtrl
+
+	[ uuid(81936D27-BE53-11D1-AFF7-0000C03E618C),
+	  helpstring("Dispatch interface for MathGraph Control"), hidden ]
+	dispinterface _DMathGraph
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CMathGraphCtrl)
+			[id(9)] short CurveNum;
+			[id(4)] BSTR Title;
+			[id(5)] short GraphType;
+			[id(6)] boolean ShowLegend;
+			[id(7)] boolean UseColors;
+			[id(8)] boolean UseLineStyles;
+			[id(1)] short XAxisVar;
+			[id(2)] short YAxisVar;
+			[id(3)] short ZAxisVar;
+			//}}AFX_ODL_PROP
+
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CMathGraphCtrl)
+			[id(10)] short AddNewGraph(BSTR pchLegend, BSTR pchYAxis);
+			[id(11)] void RemoveGraph(short nCurveNum);
+			[id(12)] short AddPoint(short nID, double dX, double dY);
+			[id(13)] short AddPoint3D(short nID, double dX, double dY, double dZ);
+			[id(14)] void SetLegend(short nID, BSTR pchLegend);
+			//}}AFX_ODL_METHOD
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+	};
+
+	//  Event dispatch interface for CMathGraphCtrl
+
+	[ uuid(81936D28-BE53-11D1-AFF7-0000C03E618C),
+	  helpstring("Event interface for MathGraph Control") ]
+	dispinterface _DMathGraphEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+			// NOTE - ClassWizard will maintain event information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_EVENT(CMathGraphCtrl)
+			//}}AFX_ODL_EVENT
+	};
+
+	//  Class information for CMathGraphCtrl
+
+	[ uuid(81936D29-BE53-11D1-AFF7-0000C03E618C), licensed,
+	  helpstring("MathGraph Control"), control ]
+	coclass MathGraph
+	{
+		[default] dispinterface _DMathGraph;
+		[default, source] dispinterface _DMathGraphEvents;
+	};
+
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

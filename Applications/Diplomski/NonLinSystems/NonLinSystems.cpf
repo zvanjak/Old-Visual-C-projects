@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project formatVersion="1.0" toolName="C++Test">
+    <Properties>
+        <Property name="name">NonLinSystems</Property>
+        <Property name="tool version">6.7.4.0</Property>
+        <Property name="description"/>
+        <Property name="build date">1157961446515</Property>
+    </Properties>
+    <Resources>
+        <Resource name="Product" type="product_dir"/>
+    </Resources>
+    <Settings>
+        <ProjectConfigurations formatVersion="1.0" toolName="C++Test">
+            <ProjectConfiguration formatVersion="1.0" name="VC++6.0" toolName="C++Test" toolVersion="6.7">
+                <ProjectSettings formatVersion="1.0" toolName="C++Test">
+                    <CompilerExecutables formatVersion="1.0" toolName="C++Test">
+                        <CompilerName>VisualC6</CompilerName>
+                        <CppCompilerPath>cl.exe</CppCompilerPath>
+                        <CCompilerPath>cl.exe</CCompilerPath>
+                        <LinkerPath>link.exe</LinkerPath>
+                        <PathPrefix/>
+                        <UseEnvironment>1</UseEnvironment>
+                        <UseAsCustomCompiler enabled="false"/>
+                    </CompilerExecutables>
+                    <CompilerOptions formatVersion="1.0" toolName="C++Test">
+                        <PreprocessorFlags/>
+                        <IncludeOptions>/I . </IncludeOptions>
+                        <CompilerOptions/>
+                    </CompilerOptions>
+                    <LinkerOptions formatVersion="1.0" toolName="C++Test">
+                        <Libraries>MathLibDebug.lib /subsystem:windows /machine:I386 /nologo /pdbtype:sept /debug</Libraries>
+                    </LinkerOptions>
+                    <IgnorePaths formatVersion="1.1" toolName="C++Test">
+                        <IgnorePath action="exclude" path="*"/>
+                        <IgnorePath action="include" path="${CURRENT_HEADER}"/>
+                        <IgnorePath action="include" path="${CURRENT_SOURCE}"/>
+                    </IgnorePaths>
+                    <GRSAttibutes formatVersion="1.0" toolName="C++Test"/>
+                    <DataSource formatVersion="1.0" toolName="C++Test"/>
+                    <OtherOptions formatVersion="1.1" toolName="C++Test">
+                        <StaticAdvancedOption/>
+                    </OtherOptions>
+                    <ProjectProperties formatVersion="1.0" toolName="C++Test">
+                        <Property key="isEBProject_boolean" value="false"/>
+                    </ProjectProperties>
+                    <InstrumentationSettings formatVersion="1.0" toolName="C++Test">
+                        <IncludeHeaders enabled="true"/>
+                        <CoverageInstrumentation enabled="false"/>
+                        <AdvancedOptions/>
+                        <StubFuncWithEllipsis enabled="true"/>
+                        <GenerateMissingDefinitions enabled="true"/>
+                    </InstrumentationSettings>
+                    <ExportHarnessConfiguration formatVersion="1.0" toolName="C++Test">
+                        <CppCompilerPath>cl.exe</CppCompilerPath>
+                        <CCompilerPath>cl.exe</CCompilerPath>
+                        <LinkerPath>link.exe</LinkerPath>
+                        <PreprocessorFlags/>
+                        <IncludeOptions/>
+                        <CompilerOptions/>
+                        <Libraries/>
+                        <ExportHarnessEnabled enabled="false"/>
+                    </ExportHarnessConfiguration>
+                    <ExportHarnessCommunication formatVersion="1.0" toolName="C++Test">
+                        <CommunicationChannel>0</CommunicationChannel>
+                        <LogFile>results.tlog</LogFile>
+                        <CoverageLogFile>results.clog</CoverageLogFile>
+                        <HostAddress>127.0.0.1</HostAddress>
+                        <LogPort>2678</LogPort>
+                        <CoverageLogPort>2679</CoverageLogPort>
+                    </ExportHarnessCommunication>
+                </ProjectSettings>
+            </ProjectConfiguration>
+        </ProjectConfigurations>
+        <TestConfigurations formatVersion="1.0" toolName="C++Test"/>
+        <ActiveConfigurations formatVersion="1.0" toolName="C++Test">
+            <ActiveConfiguration formatVersion="1.0" identifier="ProjectConfig" toolName="C++Test">
+                <Name>project://vc++6.0</Name>
+            </ActiveConfiguration>
+            <ActiveConfiguration formatVersion="1.0" identifier="TestConfig" toolName="C++Test">
+                <Name>builtin://completeanalysis</Name>
+            </ActiveConfiguration>
+        </ActiveConfigurations>
+        <Suppressions formatVersion="1.0" toolName="C++Test"/>
+        <SourceCodeTestCases formatVersion="1.0" toolName="C++Test">
+            <TestExecutionTimeManager formatVersion="1.0" toolName="C++Test">
+                <LastExecutionTime>0</LastExecutionTime>
+            </TestExecutionTimeManager>
+            <TestGenerationTimeManager formatVersion="1.0" toolName="C++Test">
+                <LastGenerationTime>0</LastGenerationTime>
+            </TestGenerationTimeManager>
+        </SourceCodeTestCases>
+        <VCProjectData formatVersion="1.0" toolName="C++Test">
+            <ProjectFile>d:\projects\projects visual c++\applications\diplomski\nonlinsystems\nonlinsystems.dsw</ProjectFile>
+            <GHSProjectFile/>
+        </VCProjectData>
+    </Settings>
+</Project>

@@ -1,0 +1,105 @@
+
+
+Predmeti iz 1. semestra 
+
+266, FIZIKA I                            	 0.   0.      0.      4.  11.  30.      0.   0.   0.  
+343, LINEARNA ALGEBRA                    	 0.   0.      0.     17.  24.   0.      0.   0.   0.  
+344, MATEMATIÈKA ANALIZA I               	 0.   0.      0.     31.  14.  29.      0.   0.   0.  
+345, OSNOVE ELEKTROTEHNIKE I             	 0.   0.      0.      7.   9.  25.      0.   0.   0.  
+
+Predmeti iz 2. semestra 
+
+267, FIZIKA II                           	 0.   0.      0.     29.  25.   1.      0.   0.   0.  
+347, MATEMATIÈKA ANALIZA II              	 0.   0.      0.     10.  18.   7.      0.   0.   0.  
+349, PROGRAMIRANJE                       	 0.   0.      0.     24.   8.  16.      0.   0.   0.  
+348, OSNOVE ELEKTROTEHNIKE II            	 0.   0.      0.     15.  11.  31.      0.   0.   0.  
+350, INŽENJERSKA GRAFIKA I DOKUMENTIRANJ 	 0.   0.      0.     24.   8.   9.      0.   0.   0.  
+
+Predmeti iz 3. semestra 
+
+351, MATEMATIÈKA ANALIZA III             	 0.   0.      0.     11.  15.   1.      0.   0.   0.  
+355, ALGORITMI I STRUKTURE PODATAKA      	 0.   0.      0.     17.   8.  21.      0.   0.   0.  
+352, MJERENJA U ELEKTROTEHNICI           	 0.   0.      0.     24.  18.   8.      0.   0.   0.  
+438, ELEKTRONIKA I                       	 0.   0.      0.      9.  30.   8.      0.   0.   0.  
+353, ENERGETSKA ELEKTROTEHNIKA           	 0.   0.      0.     31.  15.   1.      0.   0.   0.  
+
+Predmeti iz 4. semestra 
+
+439, STOHASTIÈKA MATEMATIKA              	 0.   0.      0.      4.  14.  25.      0.   0.   0.  
+293, TEORIJA MREŽA I LINIJA              	 0.   0.      0.      3.  22.  30.      0.   0.   0.  
+361, OSNOVE DIGITALNIH RAÈUNALA          	 0.   0.      0.      2.  17.  28.      0.   0.   0.  
+442, ELEKTRONIKA II                      	 0.   0.      0.     24.  10.   0.      0.   0.   0.  
+360, DIGITALNA ELEKTRONIKA               	 0.   0.      0.      2.  11.   8.      0.   0.   0.  
+
+Predmeti iz 5. semestra 
+
+
+Predmeti iz 6. semestra 
+
+441, DISKRETNA MATEMATIKA                	 0.   0.      0.      4.  18.  29.      0.   0.   0.  
+
+Predmeti iz 7. semestra 
+
+
+Predmeti iz 8. semestra 
+
+429, NUMERIÈKA MATEMATIKA                	 0.   0.      0.      4.  18.  29.      0.   0.   0.  
+
+Predmeti iz 9. semestra 
+
+
+ Grupa predmeta broj   1
+
+266, FIZIKA I                            	 0.   0.      0.      4.  11.  30.      0.   0.   0.  
+267, FIZIKA II                           	 0.   0.      0.     29.  25.   1.      0.   0.   0.  
+
+ Grupa predmeta broj   2
+
+
+ Grupa predmeta broj   3
+
+343, LINEARNA ALGEBRA                    	 0.   0.      0.     17.  24.   0.      0.   0.   0.  
+344, MATEMATIÈKA ANALIZA I               	 0.   0.      0.     31.  14.  29.      0.   0.   0.  
+347, MATEMATIÈKA ANALIZA II              	 0.   0.      0.     10.  18.   7.      0.   0.   0.  
+351, MATEMATIÈKA ANALIZA III             	 0.   0.      0.     11.  15.   1.      0.   0.   0.  
+429, NUMERIÈKA MATEMATIKA                	 0.   0.      0.      4.  18.  29.      0.   0.   0.  
+439, STOHASTIÈKA MATEMATIKA              	 0.   0.      0.      4.  14.  25.      0.   0.   0.  
+441, DISKRETNA MATEMATIKA                	 0.   0.      0.      4.  18.  29.      0.   0.   0.  
+
+ Grupa predmeta broj   4
+
+349, PROGRAMIRANJE                       	 0.   0.      0.     24.   8.  16.      0.   0.   0.  
+355, ALGORITMI I STRUKTURE PODATAKA      	 0.   0.      0.     17.   8.  21.      0.   0.   0.  
+
+ Grupa predmeta broj   5
+
+345, OSNOVE ELEKTROTEHNIKE I             	 0.   0.      0.      7.   9.  25.      0.   0.   0.  
+348, OSNOVE ELEKTROTEHNIKE II            	 0.   0.      0.     15.  11.  31.      0.   0.   0.  
+
+ Grupa predmeta broj   6
+
+352, MJERENJA U ELEKTROTEHNICI           	 0.   0.      0.     24.  18.   8.      0.   0.   0.  
+
+ Grupa predmeta broj   7
+
+
+ Grupa predmeta broj   8
+
+
+ Grupa predmeta broj   9
+
+
+ Grupa predmeta broj   10
+
+350, INŽENJERSKA GRAFIKA I DOKUMENTIRANJ 	 0.   0.      0.     24.   8.   9.      0.   0.   0.  
+
+ Grupa predmeta broj   11
+
+
+ Grupa predmeta broj   12
+
+
+ Grupa predmeta broj   13
+
+
+ Gru

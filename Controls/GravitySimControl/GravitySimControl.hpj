@@ -1,0 +1,20 @@
+[OPTIONS]
+CONTENTS=main_index
+TITLE=GRAVITYSIMCONTROL Control Help
+COMPRESS=true
+WARNING=2
+HLP=GravitySimControl.hlp
+ERRORLOG=GravitySimControl.log
+
+[FILES]
+hlp\GravitySimControl.rtf
+
+[BITMAPS]
+; miscellaneous
+hlp\Bullet.bmp
+
+[ALIAS]
+HIDD_ABOUTBOX_GRAVITYSIMCTRL = HID_APP_ABOUT_GRAVITYSIMCTRL
+
+[MAP]
+#include <hlp\GravitySimControl.hm>

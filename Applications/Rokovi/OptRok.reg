@@ -1,0 +1,13 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+
+HKEY_CLASSES_ROOT\OptRok.Document = OptRok Document
+HKEY_CLASSES_ROOT\OptRok.Document\CLSID = {D6D86562-B35D-4E6A-8AD0-6ACEBEDCFA15}
+
+HKEY_CLASSES_ROOT\CLSID\{D6D86562-B35D-4E6A-8AD0-6ACEBEDCFA15} = OptRok Document
+HKEY_CLASSES_ROOT\CLSID\{D6D86562-B35D-4E6A-8AD0-6ACEBEDCFA15}\ProgId = OptRok.Document
+HKEY_CLASSES_ROOT\CLSID\{D6D86562-B35D-4E6A-8AD0-6ACEBEDCFA15}\LocalServer32 = OPTROK.EXE

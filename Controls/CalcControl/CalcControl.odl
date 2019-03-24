@@ -1,0 +1,70 @@
+// CalcControl.odl : type library source for ActiveX Control project.
+
+// This file will be processed by the Make Type Library (mktyplib) tool to
+// produce the type library (CalcControl.tlb) that will become a resource in
+// CalcControl.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(6C2653F7-F934-11D1-913A-00C0DFE52874), version(1.0),
+  helpfile("CalcControl.hlp"),
+  helpstring("CalcControl ActiveX Control module"),
+  control ]
+library CALCCONTROLLib
+{
+	importlib(STDOLE_TLB);
+	importlib(STDTYPE_TLB);
+
+	//  Primary dispatch interface for CCalcControlCtrl
+
+	[ uuid(6C2653F8-F934-11D1-913A-00C0DFE52874),
+	  helpstring("Dispatch interface for CalcControl Control"), hidden ]
+	dispinterface _DCalcControl
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CCalcControlCtrl)
+			//}}AFX_ODL_PROP
+
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CCalcControlCtrl)
+			[id(1)] double Calc(BSTR szLine);
+			//}}AFX_ODL_METHOD
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+	};
+
+	//  Event dispatch interface for CCalcControlCtrl
+
+	[ uuid(6C2653F9-F934-11D1-913A-00C0DFE52874),
+	  helpstring("Event interface for CalcControl Control") ]
+	dispinterface _DCalcControlEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+			// NOTE - ClassWizard will maintain event information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_EVENT(CCalcControlCtrl)
+			//}}AFX_ODL_EVENT
+	};
+
+	//  Class information for CCalcControlCtrl
+
+	[ uuid(6C2653FA-F934-11D1-913A-00C0DFE52874),
+	  helpstring("CalcControl Control"), control ]
+	coclass CalcControl
+	{
+		[default] dispinterface _DCalcControl;
+		[default, source] dispinterface _DCalcControlEvents;
+	};
+
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};
